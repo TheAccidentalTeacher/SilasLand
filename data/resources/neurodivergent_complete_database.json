@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "title": "Comprehensive Neurodivergent Resources Database",
+    "description": "Extensive collection of resources, tools, and support materials for neurodivergent individuals",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "focus": "Practical tools, crisis support, daily living, and community resources",
+    "disclaimer": "These resources are for informational purposes. Always consult healthcare professionals for medical advice."
+  },
+  "crisis_support": {
+    "immediate_help": {
+      "suicide_prevention": {
+        "us_hotline": "988 - Suicide & Crisis Lifeline",
+        "text_support": "Text HOME to 741741 - Crisis Text Line",
+        "international": "Visit findahelpline.com for country-specific resources",
+        "online_chat": "suicidepreventionlifeline.org/chat"
+      },
+      "mental_health_crisis": {
+        "emergency": "Call 911 or go to nearest emergency room",
+        "crisis_text": "Text HOME to 741741",
+        "warmlines": "Non-emergency emotional support lines",
+        "mobile_crisis": "Many areas have mobile crisis response teams"
+      },
+      "autism_specific": {
+        "meltdown_support": "Autism Society crisis resources",
+        "sensory_overload": "Immediate coping strategies and safe spaces",
+        "communication_cards": "Emergency communication tools for non-speaking individuals"
+      }
+    },
+    "safety_planning": {
+      "personal_safety_plan": {
+        "warning_signs": "Recognize early signs of crisis",
+        "coping_strategies": "Personal list of effective coping mechanisms",
+        "support_contacts": "Trusted friends, family, professionals",
+        "safe_environment": "Remove or secure harmful items",
+        "professional_contacts": "Therapist, psychiatrist, crisis services"
+      },
+      "sensory_safety": {
+        "sensory_kit": "Portable items for sensory regulation",
+        "safe_spaces": "Identify quiet, low-stimulation environments",
+        "communication_tools": "AAC devices, communication cards",
+        "exit_strategies": "Plans for leaving overwhelming situations"
+      }
+    }
+  },
+  "adhd_resources": {
+    "executive_function": {
+      "time_management": {
+        "tools": ["Pomodoro Technique", "Time blocking", "Visual schedules", "Timers and alarms"],
+        "apps": ["Forest", "Todoist", "Google Calendar", "RescueTime"],
+        "strategies": [
+          "Break large tasks into smaller steps",
+          "Use visual reminders and cues",
+          "Create consistent routines",
+          "Build in buffer time for transitions"
+        ],
+        "accommodations": [
+          "Extended time for tasks",
+          "Flexible deadlines",
+          "Regular check-ins",
+          "Written instructions"
+        ]
+      },
+      "organization": {
+        "physical_spaces": [
+          "Use clear containers and labels",
+          "Designate specific places for important items",
+          "Minimize clutter and distractions",
+          "Create visual organization systems"
+        ],
+        "digital_organization": [
+          "Use cloud storage with clear folder structures",
+          "Implement consistent naming conventions",
+          "Set up automatic backups",
+          "Use bookmark organization systems"
+        ],
+        "paper_management": [
+          "Immediate filing system",
+          "Scan important documents",
+          "Use color-coding systems",
+          "Regular purging schedules"
+        ]
+      },
+      "attention_regulation": {
+        "focus_strategies": [
+          "Remove distractions from environment",
+          "Use noise-canceling headphones",
+          "Try body doubling (working alongside others)",
+          "Use fidget tools appropriately"
+        ],
+        "hyperfocus_management": [
+          "Set timers for breaks",
+          "Schedule meals and hydration",
+          "Use transition warnings",
+          "Plan hyperfocus sessions strategically"
+        ],
+        "attention_switching": [
+          "Use transition rituals",
+          "Create clear stopping points",
+          "Use external cues for task switching",
+          "Practice mindful transitions"
+        ]
+      }
+    },
+    "emotional_regulation": {
+      "rejection_sensitive_dysphoria": {
+        "recognition": "Intense emotional pain from perceived rejection or criticism",
+        "coping_strategies": [
+          "Pause before reacting to perceived criticism",
+          "Seek clarification when unsure of others' intentions",
+          "Practice self-compassion techniques",
+          "Use grounding exercises during intense emotions"
+        ],
+        "support_strategies": [
+          "Build supportive relationships",
+          "Communicate needs clearly",
+          "Seek therapy specializing in ADHD",
+          "Consider medication consultation"
+        ]
+      },
+      "emotional_intensity": {
+        "validation": "ADHD emotions are often more intense than neurotypical experiences",
+        "regulation_techniques": [
+          "Deep breathing exercises",
+          "Progressive muscle relaxation",
+          "Mindfulness meditation",
+          "Physical exercise for emotional release"
+        ],
+        "communication": [
+          "Use 'I' statements",
+          "Take breaks during difficult conversations",
+          "Write out thoughts before speaking",
+          "Ask for processing time"
+        ]
+      }
+    },
+    "daily_living": {
+      "morning_routines": {
+        "preparation": [
+          "Lay out clothes the night before",
+          "Prepare breakfast items in advance",
+          "Set multiple alarms with different tones",
+          "Use visual checklists"
+        ],
+        "execution": [
+          "Keep routines consistent",
+          "Use timers for each activity",
+          "Build in extra time",
+          "Have backup plans ready"
+        ]
+      },
+      "work_strategies": {
+        "productivity": [
+          "Use task batching",
+          "Implement the two-minute rule",
+          "Create accountability systems",
+          "Use body doubling or coworking"
+        ],
+        "workplace_accommodations": [
+          "Flexible work hours",
+          "Quiet workspace or noise-canceling headphones",
+          "Written instructions and deadlines",
+          "Regular check-ins with supervisors"
+        ]
+      }
+    }
+  },
+  "autism_resources": {
+    "sensory_processing": {
+      "sensory_profile": {
+        "assessment": "Identify personal sensory preferences and sensitivities",
+        "categories": ["Visual", "Auditory", "Tactile", "Proprioceptive", "Vestibular", "Gustatory", "Olfactory"],
+        "tracking": "Keep sensory diary to identify patterns and triggers"
+      },
+      "sensory_tools": {
+        "calming": [
+          "Weighted blankets or lap pads",
+          "Noise-canceling headphones",
+          "Fidget toys and stress balls",
+          "Essential oils or calming scents"
+        ],
+        "alerting": [
+          "Textured surfaces",
+          "Crunchy or chewy snacks",
+          "Bright lights or colors",
+          "Upbeat music"
+        ],
+        "organizing": [
+          "Deep pressure activities",
+          "Heavy work exercises",
+          "Proprioceptive input",
+          "Structured movement breaks"
+        ]
+      },
+      "environmental_modifications": {
+        "lighting": [
+          "Use natural light when possible",
+          "Avoid fluorescent lighting",
+          "Use lamps instead of overhead lights",
+          "Consider colored filters"
+        ],
+        "sound": [
+          "Identify and minimize trigger sounds",
+          "Use white noise or nature sounds",
+          "Create quiet spaces",
+          "Use sound-absorbing materials"
+        ],
+        "visual": [
+          "Reduce visual clutter",
+          "Use calming colors",
+          "Organize spaces clearly",
+          "Provide visual schedules and supports"
+        ]
+      }
+    },
+    "communication": {
+      "social_communication": {
+        "nonverbal_communication": [
+          "Practice reading facial expressions",
+          "Learn about personal space boundaries",
+          "Understand tone of voice variations",
+          "Recognize body language cues"
+        ],
+        "conversation_skills": [
+          "Practice turn-taking in conversations",
+          "Learn about topic maintenance and shifting",
+          "Understand social scripts for common situations",
+          "Practice active listening techniques"
+        ],
+        "social_stories": [
+          "Create personalized social stories for challenging situations",
+          "Use visual supports to understand social expectations",
+          "Practice social scenarios in safe environments",
+          "Develop scripts for common social interactions"
+        ]
+      },
+      "alternative_communication": {
+        "aac_options": [
+          "Picture Exchange Communication System (PECS)",
+          "Speech-generating devices",
+          "Communication apps (Proloquo2Go, TouchChat)",
+          "Sign language or gesture systems"
+        ],
+        "low_tech_options": [
+          "Communication boards",
+          "Picture cards",
+          "Written communication",
+          "Gesture and pointing systems"
+        ],
+        "high_tech_options": [
+          "Tablet-based AAC apps",
+          "Dedicated communication devices",
+          "Voice output software",
+          "Eye-gaze communication systems"
+        ]
+      }
+    },
+    "executive_function": {
+      "planning_organization": {
+        "visual_supports": [
+          "Visual schedules and calendars",
+          "Task lists with pictures",
+          "Color-coding systems",
+          "Mind mapping techniques"
+        ],
+        "routine_structure": [
+          "Consistent daily routines",
+          "Clear beginning and ending points",
+          "Transition warnings and supports",
+          "Flexibility within structure"
+        ],
+        "time_management": [
+          "Visual timers and clocks",
+          "Time estimation practice",
+          "Schedule buffers for transitions",
+          "Break tasks into smaller steps"
+        ]
+      },
+      "flexibility_adaptation": {
+        "change_preparation": [
+          "Advance notice of changes",
+          "Visual supports for new situations",
+          "Practice new routines",
+          "Identify what will stay the same"
+        ],
+        "coping_strategies": [
+          "Deep breathing techniques",
+          "Self-regulation tools",
+          "Safe spaces for processing",
+          "Support person availability"
+        ]
+      }
+    }
+  },
+  "anxiety_depression": {
+    "anxiety_management": {
+      "cognitive_strategies": {
+        "thought_challenging": [
+          "Identify catastrophic thinking patterns",
+          "Practice realistic thinking",
+          "Use evidence-based reasoning",
+          "Develop balanced perspectives"
+        ],
+        "mindfulness": [
+          "Present-moment awareness exercises",
+          "Body scan meditations",
+          "Breathing techniques",
+          "Mindful movement practices"
+        ],
+        "grounding_techniques": [
+          "5-4-3-2-1 sensory grounding",
+          "Progressive muscle relaxation",
+          "Visualization exercises",
+          "Physical grounding activities"
+        ]
+      },
+      "behavioral_strategies": {
+        "exposure_therapy": [
+          "Gradual exposure to feared situations",
+          "Start with least anxiety-provoking scenarios",
+          "Build confidence through success",
+          "Use support systems during exposure"
+        ],
+        "activity_scheduling": [
+          "Plan pleasant activities daily",
+          "Balance challenging and enjoyable tasks",
+          "Include social connections",
+          "Schedule self-care activities"
+        ],
+        "sleep_hygiene": [
+          "Consistent sleep schedule",
+          "Relaxing bedtime routine",
+          "Comfortable sleep environment",
+          "Limit screens before bed"
+        ]
+      }
+    },
+    "depression_support": {
+      "behavioral_activation": {
+        "activity_monitoring": [
+          "Track daily activities and mood",
+          "Identify patterns and triggers",
+          "Notice activity-mood connections",
+          "Plan mood-boosting activities"
+        ],
+        "goal_setting": [
+          "Start with small, achievable goals",
+          "Break large goals into steps",
+          "Celebrate small victories",
+          "Adjust goals as needed"
+        ],
+        "social_connection": [
+          "Maintain relationships despite low mood",
+          "Reach out for support when needed",
+          "Participate in group activities",
+          "Consider peer support groups"
+        ]
+      },
+      "self_care": {
+        "physical_care": [
+          "Regular exercise or movement",
+          "Nutritious eating habits",
+          "Adequate sleep",
+          "Medical care and medication compliance"
+        ],
+        "emotional_care": [
+          "Practice self-compassion",
+          "Engage in enjoyable activities",
+          "Express emotions through art or writing",
+          "Use relaxation techniques"
+        ],
+        "spiritual_care": [
+          "Connect with nature",
+          "Practice gratitude",
+          "Engage in meaningful activities",
+          "Explore personal values and purpose"
+        ]
+      }
+    }
+  },
+  "life_skills": {
+    "independent_living": {
+      "household_management": {
+        "cleaning_routines": [
+          "Create daily, weekly, and monthly cleaning schedules",
+          "Use visual checklists and timers",
+          "Break tasks into manageable steps",
+          "Establish consistent routines"
+        ],
+        "meal_planning": [
+          "Plan meals weekly",
+          "Create shopping lists",
+          "Prep ingredients in advance",
+          "Learn basic cooking skills"
+        ],
+        "financial_management": [
+          "Create and follow a budget",
+          "Track expenses",
+          "Set up automatic bill payments",
+          "Build emergency savings"
+        ]
+      },
+      "personal_care": {
+        "hygiene_routines": [
+          "Create visual schedules for personal care",
+          "Use timers for activities like tooth brushing",
+          "Find sensory-friendly products",
+          "Establish consistent routines"
+        ],
+        "health_management": [
+          "Keep track of medical appointments",
+          "Maintain medication schedules",
+          "Monitor symptoms and side effects",
+          "Communicate effectively with healthcare providers"
+        ]
+      }
+    },
+    "employment_support": {
+      "job_searching": {
+        "resume_building": [
+          "Highlight strengths and accommodations needed",
+          "Use clear, concise language",
+          "Include relevant skills and experiences",
+          "Consider disclosure decisions carefully"
+        ],
+        "interview_preparation": [
+          "Practice common interview questions",
+          "Prepare questions about accommodations",
+          "Research company culture",
+          "Plan logistics (transportation, timing)"
+        ]
+      },
+      "workplace_success": {
+        "accommodation_requests": [
+          "Identify specific needs",
+          "Research available accommodations",
+          "Communicate with HR or supervisors",
+          "Document accommodation agreements"
+        ],
+        "social_navigation": [
+          "Understand workplace culture",
+          "Build positive relationships with colleagues",
+          "Communicate needs clearly",
+          "Seek mentorship opportunities"
+        ]
+      }
+    }
+  },
+  "therapeutic_approaches": {
+    "evidence_based_therapies": {
+      "cognitive_behavioral_therapy": {
+        "description": "Focuses on changing negative thought patterns and behaviors",
+        "best_for": ["Anxiety", "Depression", "OCD", "Social skills"],
+        "techniques": ["Thought records", "Behavioral experiments", "Exposure therapy", "Problem-solving"]
+      },
+      "dialectical_behavior_therapy": {
+        "description": "Teaches emotional regulation and distress tolerance skills",
+        "best_for": ["Emotional dysregulation", "Self-harm", "Interpersonal difficulties"],
+        "skills": ["Mindfulness", "Distress tolerance", "Emotion regulation", "Interpersonal effectiveness"]
+      },
+      "acceptance_commitment_therapy": {
+        "description": "Focuses on accepting difficult thoughts and feelings while committing to valued actions",
+        "best_for": ["Anxiety", "Depression", "Chronic pain", "Life transitions"],
+        "principles": ["Psychological flexibility", "Values-based living", "Mindfulness", "Acceptance"]
+      }
+    },
+    "neurodivergent_specific": {
+      "autism_specific_therapy": [
+        "Applied Behavior Analysis (ABA) - controversial, research thoroughly",
+        "TEACCH (Treatment and Education of Autistic and Communication Handicapped Children)",
+        "Social skills training",
+        "Sensory integration therapy"
+      ],
+      "adhd_specific_therapy": [
+        "ADHD coaching",
+        "Executive function training",
+        "Mindfulness-based interventions",
+        "Family therapy for ADHD"
+      ]
+    }
+  },
+  "community_resources": {
+    "online_communities": {
+      "general_neurodivergent": [
+        "r/neurodiversity - Reddit community",
+        "Neurodivergent Rebel - Blog and community",
+        "ASAN (Autistic Self Advocacy Network)",
+        "CHADD (Children and Adults with ADHD)"
+      ],
+      "autism_specific": [
+        "r/autism - Reddit community",
+        "Wrong Planet - Online community",
+        "Autism Women's Network",
+        "Autistic Not Weird - Blog and community"
+      ],
+      "adhd_specific": [
+        "r/ADHD - Reddit community",
+        "ADDitude Magazine community",
+        "ADHD Online community",
+        "How to ADHD - YouTube and community"
+      ]
+    },
+    "local_resources": {
+      "finding_services": [
+        "Contact local disability services",
+        "Check with community mental health centers",
+        "Reach out to autism/ADHD organizations",
+        "Ask healthcare providers for referrals"
+      ],
+      "support_groups": [
+        "NAMI (National Alliance on Mental Illness) support groups",
+        "Local autism/ADHD support groups",
+        "Parent support groups",
+        "Online support group directories"
+      ]
+    }
+  },
+  "accessibility_tools": {
+    "assistive_technology": {
+      "communication": [
+        "AAC apps and devices",
+        "Text-to-speech software",
+        "Voice recognition software",
+        "Communication boards and cards"
+      ],
+      "organization": [
+        "Calendar and reminder apps",
+        "Task management software",
+        "Note-taking apps",
+        "Time management tools"
+      ],
+      "sensory": [
+        "Noise-canceling headphones",
+        "Sensory toys and tools",
+        "Weighted products",
+        "Lighting modifications"
+      ]
+    },
+    "environmental_modifications": {
+      "home": [
+        "Sensory-friendly lighting",
+        "Noise reduction strategies",
+        "Organization systems",
+        "Safe spaces for regulation"
+      ],
+      "work_school": [
+        "Quiet workspaces",
+        "Flexible seating options",
+        "Visual supports and schedules",
+        "Break areas and sensory tools"
+      ]
+    }
+  }
+}

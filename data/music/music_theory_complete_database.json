@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "title": "Complete Music Theory Database",
+    "description": "Comprehensive music theory resource covering fundamentals to advanced concepts",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "focus": "Accessibility, neurodivergent-friendly learning, practical application"
+  },
+  "fundamentals": {
+    "basic_elements": {
+      "pitch": {
+        "definition": "The highness or lowness of a sound",
+        "measurement": "Measured in Hertz (Hz) - vibrations per second",
+        "musical_names": ["A", "A#/Bb", "B", "C", "C#/Db", "D", "D#/Eb", "E", "F", "F#/Gb", "G", "G#/Ab"],
+        "octaves": "Pitches repeat every 12 semitones",
+        "neurodivergent_learning": {
+          "visual": "Use piano keyboard diagrams and color coding",
+          "kinesthetic": "Physical movement up and down for pitch direction",
+          "systematic": "Mathematical relationships between frequencies"
+        }
+      },
+      "rhythm": {
+        "definition": "The organization of time in music",
+        "note_values": {
+          "whole_note": "4 beats",
+          "half_note": "2 beats",
+          "quarter_note": "1 beat",
+          "eighth_note": "1/2 beat",
+          "sixteenth_note": "1/4 beat"
+        },
+        "time_signatures": {
+          "4/4": "Four quarter-note beats per measure (most common)",
+          "3/4": "Three quarter-note beats per measure (waltz time)",
+          "2/4": "Two quarter-note beats per measure (march time)",
+          "6/8": "Six eighth-note beats per measure (compound time)"
+        },
+        "learning_strategies": {
+          "adhd": "Use metronome and physical movement",
+          "autism": "Visual rhythm patterns and systematic counting",
+          "kinesthetic": "Clapping, tapping, and body percussion"
+        }
+      },
+      "dynamics": {
+        "definition": "The volume or intensity of sound",
+        "markings": {
+          "pp": "pianissimo - very soft",
+          "p": "piano - soft",
+          "mp": "mezzo-piano - moderately soft",
+          "mf": "mezzo-forte - moderately loud",
+          "f": "forte - loud",
+          "ff": "fortissimo - very loud"
+        },
+        "expression": "Dynamics create emotional impact and musical interest"
+      }
+    },
+    "scales_modes": {
+      "major_scale": {
+        "pattern": "Whole-Whole-Half-Whole-Whole-Whole-Half",
+        "c_major": ["C", "D", "E", "F", "G", "A", "B", "C"],
+        "characteristics": "Bright, happy, stable sound",
+        "scale_degrees": {
+          "1": "Tonic (Do)",
+          "2": "Supertonic (Re)",
+          "3": "Mediant (Mi)",
+          "4": "Subdominant (Fa)",
+          "5": "Dominant (Sol)",
+          "6": "Submediant (La)",
+          "7": "Leading Tone (Ti)",
+          "8": "Octave (Do)"
+        }
+      },
+      "natural_minor": {
+        "pattern": "Whole-Half-Whole-Whole-Half-Whole-Whole",
+        "a_minor": ["A", "B", "C", "D", "E", "F", "G", "A"],
+        "characteristics": "Darker, sadder, more mysterious sound",
+        "relative_major": "Shares same notes as major scale starting on 6th degree"
+      },
+      "modes": {
+        "ionian": "Major scale (1st mode)",
+        "dorian": "Minor with raised 6th degree",
+        "phrygian": "Minor with lowered 2nd degree",
+        "lydian": "Major with raised 4th degree",
+        "mixolydian": "Major with lowered 7th degree",
+        "aeolian": "Natural minor (6th mode)",
+        "locrian": "Diminished scale (7th mode)"
+      }
+    }
+  },
+  "harmony": {
+    "intervals": {
+      "definition": "Distance between two pitches",
+      "types": {
+        "unison": "0 semitones - same pitch",
+        "minor_2nd": "1 semitone - very dissonant",
+        "major_2nd": "2 semitones - mildly dissonant",
+        "minor_3rd": "3 semitones - consonant, sad",
+        "major_3rd": "4 semitones - consonant, happy",
+        "perfect_4th": "5 semitones - stable",
+        "tritone": "6 semitones - very dissonant",
+        "perfect_5th": "7 semitones - very stable",
+        "minor_6th": "8 semitones - consonant",
+        "major_6th": "9 semitones - consonant",
+        "minor_7th": "10 semitones - dissonant",
+        "major_7th": "11 semitones - very dissonant",
+        "octave": "12 semitones - perfect consonance"
+      },
+      "quality_recognition": {
+        "perfect": "Unison, 4th, 5th, octave",
+        "major_minor": "2nd, 3rd, 6th, 7th",
+        "consonant": "3rd, 6th, perfect intervals",
+        "dissonant": "2nd, 7th, tritone"
+      }
+    },
+    "chords": {
+      "triads": {
+        "major": "Root, major 3rd, perfect 5th (happy sound)",
+        "minor": "Root, minor 3rd, perfect 5th (sad sound)",
+        "diminished": "Root, minor 3rd, diminished 5th (tense sound)",
+        "augmented": "Root, major 3rd, augmented 5th (mysterious sound)"
+      },
+      "seventh_chords": {
+        "major_7": "Major triad + major 7th (jazzy, sophisticated)",
+        "minor_7": "Minor triad + minor 7th (smooth, mellow)",
+        "dominant_7": "Major triad + minor 7th (bluesy, wants to resolve)",
+        "diminished_7": "Diminished triad + diminished 7th (very tense)"
+      },
+      "chord_progressions": {
+        "I_V_vi_IV": "Most common pop progression (C-G-Am-F)",
+        "ii_V_I": "Essential jazz progression",
+        "I_vi_ii_V": "Circle of fifths progression",
+        "vi_IV_I_V": "Alternative pop progression"
+      }
+    },
+    "voice_leading": {
+      "definition": "How individual voices move from chord to chord",
+      "principles": {
+        "smooth_voice_leading": "Move voices by smallest possible intervals",
+        "contrary_motion": "Voices move in opposite directions",
+        "parallel_motion": "Voices move in same direction",
+        "oblique_motion": "One voice stays, other moves"
+      }
+    }
+  },
+  "form_analysis": {
+    "song_forms": {
+      "binary": "AB form - two contrasting sections",
+      "ternary": "ABA form - statement, contrast, return",
+      "rondo": "ABACA form - recurring main theme",
+      "theme_variations": "Theme followed by modified versions"
+    },
+    "popular_song_forms": {
+      "verse_chorus": "Alternating verse and chorus sections",
+      "aaba": "32-bar song form (Tin Pan Alley standard)",
+      "blues": "12-bar blues progression pattern",
+      "ballad": "ABAB or ABCB lyrical form"
+    },
+    "classical_forms": {
+      "sonata": "Exposition, development, recapitulation",
+      "fugue": "Contrapuntal form with subject and episodes",
+      "theme_variations": "Theme with systematic modifications",
+      "rondo": "Recurring main theme with contrasting episodes"
+    }
+  },
+  "composition_techniques": {
+    "melody_writing": {
+      "contour": {
+        "ascending": "Generally creates excitement and energy",
+        "descending": "Often creates relaxation or sadness",
+        "arch": "Rise to climax then fall - very satisfying",
+        "wave": "Undulating motion creates flow"
+      },
+      "motivic_development": {
+        "repetition": "Exact restatement for unity",
+        "sequence": "Repetition at different pitch levels",
+        "inversion": "Upside-down version of melody",
+        "retrograde": "Backwards version of melody",
+        "augmentation": "Longer note values",
+        "diminution": "Shorter note values"
+      },
+      "phrase_structure": {
+        "antecedent": "Question phrase (usually ends on dominant)",
+        "consequent": "Answer phrase (usually ends on tonic)",
+        "period": "Antecedent + consequent phrase pair",
+        "sentence": "Basic idea + repetition + continuation"
+      }
+    },
+    "harmonic_rhythm": {
+      "definition": "Rate at which chords change",
+      "fast_harmonic_rhythm": "Chords change frequently - creates energy",
+      "slow_harmonic_rhythm": "Chords change infrequently - creates stability",
+      "acceleration": "Harmonic rhythm speeds up - builds tension",
+      "deceleration": "Harmonic rhythm slows down - creates resolution"
+    }
+  },
+  "genre_specific": {
+    "classical_periods": {
+      "baroque": {
+        "years": "1600-1750",
+        "characteristics": ["Counterpoint", "Ornamentation", "Terraced dynamics", "Basso continuo"],
+        "composers": ["Bach", "Handel", "Vivaldi", "Scarlatti"],
+        "forms": ["Fugue", "Suite", "Concerto grosso", "Binary form"]
+      },
+      "classical": {
+        "years": "1750-1820",
+        "characteristics": ["Homophony", "Clear phrases", "Dynamic contrast", "Formal balance"],
+        "composers": ["Mozart", "Haydn", "Early Beethoven"],
+        "forms": ["Sonata form", "Symphony", "String quartet", "Opera"]
+      },
+      "romantic": {
+        "years": "1820-1900",
+        "characteristics": ["Emotional expression", "Program music", "Expanded harmony", "Virtuosity"],
+        "composers": ["Chopin", "Liszt", "Wagner", "Brahms"],
+        "forms": ["Character pieces", "Symphonic poem", "Art song", "Music drama"]
+      }
+    },
+    "jazz_theory": {
+      "chord_symbols": {
+        "C": "C major triad",
+        "Cm": "C minor triad",
+        "C7": "C dominant 7th",
+        "Cmaj7": "C major 7th",
+        "Cm7": "C minor 7th",
+        "C°7": "C diminished 7th"
+      },
+      "scales": {
+        "blues_scale": "Minor pentatonic + blue note (b5)",
+        "bebop_scale": "Major scale + chromatic passing tone",
+        "dorian_mode": "Natural minor with raised 6th",
+        "mixolydian_mode": "Major scale with lowered 7th"
+      },
+      "improvisation": {
+        "chord_tones": "Use notes from the underlying chord",
+        "approach_notes": "Lead into chord tones chromatically",
+        "scale_choices": "Match scales to chord qualities",
+        "rhythmic_displacement": "Play phrases off the beat"
+      }
+    },
+    "popular_music": {
+      "chord_progressions": {
+        "pop_punk": "vi-IV-I-V (Am-F-C-G)",
+        "folk": "I-V-vi-IV (C-G-Am-F)",
+        "blues": "I-I-I-I-IV-IV-I-I-V-IV-I-I",
+        "rock": "I-bVII-IV-I (C-Bb-F-C)"
+      },
+      "song_structure": {
+        "intro": "Sets mood and key",
+        "verse": "Tells story, lower energy",
+        "pre_chorus": "Builds to chorus",
+        "chorus": "Main hook, highest energy",
+        "bridge": "Contrasting section",
+        "outro": "Concludes song"
+      }
+    }
+  },
+  "learning_strategies": {
+    "neurodivergent_approaches": {
+      "adhd": {
+        "short_sessions": "15-20 minute focused practice sessions",
+        "movement": "Incorporate physical movement and rhythm",
+        "variety": "Switch between different concepts frequently",
+        "gamification": "Use apps and games for theory practice",
+        "immediate_feedback": "Use technology for instant correction"
+      },
+      "autism": {
+        "systematic_approach": "Learn concepts in logical, sequential order",
+        "visual_supports": "Use charts, diagrams, and color coding",
+        "pattern_recognition": "Focus on mathematical relationships",
+        "special_interests": "Connect theory to preferred musical styles",
+        "routine": "Consistent practice schedule and methods"
+      },
+      "anxiety": {
+        "low_pressure": "Emphasize exploration over perfection",
+        "familiar_music": "Start with songs you already know",
+        "gradual_progression": "Build complexity slowly",
+        "supportive_environment": "Practice in comfortable, private space"
+      }
+    },
+    "multi_sensory_learning": {
+      "visual": [
+        "Staff notation and chord charts",
+        "Piano keyboard diagrams",
+        "Circle of fifths visualization",
+        "Color-coded interval patterns"
+      ],
+      "auditory": [
+        "Interval recognition exercises",
+        "Chord progression listening",
+        "Scale and mode comparison",
+        "Rhythmic pattern practice"
+      ],
+      "kinesthetic": [
+        "Playing instruments while learning",
+        "Conducting and body movement",
+        "Building chords with manipulatives",
+        "Walking bass lines and scales"
+      ]
+    }
+  },
+  "practice_resources": {
+    "apps_software": {
+      "theory": [
+        "Teoria - comprehensive theory trainer",
+        "Music Theory Helper - interval and chord practice",
+        "Tenuto - customizable theory drills",
+        "Perfect Ear - ear training and theory"
+      ],
+      "ear_training": [
+        "EarMaster - comprehensive ear training",
+        "Functional Ear Trainer - relative pitch",
+        "Good Ear - interval and chord recognition",
+        "Theta Music Trainer - gamified training"
+      ],
+      "composition": [
+        "MuseScore - free notation software",
+        "Noteflight - web-based notation",
+        "GarageBand - accessible DAW",
+        "Soundtrap - collaborative music making"
+      ]
+    },
+    "books_resources": {
+      "beginner": [
+        "Tonal Harmony by Kostka & Payne",
+        "The Complete Idiot's Guide to Music Theory",
+        "Harmony and Voice Leading by Edward Aldwell",
+        "The Jazz Theory Book by Mark Levine"
+      ],
+      "intermediate": [
+        "Counterpoint in Composition by Felix Salzer",
+        "Techniques of the Contemporary Composer by David Cope",
+        "The Study of Orchestration by Samuel Adler",
+        "Jazz Composition by Ted Pease"
+      ]
+    },
+    "online_courses": {
+      "free": [
+        "Coursera - Introduction to Classical Music",
+        "edX - Introduction to Music Theory",
+        "YouTube - Music Theory Guy channel",
+        "Khan Academy - Intro to Music"
+      ],
+      "paid": [
+        "Berklee Online - Music Theory courses",
+        "MasterClass - Various composer classes",
+        "Udemy - Complete Music Theory courses",
+        "Skillshare - Music production and theory"
+      ]
+    }
+  },
+  "assessment_tools": {
+    "self_assessment": {
+      "theory_knowledge": [
+        "Can identify all major and minor scales",
+        "Recognize intervals by sight and sound",
+        "Understand chord progressions and functions",
+        "Analyze simple musical forms"
+      ],
+      "practical_skills": [
+        "Play scales and chords on instrument",
+        "Harmonize simple melodies",
+        "Compose short musical phrases",
+        "Transcribe simple melodies by ear"
+      ]
+    },
+    "progress_tracking": {
+      "daily_practice": "Log theory concepts studied",
+      "weekly_goals": "Set specific learning objectives",
+      "monthly_review": "Assess overall progress and adjust goals",
+      "skill_milestones": "Celebrate achievements and breakthroughs"
+    }
+  }
+}

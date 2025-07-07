@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "title": "Science and Learning Resources Database",
+    "description": "Comprehensive science education resources with accessibility and neurodivergent-friendly approaches",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "focus": "Accessible science education, hands-on learning, special interests support"
+  },
+  "physics": {
+    "classical_mechanics": {
+      "fundamental_concepts": {
+        "motion": {
+          "definition": "Change in position over time",
+          "types": ["Linear motion", "Rotational motion", "Oscillatory motion", "Circular motion"],
+          "real_world_examples": [
+            "Walking (linear motion)",
+            "Spinning top (rotational motion)",
+            "Pendulum (oscillatory motion)",
+            "Ferris wheel (circular motion)"
+          ],
+          "neurodivergent_learning": {
+            "visual_learners": "Use motion graphs and animations",
+            "kinesthetic_learners": "Physical demonstrations and experiments",
+            "systematic_thinkers": "Mathematical relationships and equations",
+            "special_interests": "Connect to vehicles, sports, or gaming physics"
+          }
+        },
+        "forces": {
+          "definition": "Push or pull that can change motion",
+          "types": ["Contact forces", "Non-contact forces", "Balanced forces", "Unbalanced forces"],
+          "newton_laws": {
+            "first_law": "Object at rest stays at rest, object in motion stays in motion (inertia)",
+            "second_law": "Force equals mass times acceleration (F = ma)",
+            "third_law": "For every action, there is an equal and opposite reaction"
+          },
+          "everyday_applications": [
+            "Walking (friction and normal force)",
+            "Driving (engine force vs. friction)",
+            "Flying (lift vs. gravity)",
+            "Swimming (thrust vs. drag)"
+          ],
+          "hands_on_activities": {
+            "adhd_friendly": "Quick experiments with immediate results",
+            "autism_friendly": "Systematic measurement and data collection",
+            "sensory_considerations": "Safe materials and clear procedures",
+            "motor_accommodations": "Adapted tools and assistance as needed"
+          }
+        },
+        "energy": {
+          "definition": "Ability to do work or cause change",
+          "types": {
+            "kinetic_energy": "Energy of motion (KE = ½mv²)",
+            "potential_energy": "Stored energy due to position",
+            "thermal_energy": "Energy from random molecular motion",
+            "chemical_energy": "Energy stored in chemical bonds",
+            "electrical_energy": "Energy from moving electric charges",
+            "nuclear_energy": "Energy from atomic nucleus changes"
+          },
+          "conservation_principle": "Energy cannot be created or destroyed, only transformed",
+          "practical_examples": {
+            "roller_coaster": "Potential energy converts to kinetic energy",
+            "battery": "Chemical energy converts to electrical energy",
+            "photosynthesis": "Light energy converts to chemical energy",
+            "hydroelectric": "Gravitational potential energy converts to electrical energy"
+          },
+          "accessibility_features": {
+            "visual_demonstrations": "Energy transformation animations and simulations",
+            "tactile_experiences": "Feeling temperature changes and vibrations",
+            "mathematical_patterns": "Energy equations and calculations",
+            "real_world_connections": "Energy use in daily life and technology"
+          }
+        }
+      },
+      "experimental_approaches": {
+        "measurement_tools": {
+          "basic_instruments": ["Rulers", "Stopwatches", "Scales", "Thermometers"],
+          "digital_tools": ["Motion sensors", "Force probes", "Data loggers", "Smartphone apps"],
+          "accessibility_adaptations": [
+            "Large-display instruments for visual impairments",
+            "Audio feedback devices for measurements",
+            "Simplified interfaces for cognitive accessibility",
+            "Collaborative measurement for motor limitations"
+          ]
+        },
+        "data_analysis": {
+          "graphing_skills": "Creating and interpreting motion graphs",
+          "pattern_recognition": "Identifying relationships in data",
+          "error_analysis": "Understanding measurement uncertainty",
+          "mathematical_modeling": "Using equations to describe phenomena"
+        },
+        "neurodivergent_accommodations": {
+          "adhd": "Short experiments with clear objectives",
+          "autism": "Detailed procedures and predictable outcomes",
+          "anxiety": "Safe environments and clear safety protocols",
+          "processing_differences": "Multiple ways to record and analyze data"
+        }
+      }
+    },
+    "modern_physics": {
+      "quantum_mechanics": {
+        "key_concepts": {
+          "wave_particle_duality": "Light and matter exhibit both wave and particle properties",
+          "uncertainty_principle": "Cannot simultaneously know exact position and momentum",
+          "superposition": "Quantum systems can exist in multiple states simultaneously",
+          "entanglement": "Quantum particles can be correlated across vast distances"
+        },
+        "thought_experiments": {
+          "double_slit": "Demonstrates wave-particle duality of electrons",
+          "schrodinger_cat": "Illustrates quantum superposition paradox",
+          "epr_paradox": "Questions about quantum entanglement and locality"
+        },
+        "real_world_applications": {
+          "technology": ["Lasers", "MRI machines", "Computer processors", "LED lights"],
+          "emerging_tech": ["Quantum computers", "Quantum cryptography", "Quantum sensors"]
+        },
+        "accessibility_approaches": {
+          "visual_analogies": "Using everyday objects to explain quantum concepts",
+          "interactive_simulations": "Computer models of quantum phenomena",
+          "mathematical_beauty": "Elegant equations and symmetries",
+          "philosophical_connections": "Links to consciousness and reality questions"
+        }
+      },
+      "relativity": {
+        "special_relativity": {
+          "postulates": [
+            "Laws of physics are same in all inertial reference frames",
+            "Speed of light is constant for all observers"
+          ],
+          "consequences": [
+            "Time dilation - time slows at high speeds",
+            "Length contraction - objects shorten in direction of motion",
+            "Mass-energy equivalence - E = mc²"
+          ],
+          "everyday_effects": [
+            "GPS satellites must account for time dilation",
+            "Particle accelerators demonstrate mass increase",
+            "Nuclear reactions release energy via E = mc²"
+          ]
+        },
+        "general_relativity": {
+          "key_insight": "Gravity is curvature of spacetime",
+          "predictions": [
+            "Gravitational time dilation",
+            "Gravitational lensing",
+            "Black holes",
+            "Gravitational waves"
+          ],
+          "experimental_confirmations": [
+            "Mercury's orbit precession",
+            "Light bending during solar eclipse",
+            "LIGO gravitational wave detection",
+            "Black hole imaging by Event Horizon Telescope"
+          ]
+        }
+      }
+    }
+  },
+  "chemistry": {
+    "atomic_structure": {
+      "historical_development": {
+        "dalton_model": "Indivisible solid spheres",
+        "thomson_model": "Plum pudding with embedded electrons",
+        "rutherford_model": "Nuclear atom with orbiting electrons",
+        "bohr_model": "Quantized electron orbits",
+        "quantum_model": "Electron probability clouds"
+      },
+      "modern_understanding": {
+        "nucleus": {
+          "protons": "Positively charged particles determining element identity",
+          "neutrons": "Neutral particles affecting atomic mass and stability",
+          "nuclear_forces": "Strong force holding nucleus together"
+        },
+        "electrons": {
+          "energy_levels": "Quantized shells around nucleus",
+          "orbitals": "Probability regions for electron location",
+          "electron_configuration": "Arrangement determining chemical properties"
+        }
+      },
+      "periodic_table": {
+        "organization": {
+          "periods": "Horizontal rows showing electron shells",
+          "groups": "Vertical columns with similar properties",
+          "blocks": "s, p, d, f blocks based on electron configuration"
+        },
+        "trends": {
+          "atomic_radius": "Size decreases across period, increases down group",
+          "ionization_energy": "Energy to remove electron increases across period",
+          "electronegativity": "Attraction for electrons increases across period"
+        },
+        "neurodivergent_learning": {
+          "pattern_recognition": "Systematic trends and relationships",
+          "visual_organization": "Color-coded periodic table versions",
+          "memory_techniques": "Mnemonics and songs for element names",
+          "special_interests": "Focus on favorite elements or applications"
+        }
+      }
+    },
+    "chemical_bonding": {
+      "types_of_bonds": {
+        "ionic_bonding": {
+          "mechanism": "Transfer of electrons between metal and nonmetal",
+          "properties": "High melting points, conduct electricity when dissolved",
+          "examples": ["Sodium chloride (table salt)", "Calcium fluoride", "Magnesium oxide"]
+        },
+        "covalent_bonding": {
+          "mechanism": "Sharing of electrons between nonmetals",
+          "types": ["Single bonds", "Double bonds", "Triple bonds"],
+          "properties": "Lower melting points, often don't conduct electricity",
+          "examples": ["Water (H₂O)", "Carbon dioxide (CO₂)", "Methane (CH₄)"]
+        },
+        "metallic_bonding": {
+          "mechanism": "Sea of delocalized electrons around metal cations",
+          "properties": "Conduct electricity and heat, malleable and ductile",
+          "examples": ["Copper wiring", "Aluminum foil", "Steel structures"]
+        }
+      },
+      "molecular_shapes": {
+        "vsepr_theory": "Valence Shell Electron Pair Repulsion theory",
+        "common_shapes": [
+          "Linear (2 electron pairs)",
+          "Trigonal planar (3 electron pairs)",
+          "Tetrahedral (4 electron pairs)",
+          "Trigonal bipyramidal (5 electron pairs)",
+          "Octahedral (6 electron pairs)"
+        ],
+        "hands_on_modeling": {
+          "molecular_model_kits": "Physical 3D representations",
+          "balloon_models": "Using balloons to show electron pair repulsion",
+          "computer_simulations": "Interactive 3D molecular viewers",
+          "clay_models": "Tactile construction of molecular shapes"
+        }
+      }
+    },
+    "chemical_reactions": {
+      "types_of_reactions": {
+        "synthesis": "A + B → AB (combining elements or compounds)",
+        "decomposition": "AB → A + B (breaking down compounds)",
+        "single_replacement": "A + BC → AC + B (one element replaces another)",
+        "double_replacement": "AB + CD → AD + CB (ions exchange partners)",
+        "combustion": "Hydrocarbon + O₂ → CO₂ + H₂O (burning reactions)"
+      },
+      "reaction_mechanisms": {
+        "collision_theory": "Particles must collide with sufficient energy and proper orientation",
+        "activation_energy": "Minimum energy needed for reaction to occur",
+        "catalysts": "Substances that lower activation energy without being consumed",
+        "reaction_rates": "Factors affecting how fast reactions proceed"
+      },
+      "laboratory_safety": {
+        "personal_protection": ["Safety goggles", "Lab coats", "Closed-toe shoes", "Gloves when needed"],
+        "chemical_handling": ["Read labels carefully", "Use proper amounts", "Dispose of waste properly"],
+        "emergency_procedures": ["Eye wash stations", "Safety showers", "Fire extinguishers", "Spill cleanup"],
+        "accessibility_considerations": [
+          "Clear pathways for mobility devices",
+          "Adjustable lab bench heights",
+          "Large-print safety instructions",
+          "Buddy system for assistance"
+        ]
+      }
+    }
+  },
+  "biology": {
+    "cell_biology": {
+      "cell_theory": {
+        "principles": [
+          "All living things are made of cells",
+          "Cells are the basic unit of life",
+          "All cells come from pre-existing cells"
+        ],
+        "historical_development": [
+          "Robert Hooke - first observed cells in cork",
+          "Anton van Leeuwenhoek - observed living microorganisms",
+          "Matthias Schleiden - plant cell theory",
+          "Theodor Schwann - animal cell theory",
+          "Rudolf Virchow - cells from pre-existing cells"
+        ]
+      },
+      "cell_structures": {
+        "prokaryotic_cells": {
+          "characteristics": "No membrane-bound nucleus or organelles",
+          "examples": ["Bacteria", "Archaea"],
+          "key_structures": ["Cell wall", "Cell membrane", "Nucleoid", "Ribosomes", "Flagella"]
+        },
+        "eukaryotic_cells": {
+          "characteristics": "Membrane-bound nucleus and organelles",
+          "examples": ["Plants", "Animals", "Fungi", "Protists"],
+          "organelles": {
+            "nucleus": "Control center containing DNA",
+            "mitochondria": "Powerhouses producing ATP energy",
+            "endoplasmic_reticulum": "Protein and lipid synthesis",
+            "golgi_apparatus": "Protein modification and packaging",
+            "ribosomes": "Protein synthesis sites",
+            "lysosomes": "Digestive organelles (animal cells)",
+            "chloroplasts": "Photosynthesis sites (plant cells)"
+          }
+        }
+      },
+      "cellular_processes": {
+        "photosynthesis": {
+          "equation": "6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂",
+          "location": "Chloroplasts in plant cells",
+          "importance": "Converts light energy to chemical energy, produces oxygen",
+          "factors_affecting": ["Light intensity", "Carbon dioxide concentration", "Temperature", "Water availability"]
+        },
+        "cellular_respiration": {
+          "equation": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP energy",
+          "location": "Mitochondria in eukaryotic cells",
+          "stages": ["Glycolysis", "Krebs cycle", "Electron transport chain"],
+          "importance": "Releases energy from glucose for cellular work"
+        }
+      }
+    },
+    "genetics": {
+      "dna_structure": {
+        "double_helix": "Two complementary strands twisted around each other",
+        "base_pairs": ["Adenine-Thymine (A-T)", "Guanine-Cytosine (G-C)"],
+        "sugar_phosphate_backbone": "Structural framework of DNA molecule",
+        "antiparallel_strands": "Strands run in opposite directions"
+      },
+      "genetic_code": {
+        "codons": "Three-base sequences coding for amino acids",
+        "universal_code": "Same genetic code used by almost all organisms",
+        "redundancy": "Multiple codons can code for same amino acid",
+        "start_stop_codons": "Special codons for beginning and ending protein synthesis"
+      },
+      "inheritance_patterns": {
+        "mendelian_genetics": {
+          "dominant_recessive": "Dominant alleles mask recessive alleles",
+          "segregation": "Allele pairs separate during gamete formation",
+          "independent_assortment": "Different traits inherited independently",
+          "punnett_squares": "Tool for predicting offspring genotypes and phenotypes"
+        },
+        "non_mendelian_patterns": {
+          "incomplete_dominance": "Heterozygotes show intermediate phenotype",
+          "codominance": "Both alleles expressed simultaneously",
+          "multiple_alleles": "More than two alleles for a single gene",
+          "polygenic_inheritance": "Multiple genes affecting single trait"
+        }
+      }
+    },
+    "evolution": {
+      "evidence_for_evolution": {
+        "fossil_record": "Chronological sequence showing change over time",
+        "comparative_anatomy": "Homologous structures in related species",
+        "molecular_evidence": "DNA and protein similarities between species",
+        "biogeography": "Distribution of species across geographic regions",
+        "observed_evolution": "Direct observation of evolutionary changes"
+      },
+      "mechanisms_of_evolution": {
+        "natural_selection": {
+          "requirements": ["Variation", "Inheritance", "Selection pressure", "Time"],
+          "types": ["Directional", "Stabilizing", "Disruptive"],
+          "examples": ["Peppered moths", "Darwin's finches", "Antibiotic resistance"]
+        },
+        "genetic_drift": "Random changes in allele frequencies",
+        "gene_flow": "Movement of alleles between populations",
+        "mutation": "Source of new genetic variation"
+      }
+    }
+  },
+  "earth_science": {
+    "geology": {
+      "rock_cycle": {
+        "rock_types": {
+          "igneous": "Formed from cooling magma or lava",
+          "sedimentary": "Formed from compressed sediments",
+          "metamorphic": "Formed from heat and pressure transformation"
+        },
+        "processes": {
+          "weathering": "Breaking down of rocks by physical and chemical processes",
+          "erosion": "Transport of weathered materials",
+          "deposition": "Settling of transported materials",
+          "compaction_cementation": "Formation of sedimentary rocks",
+          "heat_pressure": "Formation of metamorphic rocks",
+          "melting": "Formation of magma for igneous rocks"
+        }
+      },
+      "plate_tectonics": {
+        "theory": "Earth's lithosphere consists of moving plates",
+        "evidence": ["Continental drift", "Seafloor spreading", "Earthquake patterns", "Volcanic activity"],
+        "plate_boundaries": {
+          "divergent": "Plates moving apart, creating new crust",
+          "convergent": "Plates colliding, creating mountains or trenches",
+          "transform": "Plates sliding past each other, creating faults"
+        },
+        "geological_features": ["Mountains", "Ocean trenches", "Mid-ocean ridges", "Rift valleys"]
+      }
+    },
+    "meteorology": {
+      "weather_systems": {
+        "air_masses": "Large bodies of air with uniform temperature and humidity",
+        "fronts": "Boundaries between different air masses",
+        "pressure_systems": {
+          "high_pressure": "Associated with clear, calm weather",
+          "low_pressure": "Associated with clouds and precipitation"
+        }
+      },
+      "climate_factors": {
+        "latitude": "Distance from equator affects temperature",
+        "altitude": "Higher elevations are generally cooler",
+        "proximity_to_water": "Moderates temperature extremes",
+        "ocean_currents": "Transport heat around the globe",
+        "topography": "Mountains affect precipitation patterns"
+      }
+    },
+    "astronomy": {
+      "solar_system": {
+        "sun": "Main sequence star providing energy for life on Earth",
+        "planets": {
+          "terrestrial": ["Mercury", "Venus", "Earth", "Mars"],
+          "gas_giants": ["Jupiter", "Saturn"],
+          "ice_giants": ["Uranus", "Neptune"]
+        },
+        "other_objects": ["Asteroids", "Comets", "Moons", "Dwarf planets"]
+      },
+      "stellar_evolution": {
+        "star_formation": "Gravitational collapse of gas and dust clouds",
+        "main_sequence": "Stable hydrogen fusion phase",
+        "stellar_death": {
+          "low_mass": "White dwarf formation",
+          "high_mass": "Supernova explosion, neutron star or black hole"
+        }
+      },
+      "cosmology": {
+        "big_bang_theory": "Universe began from extremely hot, dense state",
+        "evidence": ["Cosmic microwave background", "Hubble's law", "Nucleosynthesis"],
+        "timeline": "13.8 billion years from Big Bang to present"
+      }
+    }
+  },
+  "learning_strategies": {
+    "neurodivergent_approaches": {
+      "adhd_accommodations": {
+        "attention_management": [
+          "Break lessons into short segments",
+          "Use timers for focused work periods",
+          "Incorporate movement and hands-on activities",
+          "Provide immediate feedback and reinforcement"
+        ],
+        "organization_support": [
+          "Clear, structured lesson plans",
+          "Visual organizers and concept maps",
+          "Color-coding for different topics",
+          "Regular review and repetition"
+        ]
+      },
+      "autism_accommodations": {
+        "systematic_learning": [
+          "Present information in logical sequence",
+          "Use consistent terminology and definitions",
+          "Provide detailed explanations and examples",
+          "Connect to special interests when possible"
+        ],
+        "sensory_considerations": [
+          "Quiet spaces for concentration",
+          "Adjustable lighting options",
+          "Minimize unexpected sounds or interruptions",
+          "Provide sensory breaks as needed"
+        ]
+      },
+      "anxiety_support": {
+        "safe_learning_environment": [
+          "Clear expectations and procedures",
+          "Opportunities to ask questions privately",
+          "No-pressure exploration and experimentation",
+          "Emphasis on learning process over perfect results"
+        ],
+        "stress_reduction": [
+          "Advance notice of activities and changes",
+          "Option to work individually or in small groups",
+          "Multiple ways to demonstrate understanding",
+          "Positive reinforcement and encouragement"
+        ]
+      }
+    },
+    "multi_sensory_learning": {
+      "visual_learners": [
+        "Diagrams, charts, and infographics",
+        "Color-coded information",
+        "Video demonstrations and animations",
+        "Mind maps and concept webs"
+      ],
+      "auditory_learners": [
+        "Verbal explanations and discussions",
+        "Educational podcasts and videos",
+        "Music and songs for memorization",
+        "Read-aloud materials"
+      ],
+      "kinesthetic_learners": [
+        "Hands-on experiments and activities",
+        "Building models and manipulatives",
+        "Field trips and outdoor exploration",
+        "Movement-based learning activities"
+      ]
+    },
+    "technology_integration": {
+      "simulation_software": [
+        "PhET Interactive Simulations (physics and chemistry)",
+        "Molecular modeling programs",
+        "Virtual lab experiences",
+        "Astronomy simulation software"
+      ],
+      "data_collection_tools": [
+        "Digital sensors and probes",
+        "Smartphone apps for measurements",
+        "Online data analysis tools",
+        "Graphing and statistical software"
+      ],
+      "accessibility_features": [
+        "Screen readers for visual impairments",
+        "Closed captions for hearing impairments",
+        "Adjustable text size and contrast",
+        "Voice recognition software"
+      ]
+    }
+  },
+  "assessment_approaches": {
+    "alternative_assessments": {
+      "portfolio_based": "Collection of work showing learning progress",
+      "project_based": "Comprehensive projects demonstrating understanding",
+      "performance_based": "Practical demonstrations of skills and knowledge",
+      "peer_assessment": "Students evaluating each other's work"
+    },
+    "accommodations": {
+      "time_extensions": "Additional time for completing assessments",
+      "alternative_formats": "Oral exams, visual presentations, or written alternatives",
+      "assistive_technology": "Screen readers, speech-to-text, or other tools",
+      "modified_environment": "Quiet spaces or reduced distractions"
+    },
+    "universal_design": {
+      "multiple_means_representation": "Information presented in various formats",
+      "multiple_means_engagement": "Different ways to motivate and interest students",
+      "multiple_means_expression": "Various ways for students to demonstrate learning"
+    }
+  }
+}

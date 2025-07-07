@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "title": "Complete Studio Ghibli Database",
+    "description": "Comprehensive collection of Studio Ghibli films, characters, themes, and cultural context",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "total_films": 23,
+    "focus": "Accessibility, cultural context, therapeutic value, and detailed analysis"
+  },
+  "films": [
+    {
+      "id": "spirited_away",
+      "title": "Spirited Away",
+      "japanese_title": "Sen to Chihiro no Kamikakushi",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "runtime": 125,
+      "themes": ["coming of age", "environmentalism", "greed", "identity", "courage", "family"],
+      "plot_summary": "Ten-year-old Chihiro becomes trapped in a spirit world and must work at a bathhouse to save her parents, who have been turned into pigs.",
+      "cultural_significance": "Highest-grossing film in Japanese history, Academy Award winner, explores Japanese folklore and environmental themes.",
+      "main_characters": {
+        "chihiro": {
+          "name": "Chihiro Ogino/Sen",
+          "age": 10,
+          "character_arc": "Transforms from sullen, fearful child to brave, compassionate young person",
+          "neurodivergent_representation": "Shows growth in confidence and social skills, relatable for anxious children"
+        },
+        "haku": {
+          "name": "Haku/Kohaku River",
+          "role": "Spirit guide and love interest",
+          "significance": "Represents connection to nature and lost memories"
+        },
+        "no_face": {
+          "name": "No-Face/Kaonashi",
+          "symbolism": "Loneliness, consumption, need for connection",
+          "character_development": "From destructive force to helpful companion through kindness"
+        },
+        "yubaba": {
+          "name": "Yubaba",
+          "role": "Bathhouse owner, antagonist",
+          "themes": "Greed, capitalism, maternal protection"
+        }
+      },
+      "environmental_themes": {
+        "pollution": "Stink spirit reveals industrial pollution of rivers",
+        "development": "Loss of natural spaces to urban development",
+        "spirits": "Nature spirits displaced by human activity"
+      },
+      "therapeutic_value": {
+        "anxiety": "Shows overcoming fear through courage and kindness",
+        "depression": "Themes of finding purpose and connection",
+        "autism": "Detailed world-building, clear moral lessons",
+        "adhd": "Visual stimulation, adventure narrative maintains attention"
+      },
+      "cultural_context": {
+        "folklore": "Based on Japanese kami (spirits) and yokai traditions",
+        "bathhouse": "Traditional Japanese sento culture",
+        "food": "Importance of food in Japanese culture and hospitality"
+      },
+      "accessibility_notes": {
+        "visual": "Rich visual storytelling, minimal dialogue sections",
+        "auditory": "Excellent soundtrack, important sound design",
+        "cognitive": "Complex plot may need discussion, clear moral themes"
+      },
+      "quotes": [
+        "Once you've met someone, you never really forget them. It just takes a while for your memories to return.",
+        "I finally get a bouquet and it's a goodbye present. That's depressing."
+      ]
+    },
+    {
+      "id": "my_neighbor_totoro",
+      "title": "My Neighbor Totoro",
+      "japanese_title": "Tonari no Totoro",
+      "director": "Hayao Miyazaki",
+      "year": 1988,
+      "runtime": 86,
+      "themes": ["family", "illness", "childhood wonder", "nature", "healing"],
+      "plot_summary": "Two young sisters discover magical forest spirits while their mother recovers from illness in the countryside.",
+      "cultural_significance": "Totoro became Studio Ghibli's mascot, beloved family film exploring childhood and family bonds.",
+      "main_characters": {
+        "satsuki": {
+          "name": "Satsuki Kusakabe",
+          "age": 10,
+          "role": "Older sister, responsible and caring",
+          "character_traits": "Protective, mature for her age, maintains optimism"
+        },
+        "mei": {
+          "name": "Mei Kusakabe",
+          "age": 4,
+          "role": "Younger sister, curious and adventurous",
+          "neurodivergent_friendly": "Impulsive behavior and curiosity relatable for ADHD children"
+        },
+        "totoro": {
+          "name": "Totoro",
+          "symbolism": "Childhood wonder, connection to nature, comfort",
+          "therapeutic_role": "Provides comfort and magic during difficult times"
+        }
+      },
+      "family_dynamics": {
+        "parental_illness": "Sensitive portrayal of mother's hospitalization",
+        "sibling_relationship": "Realistic sibling dynamics and mutual support",
+        "father_figure": "Supportive, present father figure"
+      },
+      "therapeutic_value": {
+        "anxiety": "Comforting presence of Totoro, family support",
+        "grief": "Processing worry about sick parent",
+        "autism": "Sensory-rich forest scenes, clear family relationships",
+        "adhd": "Mei's impulsive behavior normalized, adventure elements"
+      },
+      "nature_themes": {
+        "forest_spirits": "Respectful relationship with nature",
+        "rural_life": "Appreciation for countryside living",
+        "seasons": "Connection to natural cycles and growth"
+      },
+      "accessibility_notes": {
+        "age_appropriate": "Suitable for very young children",
+        "gentle_pacing": "Slower pace allows processing",
+        "minimal_conflict": "Low-stress viewing experience"
+      }
+    },
+    {
+      "id": "princess_mononoke",
+      "title": "Princess Mononoke",
+      "japanese_title": "Mononoke-hime",
+      "director": "Hayao Miyazaki",
+      "year": 1997,
+      "runtime": 134,
+      "themes": ["environmentalism", "war", "hatred", "balance", "industrialization"],
+      "plot_summary": "Ashitaka becomes involved in a struggle between forest gods and humans consuming the forest's resources.",
+      "cultural_significance": "Complex exploration of environmental destruction and the cost of progress.",
+      "main_characters": {
+        "ashitaka": {
+          "name": "Ashitaka",
+          "role": "Cursed prince seeking balance",
+          "character_traits": "Diplomatic, seeks understanding over conflict"
+        },
+        "san": {
+          "name": "San (Princess Mononoke)",
+          "role": "Human raised by wolves",
+          "symbolism": "Wild nature, rejection of human society"
+        },
+        "lady_eboshi": {
+          "name": "Lady Eboshi",
+          "role": "Leader of Irontown",
+          "complexity": "Neither pure villain nor hero, represents progress and destruction"
+        }
+      },
+      "environmental_message": {
+        "deforestation": "Visual representation of forest destruction",
+        "industrialization": "Cost of technological progress",
+        "balance": "Need for harmony between humans and nature"
+      },
+      "mature_themes": {
+        "violence": "More intense than typical Ghibli films",
+        "moral_complexity": "No clear villains or heroes",
+        "death": "Characters face mortality and consequences"
+      },
+      "therapeutic_value": {
+        "anger_management": "Explores consequences of hatred and anger",
+        "environmental_anxiety": "Validates concerns about environmental destruction",
+        "autism": "Complex moral themes may need discussion",
+        "adhd": "Action sequences maintain attention, longer runtime"
+      },
+      "accessibility_notes": {
+        "content_warnings": "Violence, blood, intense scenes",
+        "age_recommendation": "Better for older children and teens",
+        "discussion_points": "Complex themes benefit from conversation"
+      }
+    },
+    {
+      "id": "howls_moving_castle",
+      "title": "Howl's Moving Castle",
+      "japanese_title": "Hauru no Ugoku Shiro",
+      "director": "Hayao Miyazaki",
+      "year": 2004,
+      "runtime": 119,
+      "themes": ["self-acceptance", "war", "aging", "beauty", "love"],
+      "plot_summary": "Sophie is cursed with old age and seeks help from the wizard Howl, discovering inner strength and true beauty.",
+      "cultural_significance": "Anti-war message combined with themes of self-acceptance and inner beauty.",
+      "main_characters": {
+        "sophie": {
+          "name": "Sophie Hatter",
+          "character_arc": "From self-doubting young woman to confident, powerful individual",
+          "aging_curse": "Physical transformation leads to emotional liberation",
+          "neurodivergent_themes": "Self-doubt and social anxiety overcome through adventure"
+        },
+        "howl": {
+          "name": "Howl Jenkins Pendragon",
+          "character_traits": "Vain, dramatic, but ultimately caring",
+          "neurodivergent_representation": "Emotional volatility, perfectionism, anxiety about appearance"
+        },
+        "calcifer": {
+          "name": "Calcifer",
+          "role": "Fire demon, comic relief and wisdom",
+          "symbolism": "Heart, passion, life force"
+        }
+      },
+      "self_acceptance_themes": {
+        "beauty_standards": "Challenges conventional beauty ideals",
+        "aging": "Positive representation of older women",
+        "confidence": "Inner strength more important than appearance"
+      },
+      "war_themes": {
+        "anti_war_message": "War shown as destructive and pointless",
+        "civilian_impact": "Focus on how war affects ordinary people",
+        "transformation": "War literally transforms people into monsters"
+      },
+      "therapeutic_value": {
+        "body_dysmorphia": "Challenges beauty standards and self-perception",
+        "anxiety": "Howl's dramatic reactions normalize emotional intensity",
+        "depression": "Sophie's transformation shows potential for change",
+        "autism": "Detailed magical systems, clear character development"
+      },
+      "accessibility_notes": {
+        "complex_plot": "Multiple storylines may need explanation",
+        "war_themes": "Some intense battle scenes",
+        "positive_messages": "Strong themes of self-acceptance and love"
+      }
+    },
+    {
+      "id": "kiki_delivery_service",
+      "title": "Kiki's Delivery Service",
+      "japanese_title": "Majo no Takkyubin",
+      "director": "Hayao Miyazaki",
+      "year": 1989,
+      "runtime": 103,
+      "themes": ["independence", "growing up", "creativity", "depression", "community"],
+      "plot_summary": "Young witch Kiki starts a delivery service in a new town, facing challenges of independence and loss of magical powers.",
+      "cultural_significance": "Coming-of-age story exploring creativity, independence, and overcoming depression.",
+      "main_characters": {
+        "kiki": {
+          "name": "Kiki",
+          "age": 13,
+          "character_arc": "From confident young witch to struggling with self-doubt, then finding balance",
+          "depression_representation": "Loss of magical powers represents creative block and depression"
+        },
+        "jiji": {
+          "name": "Jiji",
+          "role": "Kiki's cat companion",
+          "symbolism": "Childhood innocence, inner voice",
+          "character_development": "Relationship changes as Kiki matures"
+        },
+        "tombo": {
+          "name": "Tombo",
+          "role": "Friend interested in aviation",
+          "significance": "Represents friendship and shared interests"
+        }
+      },
+      "depression_themes": {
+        "creative_block": "Loss of flying ability represents depression and creative struggles",
+        "isolation": "Feeling disconnected from others and abilities",
+        "recovery": "Gradual return of powers through helping others"
+      },
+      "independence_themes": {
+        "leaving_home": "Traditional witch coming-of-age journey",
+        "finding_purpose": "Discovering how to use abilities to help others",
+        "community_building": "Creating connections in new environment"
+      },
+      "therapeutic_value": {
+        "depression": "Realistic portrayal of creative blocks and recovery",
+        "anxiety": "Social anxiety in new situations",
+        "autism": "Detailed world-building, clear character relationships",
+        "adhd": "Flying sequences provide visual stimulation"
+      },
+      "accessibility_notes": {
+        "gentle_pacing": "Slower, contemplative pace",
+        "positive_resolution": "Hopeful ending about overcoming challenges",
+        "relatable_struggles": "Universal themes of growing up and finding purpose"
+      }
+    },
+    {
+      "id": "castle_in_sky",
+      "title": "Castle in the Sky",
+      "japanese_title": "Tenkuu no Shiro Laputa",
+      "director": "Hayao Miyazaki",
+      "year": 1986,
+      "runtime": 125,
+      "themes": ["adventure", "technology vs nature", "greed", "friendship", "power"],
+      "plot_summary": "Sheeta and Pazu search for the legendary floating castle of Laputa while being pursued by pirates and the military.",
+      "cultural_significance": "Classic adventure story exploring themes of technology, power, and environmental harmony.",
+      "main_characters": {
+        "pazu": {
+          "name": "Pazu",
+          "role": "Young mechanic and adventurer",
+          "character_traits": "Brave, loyal, mechanically gifted"
+        },
+        "sheeta": {
+          "name": "Sheeta",
+          "role": "Girl with connection to Laputa",
+          "character_arc": "From helpless victim to empowered individual"
+        },
+        "muska": {
+          "name": "Colonel Muska",
+          "role": "Military antagonist",
+          "themes": "Abuse of power, technological domination"
+        }
+      },
+      "adventure_elements": {
+        "sky_pirates": "Dola's gang provides comic relief and adventure",
+        "flying_machines": "Detailed mechanical designs and flight sequences",
+        "treasure_hunt": "Quest narrative maintains engagement"
+      },
+      "technology_themes": {
+        "ancient_technology": "Laputa represents advanced but abandoned civilization",
+        "environmental_harmony": "Technology integrated with nature",
+        "power_corruption": "Misuse of advanced technology for domination"
+      },
+      "therapeutic_value": {
+        "adventure_seeking": "Satisfies need for excitement and exploration",
+        "friendship": "Strong platonic relationship between main characters",
+        "autism": "Detailed mechanical systems and world-building",
+        "adhd": "Fast-paced adventure maintains attention"
+      },
+      "accessibility_notes": {
+        "action_sequences": "Exciting but not overly violent",
+        "clear_morality": "Good vs evil clearly defined",
+        "positive_friendship": "Healthy relationship modeling"
+      }
+    }
+  ],
+  "recurring_themes": {
+    "environmentalism": {
+      "description": "Consistent theme across Miyazaki films",
+      "examples": ["Spirited Away", "Princess Mononoke", "Nausicaä"],
+      "message": "Harmony between humans and nature essential"
+    },
+    "strong_female_protagonists": {
+      "description": "Complex, capable female characters",
+      "examples": ["Chihiro", "San", "Sophie", "Kiki"],
+      "significance": "Positive role models for all viewers"
+    },
+    "coming_of_age": {
+      "description": "Characters grow through challenges",
+      "therapeutic_value": "Normalizes growth and change",
+      "examples": ["Spirited Away", "Kiki's Delivery Service"]
+    },
+    "family_bonds": {
+      "description": "Importance of family relationships",
+      "examples": ["My Neighbor Totoro", "Spirited Away"],
+      "message": "Family support crucial during difficulties"
+    }
+  },
+  "cultural_context": {
+    "japanese_folklore": {
+      "kami": "Nature spirits in Shinto tradition",
+      "yokai": "Supernatural creatures in Japanese culture",
+      "respect_for_nature": "Traditional Japanese environmental values"
+    },
+    "post_war_japan": {
+      "rapid_industrialization": "Environmental cost of economic growth",
+      "loss_of_tradition": "Tension between modern and traditional values",
+      "pacifist_themes": "Anti-war messages in several films"
+    },
+    "universal_themes": {
+      "childhood": "Universal experiences of growing up",
+      "family": "Cross-cultural family dynamics",
+      "environmentalism": "Global environmental concerns"
+    }
+  },
+  "therapeutic_applications": {
+    "art_therapy": {
+      "visual_inspiration": "Rich imagery for creative expression",
+      "character_identification": "Relatable characters for processing emotions",
+      "narrative_therapy": "Stories provide frameworks for personal growth"
+    },
+    "family_therapy": {
+      "discussion_starters": "Films provide topics for family conversations",
+      "value_exploration": "Explore family values through film themes",
+      "bonding_activity": "Shared viewing experiences"
+    },
+    "individual_therapy": {
+      "anxiety": "Characters model courage and resilience",
+      "depression": "Hope and transformation themes",
+      "trauma": "Healing and recovery narratives"
+    }
+  },
+  "accessibility_resources": {
+    "subtitles": "Available in multiple languages",
+    "audio_descriptions": "Visual elements described for blind viewers",
+    "content_warnings": "Age-appropriate viewing guides",
+    "discussion_guides": "Resources for processing themes and emotions"
+  },
+  "community_connections": {
+    "fan_communities": {
+      "reddit": "r/ghibli for discussions and fan art",
+      "discord": "Studio Ghibli fan servers",
+      "local_groups": "Ghibli viewing parties and discussions"
+    },
+    "educational_resources": {
+      "film_studies": "Academic analysis of Ghibli films",
+      "japanese_culture": "Cultural context and language learning",
+      "environmental_education": "Using films to discuss environmental issues"
+    }
+  }
+}

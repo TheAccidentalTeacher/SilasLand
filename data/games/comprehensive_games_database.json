@@ -1,0 +1,709 @@
+{
+  "metadata": {
+    "title": "Comprehensive Games Database",
+    "description": "Extensive collection of games with accessibility focus and neurodivergent-friendly features",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "total_games": 75,
+    "focus": "Accessibility, therapeutic value, neurodivergent support, diverse gaming experiences"
+  },
+  "indie_games": {
+    "relaxing_exploration": [
+      {
+        "id": "journey",
+        "title": "Journey",
+        "developer": "thatgamecompany",
+        "platforms": ["PlayStation", "PC", "iOS"],
+        "genre": "Adventure/Art",
+        "description": "Wordless adventure through a mysterious desert with optional anonymous multiplayer",
+        "accessibility_features": {
+          "adhd_friendly": 9,
+          "anxiety_friendly": 10,
+          "autism_friendly": 8,
+          "colorblind_friendly": 7,
+          "motor_accessible": 6
+        },
+        "therapeutic_value": {
+          "stress_relief": "Meditative gameplay and beautiful visuals",
+          "social_anxiety": "Anonymous cooperation without pressure",
+          "depression": "Uplifting journey of discovery and connection",
+          "mindfulness": "Present-moment awareness through exploration"
+        },
+        "neurodivergent_features": {
+          "no_text": "Entirely visual communication",
+          "no_time_pressure": "Explore at your own pace",
+          "clear_objectives": "Simple, intuitive goals",
+          "sensory_friendly": "Calming audio and visuals"
+        },
+        "content_warnings": "None - universally gentle experience",
+        "playtime": "2-3 hours",
+        "replayability": "High - different experiences with different partners"
+      },
+      {
+        "id": "abzu",
+        "title": "ABZÛ",
+        "developer": "Giant Squid",
+        "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+        "genre": "Adventure/Exploration",
+        "description": "Underwater exploration game with emphasis on marine life and meditation",
+        "accessibility_features": {
+          "adhd_friendly": 8,
+          "anxiety_friendly": 10,
+          "autism_friendly": 9,
+          "colorblind_friendly": 6,
+          "motor_accessible": 8
+        },
+        "therapeutic_value": {
+          "aquatic_therapy": "Simulates calming underwater environment",
+          "nature_connection": "Detailed marine ecosystem exploration",
+          "meditation": "Flowing, peaceful gameplay promotes mindfulness",
+          "sensory_regulation": "Soothing water sounds and movements"
+        },
+        "neurodivergent_features": {
+          "no_combat": "Entirely peaceful experience",
+          "swimming_mechanics": "Smooth, flowing movement",
+          "marine_life_focus": "Special interest appeal for ocean lovers",
+          "visual_storytelling": "Minimal text, rich visual narrative"
+        }
+      },
+      {
+        "id": "flower",
+        "title": "Flower",
+        "developer": "thatgamecompany",
+        "platforms": ["PlayStation", "PC", "iOS", "Android"],
+        "genre": "Art/Simulation",
+        "description": "Control the wind to guide flower petals through various landscapes",
+        "accessibility_features": {
+          "adhd_friendly": 9,
+          "anxiety_friendly": 10,
+          "autism_friendly": 8,
+          "colorblind_friendly": 8,
+          "motor_accessible": 9
+        },
+        "therapeutic_value": {
+          "nature_therapy": "Beautiful natural environments",
+          "stress_relief": "Gentle, flowing gameplay",
+          "seasonal_affective": "Bright, colorful flower fields",
+          "motor_skills": "Simple tilt or touch controls"
+        },
+        "unique_features": {
+          "motion_controls": "Tilt device to guide petals",
+          "environmental_message": "Restoration of natural beauty",
+          "synesthesia_friendly": "Music and visuals perfectly synchronized",
+          "no_failure_state": "Cannot lose or fail"
+        }
+      }
+    ],
+    "puzzle_games": [
+      {
+        "id": "monument_valley",
+        "title": "Monument Valley",
+        "developer": "ustwo games",
+        "platforms": ["iOS", "Android", "PC"],
+        "genre": "Puzzle/Art",
+        "description": "Optical illusion puzzles with impossible architecture",
+        "accessibility_features": {
+          "adhd_friendly": 7,
+          "anxiety_friendly": 8,
+          "autism_friendly": 9,
+          "colorblind_friendly": 6,
+          "motor_accessible": 9
+        },
+        "cognitive_benefits": {
+          "spatial_reasoning": "3D thinking and perspective puzzles",
+          "pattern_recognition": "Geometric and architectural patterns",
+          "problem_solving": "Creative solutions to impossible spaces",
+          "visual_processing": "Optical illusion comprehension"
+        },
+        "neurodivergent_appeal": {
+          "systematic_thinking": "Logical puzzle progression",
+          "visual_beauty": "Stunning minimalist art style",
+          "no_time_pressure": "Solve puzzles at your own pace",
+          "clear_feedback": "Immediate visual confirmation of solutions"
+        }
+      },
+      {
+        "id": "tetris_effect",
+        "title": "Tetris Effect",
+        "developer": "Monstars Inc.",
+        "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+        "genre": "Puzzle/Music",
+        "description": "Classic Tetris with immersive audiovisual experience",
+        "accessibility_features": {
+          "adhd_friendly": 6,
+          "anxiety_friendly": 5,
+          "autism_friendly": 8,
+          "colorblind_friendly": 7,
+          "motor_accessible": 7
+        },
+        "therapeutic_applications": {
+          "flow_state": "Promotes deep focus and concentration",
+          "anxiety_management": "Rhythmic, predictable gameplay",
+          "cognitive_training": "Spatial reasoning and quick decision making",
+          "synesthesia_simulation": "Music and visuals perfectly synchronized"
+        },
+        "adaptive_features": {
+          "journey_mode": "Relaxed, story-driven experience",
+          "zone_mechanic": "Time-slowing ability reduces pressure",
+          "visual_themes": "Multiple aesthetic options",
+          "difficulty_scaling": "Adaptive challenge levels"
+        }
+      },
+      {
+        "id": "baba_is_you",
+        "title": "Baba Is You",
+        "developer": "Hempuli Oy",
+        "platforms": ["PC", "Nintendo Switch", "Mobile"],
+        "genre": "Puzzle/Logic",
+        "description": "Manipulate the rules of the game by moving word blocks",
+        "accessibility_features": {
+          "adhd_friendly": 5,
+          "anxiety_friendly": 7,
+          "autism_friendly": 10,
+          "colorblind_friendly": 8,
+          "motor_accessible": 9
+        },
+        "cognitive_benefits": {
+          "logical_thinking": "Rule manipulation and logical deduction",
+          "creative_problem_solving": "Multiple solutions to each puzzle",
+          "language_processing": "Understanding rule syntax and grammar",
+          "systems_thinking": "How changing rules affects entire system"
+        },
+        "autism_specific_appeal": {
+          "rule_based_thinking": "Explicit, manipulable game rules",
+          "systematic_approach": "Logical progression through concepts",
+          "pattern_recognition": "Understanding rule combinations",
+          "special_interest_potential": "Deep, complex system to master"
+        }
+      }
+    ],
+    "narrative_games": [
+      {
+        "id": "spiritfarer",
+        "title": "Spiritfarer",
+        "developer": "Thunder Lotus Games",
+        "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+        "genre": "Management/Adventure",
+        "description": "Cozy management game about caring for spirits before helping them pass on",
+        "accessibility_features": {
+          "adhd_friendly": 8,
+          "anxiety_friendly": 9,
+          "autism_friendly": 8,
+          "colorblind_friendly": 7,
+          "motor_accessible": 7
+        },
+        "therapeutic_themes": {
+          "grief_processing": "Gentle exploration of death and letting go",
+          "caregiving": "Nurturing relationships with spirit friends",
+          "routine_comfort": "Daily tasks and boat management",
+          "emotional_regulation": "Processing complex emotions through gameplay"
+        },
+        "mental_health_benefits": {
+          "depression": "Meaningful activities and relationship building",
+          "anxiety": "Predictable routines and no time pressure",
+          "grief": "Healthy processing of loss and transition",
+          "social_skills": "Learning about different personality types"
+        },
+        "content_considerations": {
+          "death_themes": "Gentle, positive approach to mortality",
+          "emotional_intensity": "Some sad moments but ultimately uplifting",
+          "time_commitment": "Long-form game requiring sustained engagement"
+        }
+      },
+      {
+        "id": "a_short_hike",
+        "title": "A Short Hike",
+        "developer": "adamgryu",
+        "platforms": ["PC", "Nintendo Switch"],
+        "genre": "Adventure/Exploration",
+        "description": "Relaxing hike up a mountain with optional side activities",
+        "accessibility_features": {
+          "adhd_friendly": 9,
+          "anxiety_friendly": 10,
+          "autism_friendly": 8,
+          "colorblind_friendly": 8,
+          "motor_accessible": 8
+        },
+        "therapeutic_value": {
+          "nature_therapy": "Simulated outdoor hiking experience",
+          "goal_achievement": "Clear, achievable objective",
+          "social_interaction": "Optional conversations with animal characters",
+          "mindfulness": "Present-moment awareness during exploration"
+        },
+        "accessibility_highlights": {
+          "short_duration": "Can be completed in 1-2 hours",
+          "no_failure_states": "Cannot lose or make mistakes",
+          "optional_content": "Side activities available but not required",
+          "peaceful_atmosphere": "No combat or stressful situations"
+        }
+      }
+    ],
+    "creative_games": [
+      {
+        "id": "minecraft",
+        "title": "Minecraft",
+        "developer": "Mojang Studios",
+        "platforms": ["PC", "Console", "Mobile", "VR"],
+        "genre": "Sandbox/Survival",
+        "description": "Block-based building and exploration game with infinite possibilities",
+        "accessibility_features": {
+          "adhd_friendly": 7,
+          "anxiety_friendly": 6,
+          "autism_friendly": 10,
+          "colorblind_friendly": 6,
+          "motor_accessible": 5
+        },
+        "therapeutic_applications": {
+          "creativity": "Unlimited building and artistic expression",
+          "executive_function": "Planning and organizing large projects",
+          "social_skills": "Multiplayer collaboration and communication",
+          "special_interests": "Deep systems for various interests (redstone, architecture, etc.)"
+        },
+        "autism_specific_benefits": {
+          "systematic_building": "Logical, grid-based construction",
+          "special_interests": "Multiple complex systems to master",
+          "routine_activities": "Farming, mining, and crafting routines",
+          "sensory_regulation": "Repetitive, satisfying block placement"
+        },
+        "adaptive_features": {
+          "creative_mode": "No survival pressure, unlimited resources",
+          "peaceful_mode": "No hostile creatures",
+          "accessibility_settings": "Narrator, subtitle options",
+          "mod_support": "Community modifications for specific needs"
+        }
+      },
+      {
+        "id": "animal_crossing",
+        "title": "Animal Crossing: New Horizons",
+        "developer": "Nintendo",
+        "platforms": ["Nintendo Switch"],
+        "genre": "Life Simulation",
+        "description": "Peaceful island life with anthropomorphic animal neighbors",
+        "accessibility_features": {
+          "adhd_friendly": 8,
+          "anxiety_friendly": 10,
+          "autism_friendly": 9,
+          "colorblind_friendly": 7,
+          "motor_accessible": 8
+        },
+        "mental_health_benefits": {
+          "routine_comfort": "Daily tasks and predictable schedules",
+          "social_anxiety": "Low-pressure social interactions",
+          "depression": "Accomplishment through island development",
+          "seasonal_affective": "Bright, cheerful aesthetic year-round"
+        },
+        "neurodivergent_features": {
+          "no_time_pressure": "Real-time clock but no urgent deadlines",
+          "collecting_mechanics": "Satisfying completion of collections",
+          "customization": "Extensive personalization options",
+          "routine_activities": "Daily tasks and seasonal events"
+        }
+      }
+    ]
+  },
+  "retro_games": {
+    "classic_arcade": [
+      {
+        "id": "pac_man",
+        "title": "Pac-Man",
+        "year": 1980,
+        "developer": "Namco",
+        "genre": "Arcade/Maze",
+        "accessibility_features": {
+          "adhd_friendly": 6,
+          "anxiety_friendly": 4,
+          "autism_friendly": 7,
+          "colorblind_friendly": 8,
+          "motor_accessible": 8
+        },
+        "cognitive_benefits": {
+          "spatial_navigation": "Maze navigation and pathfinding",
+          "pattern_recognition": "Ghost movement patterns",
+          "quick_decision_making": "Split-second route choices",
+          "hand_eye_coordination": "Precise movement control"
+        },
+        "therapeutic_value": {
+          "focus_training": "Sustained attention on single task",
+          "stress_management": "Short sessions with clear goals",
+          "achievement": "Score-based progression system"
+        }
+      },
+      {
+        "id": "tetris_classic",
+        "title": "Classic Tetris",
+        "year": 1984,
+        "developer": "Alexey Pajitnov",
+        "genre": "Puzzle",
+        "accessibility_features": {
+          "adhd_friendly": 7,
+          "anxiety_friendly": 6,
+          "autism_friendly": 9,
+          "colorblind_friendly": 7,
+          "motor_accessible": 8
+        },
+        "research_backed_benefits": {
+          "ptsd_treatment": "Reduces intrusive memories when played after trauma",
+          "cognitive_flexibility": "Improves mental rotation and spatial skills",
+          "flow_state": "Promotes deep concentration and focus",
+          "anxiety_reduction": "Repetitive, predictable gameplay"
+        }
+      }
+    ],
+    "classic_rpgs": [
+      {
+        "id": "chrono_trigger",
+        "title": "Chrono Trigger",
+        "year": 1995,
+        "developer": "Square",
+        "platforms": ["SNES", "PC", "Mobile", "Nintendo DS"],
+        "genre": "JRPG",
+        "accessibility_features": {
+          "adhd_friendly": 6,
+          "anxiety_friendly": 7,
+          "autism_friendly": 8,
+          "colorblind_friendly": 6,
+          "motor_accessible": 7
+        },
+        "narrative_benefits": {
+          "time_travel_themes": "Complex but logical story structure",
+          "character_development": "Deep character arcs and relationships",
+          "moral_choices": "Decisions affect story outcomes",
+          "epic_scope": "Grand adventure across time periods"
+        },
+        "autism_appeal": {
+          "systematic_progression": "Clear leveling and stat systems",
+          "multiple_endings": "Replay value through different choices",
+          "detailed_world": "Rich lore and world-building",
+          "pattern_recognition": "Combat timing and strategy patterns"
+        }
+      }
+    ]
+  },
+  "board_games": {
+    "cooperative_games": [
+      {
+        "id": "pandemic",
+        "title": "Pandemic",
+        "designer": "Matt Leacock",
+        "players": "2-4",
+        "playtime": "45-60 minutes",
+        "genre": "Cooperative Strategy",
+        "description": "Work together as disease-fighting specialists to save the world",
+        "accessibility_features": {
+          "adhd_friendly": 6,
+          "anxiety_friendly": 5,
+          "autism_friendly": 8,
+          "colorblind_friendly": 4,
+          "motor_accessible": 7
+        },
+        "therapeutic_benefits": {
+          "teamwork": "Collaborative problem-solving",
+          "communication": "Must discuss strategies openly",
+          "stress_management": "High tension but shared responsibility",
+          "planning_skills": "Strategic thinking and resource management"
+        },
+        "neurodivergent_considerations": {
+          "quarterbacking": "One player may dominate decisions",
+          "anxiety_inducing": "Disease theme may be stressful",
+          "systematic_thinking": "Appeals to logical, analytical minds",
+          "clear_rules": "Well-defined mechanics and objectives"
+        }
+      },
+      {
+        "id": "forbidden_island",
+        "title": "Forbidden Island",
+        "designer": "Matt Leacock",
+        "players": "2-4",
+        "playtime": "30 minutes",
+        "genre": "Cooperative Adventure",
+        "description": "Treasure hunters working together to escape a sinking island",
+        "accessibility_features": {
+          "adhd_friendly": 8,
+          "anxiety_friendly": 7,
+          "autism_friendly": 8,
+          "colorblind_friendly": 6,
+          "motor_accessible": 8
+        },
+        "beginner_friendly": {
+          "simple_rules": "Easy to learn cooperative mechanics",
+          "shorter_playtime": "Less commitment than longer games",
+          "clear_objectives": "Obvious goals and win conditions",
+          "scalable_difficulty": "Adjustable challenge levels"
+        }
+      }
+    ],
+    "strategy_games": [
+      {
+        "id": "azul",
+        "title": "Azul",
+        "designer": "Michael Kiesling",
+        "players": "2-4",
+        "playtime": "30-45 minutes",
+        "genre": "Abstract Strategy",
+        "description": "Tile-laying game inspired by Portuguese azulejo tiles",
+        "accessibility_features": {
+          "adhd_friendly": 7,
+          "anxiety_friendly": 8,
+          "autism_friendly": 9,
+          "colorblind_friendly": 5,
+          "motor_accessible": 9
+        },
+        "cognitive_benefits": {
+          "pattern_recognition": "Tile placement patterns and scoring",
+          "spatial_reasoning": "Board layout and tile arrangement",
+          "planning_ahead": "Anticipating future tile availability",
+          "risk_assessment": "Balancing potential gains and penalties"
+        },
+        "sensory_appeal": {
+          "tactile_satisfaction": "High-quality plastic tiles feel good to handle",
+          "visual_beauty": "Colorful, aesthetically pleasing design",
+          "satisfying_mechanics": "Clicking tiles into place",
+          "clear_feedback": "Immediate visual results of actions"
+        }
+      }
+    ],
+    "party_games": [
+      {
+        "id": "wavelength",
+        "title": "Wavelength",
+        "designer": "Wolfgang Warsch",
+        "players": "2-12",
+        "playtime": "45 minutes",
+        "genre": "Social Deduction/Party",
+        "description": "Team-based game about being on the same wavelength",
+        "accessibility_features": {
+          "adhd_friendly": 8,
+          "anxiety_friendly": 6,
+          "autism_friendly": 5,
+          "colorblind_friendly": 7,
+          "motor_accessible": 9
+        },
+        "social_benefits": {
+          "perspective_taking": "Understanding how others think",
+          "communication": "Explaining abstract concepts",
+          "empathy_building": "Seeing different viewpoints",
+          "group_bonding": "Shared moments of understanding"
+        },
+        "neurodivergent_considerations": {
+          "social_pressure": "May be stressful for socially anxious players",
+          "abstract_thinking": "Requires understanding of subjective concepts",
+          "group_dynamics": "Large groups may be overwhelming",
+          "communication_skills": "Benefits those comfortable with verbal expression"
+        }
+      }
+    ]
+  },
+  "tabletop_rpgs": {
+    "beginner_friendly": [
+      {
+        "id": "dnd_5e",
+        "title": "Dungeons & Dragons 5th Edition",
+        "publisher": "Wizards of the Coast",
+        "players": "3-6",
+        "genre": "Fantasy RPG",
+        "description": "Classic fantasy role-playing with streamlined rules",
+        "accessibility_features": {
+          "adhd_friendly": 6,
+          "anxiety_friendly": 5,
+          "autism_friendly": 7,
+          "colorblind_friendly": 8,
+          "motor_accessible": 9
+        },
+        "therapeutic_applications": {
+          "social_skills": "Role-playing different characters and personalities",
+          "creative_expression": "Character creation and storytelling",
+          "problem_solving": "Collaborative puzzle-solving and strategy",
+          "confidence_building": "Heroic characters overcoming challenges"
+        },
+        "neurodivergent_benefits": {
+          "structured_creativity": "Rules provide framework for imagination",
+          "special_interests": "Deep lore and world-building opportunities",
+          "social_scripting": "Character roles provide social interaction structure",
+          "systematic_progression": "Clear advancement and improvement mechanics"
+        },
+        "accessibility_tools": {
+          "digital_tools": "D&D Beyond for character management",
+          "visual_aids": "Maps, miniatures, and reference sheets",
+          "communication_supports": "Text-based play options available",
+          "modified_rules": "Simplified versions for different needs"
+        }
+      },
+      {
+        "id": "kids_on_bikes",
+        "title": "Kids on Bikes",
+        "publisher": "Renegade Game Studios",
+        "players": "3-7",
+        "genre": "Modern Adventure RPG",
+        "description": "80s-inspired adventures with kid protagonists",
+        "accessibility_features": {
+          "adhd_friendly": 8,
+          "anxiety_friendly": 7,
+          "autism_friendly": 8,
+          "colorblind_friendly": 9,
+          "motor_accessible": 9
+        },
+        "unique_features": {
+          "simple_rules": "Easy-to-learn system with minimal math",
+          "collaborative_storytelling": "Players help create the town and NPCs",
+          "nostalgic_themes": "Familiar 80s movie and TV show references",
+          "kid_protagonists": "Characters are children, relatable for younger players"
+        }
+      }
+    ],
+    "therapeutic_rpgs": [
+      {
+        "id": "good_society",
+        "title": "Good Society",
+        "publisher": "Storybrewers Roleplaying",
+        "players": "3-5",
+        "genre": "Jane Austen-inspired RPG",
+        "description": "Regency-era social drama focusing on relationships and society",
+        "accessibility_features": {
+          "adhd_friendly": 7,
+          "anxiety_friendly": 8,
+          "autism_friendly": 6,
+          "colorblind_friendly": 9,
+          "motor_accessible": 10
+        },
+        "therapeutic_focus": {
+          "social_dynamics": "Exploring complex social relationships",
+          "emotional_intelligence": "Understanding character motivations",
+          "conflict_resolution": "Resolving social conflicts through roleplay",
+          "historical_perspective": "Learning about different social contexts"
+        }
+      }
+    ]
+  },
+  "therapeutic_gaming": {
+    "anxiety_management": {
+      "recommended_games": [
+        "Stardew Valley - farming simulation with routine comfort",
+        "Animal Crossing - social interaction without pressure",
+        "Journey - anonymous cooperation and beautiful visuals",
+        "Flower - meditative petal-guiding experience"
+      ],
+      "gaming_strategies": {
+        "session_length": "Short 15-30 minute sessions to avoid overwhelm",
+        "difficulty_settings": "Use easy modes to reduce frustration",
+        "co_op_play": "Supportive multiplayer rather than competitive",
+        "break_reminders": "Set timers for regular breaks"
+      }
+    },
+    "depression_support": {
+      "recommended_games": [
+        "Spiritfarer - meaningful activities and relationship building",
+        "Minecraft Creative - unlimited creative expression",
+        "A Short Hike - achievable goals and nature therapy",
+        "Unpacking - meditative organization and life reflection"
+      ],
+      "therapeutic_elements": {
+        "achievement_systems": "Small, regular accomplishments",
+        "creative_expression": "Art, building, and customization options",
+        "social_connection": "Multiplayer communities and shared experiences",
+        "routine_activities": "Daily tasks and predictable gameplay loops"
+      }
+    },
+    "adhd_support": {
+      "recommended_games": [
+        "Tetris Effect - flow state and focus training",
+        "Rocket League - short matches with high engagement",
+        "Beat Saber - rhythm and movement combination",
+        "Portal series - puzzle-solving with immediate feedback"
+      ],
+      "gaming_accommodations": {
+        "fidget_integration": "Games that allow movement or fidgeting",
+        "immediate_feedback": "Quick response to player actions",
+        "varied_gameplay": "Multiple activities within single game",
+        "pause_friendly": "Ability to stop and resume easily"
+      }
+    },
+    "autism_support": {
+      "recommended_games": [
+        "Minecraft - systematic building and special interest potential",
+        "Cities: Skylines - urban planning and system management",
+        "Kerbal Space Program - physics and engineering focus",
+        "Two Point Hospital - management with clear rules and feedback"
+      ],
+      "beneficial_features": {
+        "predictable_systems": "Clear rules and consistent mechanics",
+        "special_interests": "Deep systems matching personal interests",
+        "sensory_considerations": "Adjustable audio and visual settings",
+        "social_options": "Choice between solo and multiplayer experiences"
+      }
+    }
+  },
+  "accessibility_resources": {
+    "hardware_adaptations": {
+      "controllers": [
+        "Xbox Adaptive Controller - customizable for various motor needs",
+        "One-handed controllers - for limited mobility",
+        "Eye-tracking systems - for severe motor limitations",
+        "Switch-adapted controllers - for minimal movement capability"
+      ],
+      "software_solutions": [
+        "Voice control software - Dragon NaturallySpeaking",
+        "Eye-tracking software - Tobii Eye Tracker",
+        "Switch scanning software - for single-switch users",
+        "Macro software - for complex command sequences"
+      ]
+    },
+    "visual_accessibility": {
+      "colorblind_support": [
+        "Colorblind-friendly game filters",
+        "High contrast mode options",
+        "Pattern-based differentiation",
+        "Customizable color palettes"
+      ],
+      "low_vision_support": [
+        "Large text options",
+        "Screen reader compatibility",
+        "Audio cues and descriptions",
+        "Magnification tools"
+      ]
+    },
+    "cognitive_accessibility": {
+      "memory_support": [
+        "In-game note-taking systems",
+        "Quest logs and objective reminders",
+        "Visual progress indicators",
+        "Simplified UI options"
+      ],
+      "processing_support": [
+        "Adjustable game speed",
+        "Pause-anywhere functionality",
+        "Clear, simple instructions",
+        "Reduced cognitive load options"
+      ]
+    }
+  },
+  "community_resources": {
+    "gaming_communities": {
+      "neurodivergent_focused": [
+        "r/AutisticGamers - Reddit community",
+        "ADHD Gamers Discord - Support and gaming groups",
+        "Disabled Gamers community - Accessibility advocacy",
+        "AbleGamers - Charity supporting disabled gamers"
+      ],
+      "therapeutic_gaming": [
+        "Games for Health community",
+        "Therapeutic gaming research groups",
+        "Mental health gaming support groups",
+        "Academic gaming therapy programs"
+      ]
+    },
+    "resources_guides": {
+      "accessibility_databases": [
+        "Can I Play That? - Game accessibility reviews",
+        "DAGER System - Disability accessibility ratings",
+        "Game Accessibility Guidelines - Developer resources",
+        "Family Video Game Database - Content and accessibility info"
+      ],
+      "therapeutic_applications": [
+        "Games for Change - Social impact gaming",
+        "Serious Games Initiative - Educational and therapeutic games",
+        "Applied Game Studies - Academic research on game benefits",
+        "Gamification for Health - Using game elements therapeutically"
+      ]
+    }
+  }
+}

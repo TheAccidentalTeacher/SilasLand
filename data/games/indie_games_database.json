@@ -1,0 +1,1126 @@
+{
+  "overview": {
+    "description": "Comprehensive database of indie games with focus on accessibility and neurodivergent-friendly features",
+    "scope": "Steam indie games with detailed accessibility information",
+    "organization": "By genre, accessibility features, and neurodivergent considerations"
+  },
+  "accessibility_categories": {
+    "adhd_friendly": {
+      "description": "Games that work well with ADHD brains",
+      "characteristics": [
+        "Clear objectives and progress indicators",
+        "Ability to pause at any time",
+        "Short play sessions possible",
+        "Minimal overwhelming stimuli",
+        "Customizable difficulty",
+        "Clear visual and audio cues"
+      ]
+    },
+    "anxiety_friendly": {
+      "description": "Games that help reduce anxiety or don't trigger it",
+      "characteristics": [
+        "Low-stress gameplay",
+        "No time pressure",
+        "Peaceful atmosphere",
+        "No jump scares",
+        "Predictable mechanics",
+        "Calming visuals and audio"
+      ]
+    },
+    "autism_friendly": {
+      "description": "Games accommodating autism spectrum needs",
+      "characteristics": [
+        "Clear rules and expectations",
+        "Consistent mechanics",
+        "Minimal social interaction required",
+        "Sensory considerations",
+        "Routine-friendly gameplay",
+        "Special interests accommodation"
+      ]
+    },
+    "colorblind_friendly": {
+      "description": "Games accessible to colorblind players",
+      "characteristics": [
+        "Colorblind-friendly palette",
+        "Alternative visual indicators",
+        "Pattern/shape differentiation",
+        "Customizable colors",
+        "High contrast options"
+      ]
+    },
+    "motor_accessible": {
+      "description": "Games accessible for motor impairments",
+      "characteristics": [
+        "Customizable controls",
+        "One-handed play options",
+        "Adjustable timing",
+        "Alternative input methods",
+        "Reduced precision requirements"
+      ]
+    }
+  },
+  "games": [
+    {
+      "id": 1,
+      "title": "Celeste",
+      "developer": "Maddy Makes Games",
+      "publisher": "Maddy Makes Games",
+      "release_date": "2018-01-25",
+      "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+      "genre": ["Platformer", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/504230/Celeste/",
+      "price": "$19.99",
+      "rating": {
+        "steam": "96% Overwhelmingly Positive",
+        "metacritic": 94,
+        "user_score": 8.2
+      },
+      "playtime": {
+        "main_story": "8 hours",
+        "completionist": "58 hours",
+        "average": "12 hours"
+      },
+      "description": "A challenging platformer about climbing a mountain and overcoming personal struggles, featuring tight controls and a touching story about mental health.",
+      "story_themes": [
+        "Mental health awareness",
+        "Anxiety and panic attacks",
+        "Self-acceptance",
+        "Perseverance",
+        "Personal growth",
+        "Friendship and support"
+      ],
+      "gameplay_features": [
+        "Precise platforming mechanics",
+        "Dash ability with strategic use",
+        "Collectible strawberries",
+        "Hidden areas and secrets",
+        "Multiple difficulty modes",
+        "Assist mode for accessibility"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 9,
+          "features": [
+            "Clear level objectives",
+            "Instant respawn after death",
+            "Short level segments",
+            "Progress tracking",
+            "Assist mode for difficulty adjustment",
+            "Clear visual feedback"
+          ],
+          "considerations": [
+            "Can be frustrating due to difficulty",
+            "Assist mode helps manage challenge level",
+            "Clear progression system maintains engagement"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 8,
+          "features": [
+            "Positive message about mental health",
+            "No time pressure in most levels",
+            "Assist mode reduces stress",
+            "Encouraging narrative",
+            "Beautiful, calming art style",
+            "Supportive character interactions"
+          ],
+          "considerations": [
+            "Some levels can be stressful due to difficulty",
+            "Mental health themes might be triggering for some",
+            "Overall message is positive and supportive"
+          ]
+        },
+        "autism_friendly": {
+          "rating": 9,
+          "features": [
+            "Consistent game mechanics",
+            "Clear rules and expectations",
+            "Predictable physics",
+            "Minimal social interaction",
+            "Routine-friendly level structure",
+            "Special interest in precision platforming"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 8,
+          "features": [
+            "High contrast visuals",
+            "Clear shape differentiation",
+            "Important elements well-distinguished",
+            "Minimal reliance on color alone"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 7,
+          "features": [
+            "Assist mode with adjustable settings",
+            "Customizable controls",
+            "Reduced precision requirements in assist mode",
+            "Adjustable game speed"
+          ]
+        }
+      },
+      "mental_health_representation": {
+        "accuracy": "High",
+        "themes_addressed": [
+          "Anxiety disorders",
+          "Panic attacks",
+          "Depression",
+          "Self-doubt",
+          "Imposter syndrome"
+        ],
+        "approach": "Metaphorical but respectful, created by developers with lived experience",
+        "impact": "Widely praised for authentic representation of mental health struggles"
+      },
+      "community_reception": {
+        "mental_health_community": "Extremely positive, seen as validating and helpful",
+        "accessibility_community": "Praised for assist mode and inclusive design",
+        "gaming_community": "Critical acclaim for gameplay and story integration"
+      },
+      "awards": [
+        "Independent Games Festival Excellence in Audio",
+        "Game Developers Choice Awards Excellence in Narrative",
+        "BAFTA Games Award for Artistic Achievement"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Stardew Valley",
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "release_date": "2016-02-26",
+      "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One", "Mobile"],
+      "genre": ["Simulation", "RPG", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+      "price": "$14.99",
+      "rating": {
+        "steam": "98% Overwhelmingly Positive",
+        "metacritic": 89,
+        "user_score": 9.1
+      },
+      "playtime": {
+        "main_story": "52 hours",
+        "completionist": "139 hours",
+        "average": "95 hours"
+      },
+      "description": "A farming simulation game where you inherit your grandfather's old farm plot in Stardew Valley. Build relationships, explore caves, and create your perfect farm.",
+      "gameplay_features": [
+        "Farming and crop management",
+        "Relationship building with NPCs",
+        "Mining and combat",
+        "Fishing mini-game",
+        "Crafting and cooking",
+        "Seasonal events and festivals",
+        "Multiplayer co-op",
+        "Extensive customization"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 10,
+          "features": [
+            "No time pressure or deadlines",
+            "Multiple activities to switch between",
+            "Clear daily objectives",
+            "Satisfying progression systems",
+            "Ability to pause anytime",
+            "Hyperfocus-friendly gameplay loops"
+          ],
+          "benefits": [
+            "Perfect for hyperfocus sessions",
+            "Dopamine-rewarding activities",
+            "Flexible goal setting",
+            "Immediate feedback systems"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 10,
+          "features": [
+            "Extremely low-stress gameplay",
+            "No failure states",
+            "Peaceful, pastoral setting",
+            "Calming music and visuals",
+            "Supportive community NPCs",
+            "No time pressure"
+          ],
+          "therapeutic_benefits": [
+            "Stress relief through virtual farming",
+            "Sense of accomplishment",
+            "Routine and structure",
+            "Social connection without pressure"
+          ]
+        },
+        "autism_friendly": {
+          "rating": 9,
+          "features": [
+            "Highly structured gameplay",
+            "Predictable NPC schedules",
+            "Clear cause-and-effect systems",
+            "Routine-based gameplay",
+            "Special interest accommodation (farming, mining, etc.)",
+            "Minimal required social interaction"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 7,
+          "features": [
+            "Generally good color contrast",
+            "Some UI elements could be clearer",
+            "Mods available for colorblind support"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 8,
+          "features": [
+            "Turn-based nature allows for slower input",
+            "Customizable controls",
+            "No precise timing required",
+            "Pause functionality"
+          ]
+        }
+      },
+      "therapeutic_applications": {
+        "stress_relief": "Widely used as stress relief and anxiety management tool",
+        "routine_building": "Helps establish daily routines and structure",
+        "social_skills": "Safe environment to practice social interactions",
+        "goal_setting": "Teaches planning and goal achievement"
+      },
+      "community_features": {
+        "modding_support": "Extensive modding community with accessibility mods",
+        "multiplayer": "Cooperative multiplayer for social connection",
+        "forums": "Supportive community discussions"
+      }
+    },
+    {
+      "id": 3,
+      "title": "A Short Hike",
+      "developer": "adamgryu",
+      "publisher": "adamgryu",
+      "release_date": "2019-07-30",
+      "platforms": ["PC", "Nintendo Switch"],
+      "genre": ["Adventure", "Indie", "Exploration"],
+      "steam_url": "https://store.steampowered.com/app/1055540/A_Short_Hike/",
+      "price": "$7.99",
+      "rating": {
+        "steam": "98% Overwhelmingly Positive",
+        "metacritic": 83,
+        "user_score": 8.9
+      },
+      "playtime": {
+        "main_story": "1.5 hours",
+        "completionist": "3 hours",
+        "average": "2 hours"
+      },
+      "description": "A relaxing exploration game about hiking to the top of a mountain to get cellphone reception. Explore at your own pace in a beautiful, low-poly world.",
+      "gameplay_features": [
+        "Open-world exploration",
+        "Flying mechanics with feathers",
+        "Collectible golden feathers",
+        "Mini-games and side activities",
+        "Photography mode",
+        "Peaceful, non-violent gameplay"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 9,
+          "features": [
+            "Short overall playtime",
+            "No overwhelming objectives",
+            "Clear progression with feather collection",
+            "Ability to explore freely",
+            "Immediate gratification from exploration"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 10,
+          "features": [
+            "Extremely peaceful atmosphere",
+            "No time pressure whatsoever",
+            "No failure states",
+            "Calming nature sounds",
+            "Beautiful, serene visuals",
+            "Meditative gameplay"
+          ],
+          "therapeutic_value": "Often recommended for anxiety relief and mindfulness"
+        },
+        "autism_friendly": {
+          "rating": 8,
+          "features": [
+            "Simple, consistent mechanics",
+            "Predictable world behavior",
+            "Minimal social interaction",
+            "Clear objective (reach the summit)",
+            "Routine-friendly exploration"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 9,
+          "features": [
+            "High contrast between important elements",
+            "Shape-based differentiation",
+            "Clear visual hierarchy"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 8,
+          "features": [
+            "Simple controls",
+            "No precise timing required",
+            "Forgiving movement mechanics",
+            "No complex button combinations"
+          ]
+        }
+      },
+      "mindfulness_aspects": {
+        "meditation": "Encourages mindful exploration and present-moment awareness",
+        "nature_connection": "Virtual nature experience for those unable to access real nature",
+        "breathing_space": "Provides mental breathing space and calm"
+      },
+      "awards": [
+        "Independent Games Festival Seumas McNally Grand Prize",
+        "Independent Games Festival Excellence in Audio"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Spiritfarer",
+      "developer": "Thunder Lotus Games",
+      "publisher": "Thunder Lotus Games",
+      "release_date": "2020-08-18",
+      "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+      "genre": ["Adventure", "Management", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/972660/Spiritfarer/",
+      "price": "$29.99",
+      "rating": {
+        "steam": "95% Overwhelmingly Positive",
+        "metacritic": 78,
+        "user_score": 8.3
+      },
+      "playtime": {
+        "main_story": "25 hours",
+        "completionist": "35 hours",
+        "average": "30 hours"
+      },
+      "description": "A cozy management game about dying, where you play as Stella, ferrymaster to the deceased. Care for spirit passengers, build relationships, and help them find peace.",
+      "story_themes": [
+        "Death and dying",
+        "Grief and loss",
+        "Letting go",
+        "Friendship and care",
+        "Life celebration",
+        "Acceptance"
+      ],
+      "gameplay_features": [
+        "Ship building and customization",
+        "Resource management",
+        "Relationship building with spirits",
+        "Mini-games for various activities",
+        "Exploration and discovery",
+        "Cooking and crafting",
+        "Co-op multiplayer"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 8,
+          "features": [
+            "Multiple activities to switch between",
+            "Clear objectives and quest tracking",
+            "Satisfying progression systems",
+            "Ability to pause and save anywhere",
+            "Varied gameplay prevents boredom"
+          ],
+          "considerations": [
+            "Can be overwhelming with many simultaneous quests",
+            "Good quest organization helps manage complexity"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 7,
+          "features": [
+            "Generally peaceful gameplay",
+            "Beautiful, calming art style",
+            "Supportive relationships with spirits",
+            "No time pressure for most activities",
+            "Cozy atmosphere"
+          ],
+          "considerations": [
+            "Death themes might be triggering for some",
+            "Emotional content around grief and loss",
+            "Overall message is positive and healing"
+          ]
+        },
+        "autism_friendly": {
+          "rating": 8,
+          "features": [
+            "Structured gameplay with clear routines",
+            "Predictable spirit behaviors",
+            "Clear cause-and-effect systems",
+            "Special interest accommodation (management, building)",
+            "Consistent game mechanics"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 8,
+          "features": [
+            "Beautiful, high-contrast art style",
+            "Clear visual differentiation",
+            "Important elements well-distinguished"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 7,
+          "features": [
+            "Generally forgiving timing",
+            "Customizable controls",
+            "No extremely precise movements required"
+          ]
+        }
+      },
+      "emotional_content": {
+        "grief_processing": "Helps players process grief and loss in a safe environment",
+        "death_positive": "Presents death as natural part of life cycle",
+        "therapeutic_value": "Used by some as grief therapy tool",
+        "content_warnings": ["Death themes", "Emotional content", "Grief and loss"]
+      },
+      "awards": [
+        "Independent Games Festival Excellence in Visual Art",
+        "Canadian Video Game Awards Game of the Year"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Unpacking",
+      "developer": "Witch Beam",
+      "publisher": "Witch Beam",
+      "release_date": "2021-11-02",
+      "platforms": ["PC", "Nintendo Switch", "Xbox One", "PlayStation 4"],
+      "genre": ["Puzzle", "Simulation", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/1135690/Unpacking/",
+      "price": "$19.99",
+      "rating": {
+        "steam": "97% Overwhelmingly Positive",
+        "metacritic": 83,
+        "user_score": 8.7
+      },
+      "playtime": {
+        "main_story": "4 hours",
+        "completionist": "6 hours",
+        "average": "5 hours"
+      },
+      "description": "A zen puzzle game about the familiar experience of pulling possessions out of boxes and fitting them into your new home. Each level tells a story through objects.",
+      "gameplay_features": [
+        "Object placement puzzles",
+        "Storytelling through belongings",
+        "Multiple time periods",
+        "Satisfying organization mechanics",
+        "No time pressure",
+        "Pixel art aesthetic"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 10,
+          "features": [
+            "Extremely satisfying organization gameplay",
+            "Clear, immediate feedback",
+            "Perfect for hyperfocus sessions",
+            "No time pressure",
+            "Dopamine-rewarding completion",
+            "Can be played in short bursts"
+          ],
+          "benefits": [
+            "Appeals to organization and sorting interests",
+            "Provides sense of control and order",
+            "Satisfying completion mechanics"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 10,
+          "features": [
+            "Extremely calming gameplay",
+            "No failure states",
+            "Peaceful, meditative experience",
+            "No time pressure",
+            "Soothing sound effects",
+            "Stress-free puzzle solving"
+          ],
+          "therapeutic_value": "Widely used for stress relief and anxiety management"
+        },
+        "autism_friendly": {
+          "rating": 10,
+          "features": [
+            "Appeals to organization and sorting interests",
+            "Predictable mechanics",
+            "Clear rules and logic",
+            "Routine-friendly gameplay",
+            "Special interest accommodation (organization)",
+            "Minimal social interaction"
+          ],
+          "special_appeal": "Particularly appealing to those with organization special interests"
+        },
+        "colorblind_friendly": {
+          "rating": 9,
+          "features": [
+            "Clear shape and size differentiation",
+            "High contrast pixel art",
+            "Minimal reliance on color alone"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 9,
+          "features": [
+            "Simple click-and-drag mechanics",
+            "No precise timing required",
+            "Forgiving interaction system",
+            "Customizable controls"
+          ]
+        }
+      },
+      "therapeutic_applications": {
+        "organization_therapy": "Helps with organization skills and spatial reasoning",
+        "mindfulness": "Meditative, present-moment focused gameplay",
+        "life_reflection": "Encourages reflection on personal belongings and memories"
+      },
+      "awards": [
+        "Independent Games Festival Excellence in Narrative",
+        "Game Developers Choice Awards Innovation Award"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Coffee Talk",
+      "developer": "Toge Productions",
+      "publisher": "Toge Productions",
+      "release_date": "2020-01-29",
+      "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+      "genre": ["Simulation", "Visual Novel", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/914800/Coffee_Talk/",
+      "price": "$12.99",
+      "rating": {
+        "steam": "94% Very Positive",
+        "metacritic": 74,
+        "user_score": 8.1
+      },
+      "playtime": {
+        "main_story": "6 hours",
+        "completionist": "8 hours",
+        "average": "7 hours"
+      },
+      "description": "A coffee brewing and heart-to-heart talking simulator about listening to people's problems and helping them by serving the perfect cup of coffee.",
+      "gameplay_features": [
+        "Coffee brewing mechanics",
+        "Conversation system",
+        "Multiple story branches",
+        "Latte art creation",
+        "Atmospheric cafe setting",
+        "Lo-fi soundtrack"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 8,
+          "features": [
+            "Engaging conversation system",
+            "Clear coffee brewing objectives",
+            "Satisfying completion mechanics",
+            "Can be played in episodes",
+            "Interesting character stories maintain attention"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 9,
+          "features": [
+            "Extremely calming atmosphere",
+            "No time pressure",
+            "Peaceful cafe setting",
+            "Relaxing lo-fi music",
+            "Supportive, empathetic interactions",
+            "Cozy, safe environment"
+          ],
+          "therapeutic_value": "Promotes empathy and emotional intelligence"
+        },
+        "autism_friendly": {
+          "rating": 7,
+          "features": [
+            "Structured conversation system",
+            "Clear coffee brewing rules",
+            "Predictable customer patterns",
+            "Special interest accommodation (coffee making)",
+            "Routine-based gameplay"
+          ],
+          "considerations": [
+            "Heavy focus on social interaction",
+            "May be challenging for those with social anxiety"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 8,
+          "features": [
+            "Clear visual differentiation",
+            "Good contrast in UI elements",
+            "Text-based information backup"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 9,
+          "features": [
+            "Simple point-and-click mechanics",
+            "No precise timing required",
+            "Forgiving interaction system",
+            "Text-based gameplay"
+          ]
+        }
+      },
+      "social_emotional_learning": {
+        "empathy_building": "Teaches active listening and empathy",
+        "emotional_intelligence": "Helps recognize and respond to emotions",
+        "social_skills": "Safe environment to practice social interactions",
+        "cultural_awareness": "Diverse characters and stories"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Journey",
+      "developer": "thatgamecompany",
+      "publisher": "thatgamecompany",
+      "release_date": "2019-06-06",
+      "platforms": ["PC", "PlayStation 3", "PlayStation 4", "iOS"],
+      "genre": ["Adventure", "Indie", "Art"],
+      "steam_url": "https://store.steampowered.com/app/638230/Journey/",
+      "price": "$14.99",
+      "rating": {
+        "steam": "95% Overwhelmingly Positive",
+        "metacritic": 92,
+        "user_score": 8.5
+      },
+      "playtime": {
+        "main_story": "2 hours",
+        "completionist": "4 hours",
+        "average": "3 hours"
+      },
+      "description": "An interactive parable exploring a mysterious ancient world. Journey alongside other players in a wordless adventure through vast deserts toward a distant mountain.",
+      "gameplay_features": [
+        "Wordless multiplayer interaction",
+        "Beautiful visual storytelling",
+        "Simple movement mechanics",
+        "Emotional narrative journey",
+        "Unique online cooperation",
+        "Stunning art and music"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 8,
+          "features": [
+            "Short overall experience",
+            "Clear visual objectives",
+            "Engaging visual and audio design",
+            "No complex mechanics to learn",
+            "Immediate emotional engagement"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 9,
+          "features": [
+            "Peaceful, meditative experience",
+            "No verbal communication pressure",
+            "Beautiful, calming visuals",
+            "Supportive multiplayer interaction",
+            "No failure states",
+            "Transcendent, uplifting experience"
+          ],
+          "therapeutic_value": "Often used for emotional healing and stress relief"
+        },
+        "autism_friendly": {
+          "rating": 9,
+          "features": [
+            "No verbal communication required",
+            "Simple, consistent mechanics",
+            "Predictable world behavior",
+            "Visual communication only",
+            "Clear environmental storytelling",
+            "Routine-friendly progression"
+          ],
+          "benefits": [
+            "Removes social communication barriers",
+            "Allows for meaningful connection without words"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 8,
+          "features": [
+            "High contrast environments",
+            "Clear visual hierarchy",
+            "Shape and movement-based communication"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 8,
+          "features": [
+            "Simple control scheme",
+            "No precise timing required",
+            "Forgiving movement mechanics",
+            "Customizable controls"
+          ]
+        }
+      },
+      "emotional_impact": {
+        "connection": "Creates meaningful connections without words",
+        "transcendence": "Provides transcendent, spiritual experience",
+        "healing": "Often described as emotionally healing",
+        "empathy": "Builds empathy through shared experience"
+      },
+      "awards": [
+        "BAFTA Games Award for Artistic Achievement",
+        "Game Developers Choice Awards Game of the Year",
+        "D.I.C.E. Awards Outstanding Achievement in Art Direction"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Ori and the Blind Forest",
+      "developer": "Moon Studios",
+      "publisher": "Microsoft Studios",
+      "release_date": "2015-03-11",
+      "platforms": ["PC", "Xbox One", "Nintendo Switch"],
+      "genre": ["Platformer", "Metroidvania", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/",
+      "price": "$19.99",
+      "rating": {
+        "steam": "95% Overwhelmingly Positive",
+        "metacritic": 88,
+        "user_score": 8.6
+      },
+      "playtime": {
+        "main_story": "8 hours",
+        "completionist": "12 hours",
+        "average": "10 hours"
+      },
+      "description": "A visually stunning platformer about a young orphan destined for heroics. Features hand-painted artwork, emotional storytelling, and challenging gameplay.",
+      "gameplay_features": [
+        "Metroidvania exploration",
+        "Ability progression system",
+        "Challenging platforming",
+        "Beautiful hand-painted art",
+        "Emotional narrative",
+        "Orchestral soundtrack"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 7,
+          "features": [
+            "Beautiful visuals maintain engagement",
+            "Clear progression system",
+            "Varied gameplay mechanics",
+            "Satisfying ability unlocks",
+            "Engaging story beats"
+          ],
+          "considerations": [
+            "Can be challenging and potentially frustrating",
+            "Some sections require sustained attention"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 6,
+          "features": [
+            "Beautiful, artistic presentation",
+            "Emotional, uplifting story",
+            "Save system allows breaks",
+            "Gorgeous soundtrack"
+          ],
+          "considerations": [
+            "Can be stressful due to difficulty",
+            "Some intense chase sequences",
+            "Emotional story moments might be triggering"
+          ]
+        },
+        "autism_friendly": {
+          "rating": 7,
+          "features": [
+            "Consistent game mechanics",
+            "Clear visual feedback",
+            "Predictable enemy behaviors",
+            "Structured progression system"
+          ],
+          "considerations": [
+            "Difficulty spikes might be frustrating",
+            "Some sections require quick reactions"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 8,
+          "features": [
+            "High contrast art style",
+            "Clear visual differentiation",
+            "Important elements well-highlighted"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 6,
+          "features": [
+            "Customizable controls",
+            "Some difficulty options"
+          ],
+          "considerations": [
+            "Requires precise platforming",
+            "Fast reaction times needed",
+            "Limited accessibility options"
+          ]
+        }
+      },
+      "emotional_themes": [
+        "Loss and grief",
+        "Family and belonging",
+        "Environmental restoration",
+        "Personal growth",
+        "Sacrifice and heroism"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Gris",
+      "developer": "Nomada Studio",
+      "publisher": "Devolver Digital",
+      "release_date": "2018-12-13",
+      "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One", "iOS"],
+      "genre": ["Platformer", "Adventure", "Art"],
+      "steam_url": "https://store.steampowered.com/app/683320/GRIS/",
+      "price": "$16.99",
+      "rating": {
+        "steam": "96% Overwhelmingly Positive",
+        "metacritic": 83,
+        "user_score": 8.4
+      },
+      "playtime": {
+        "main_story": "4 hours",
+        "completionist": "6 hours",
+        "average": "5 hours"
+      },
+      "description": "A wordless experience about dealing with loss and grief. Features stunning watercolor art and a journey through sorrow toward acceptance and hope.",
+      "gameplay_features": [
+        "Artistic platforming",
+        "Wordless storytelling",
+        "Watercolor art style",
+        "Emotional journey",
+        "Puzzle-solving elements",
+        "Beautiful soundtrack"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 8,
+          "features": [
+            "Visually stunning and engaging",
+            "Clear visual progression",
+            "No overwhelming mechanics",
+            "Artistic presentation maintains interest",
+            "Moderate length prevents fatigue"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 9,
+          "features": [
+            "Peaceful, meditative experience",
+            "No time pressure",
+            "No failure states",
+            "Beautiful, calming visuals",
+            "Therapeutic journey through grief",
+            "Gentle, supportive progression"
+          ],
+          "therapeutic_value": "Often recommended for grief processing and emotional healing"
+        },
+        "autism_friendly": {
+          "rating": 8,
+          "features": [
+            "No verbal communication",
+            "Clear visual storytelling",
+            "Predictable mechanics",
+            "Consistent art style",
+            "Routine-friendly progression"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 9,
+          "features": [
+            "High contrast watercolor art",
+            "Clear visual hierarchy",
+            "Shape and form-based differentiation"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 8,
+          "features": [
+            "Simple control scheme",
+            "Forgiving platforming",
+            "No precise timing required",
+            "Gentle difficulty curve"
+          ]
+        }
+      },
+      "grief_processing": {
+        "stages_represented": [
+          "Denial (colorless world)",
+          "Anger (red stage)",
+          "Bargaining (green stage)",
+          "Depression (blue stage)",
+          "Acceptance (full color return)"
+        ],
+        "therapeutic_approach": "Visual metaphor for grief journey",
+        "professional_use": "Used by some therapists as grief processing tool"
+      },
+      "awards": [
+        "Independent Games Festival Excellence in Visual Art",
+        "Game Developers Choice Awards Excellence in Visual Art"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Slime Rancher",
+      "developer": "Monomi Park",
+      "publisher": "Monomi Park",
+      "release_date": "2017-08-01",
+      "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+      "genre": ["Simulation", "Adventure", "Indie"],
+      "steam_url": "https://store.steampowered.com/app/433340/Slime_Rancher/",
+      "price": "$19.99",
+      "rating": {
+        "steam": "96% Overwhelmingly Positive",
+        "metacritic": 77,
+        "user_score": 8.3
+      },
+      "playtime": {
+        "main_story": "15 hours",
+        "completionist": "35 hours",
+        "average": "25 hours"
+      },
+      "description": "A charming first-person life simulation where you play as Beatrix LeBeau, a rancher who makes a living wrangling adorable slimes on a mysterious planet.",
+      "gameplay_features": [
+        "Slime ranching and care",
+        "Exploration and discovery",
+        "Resource management",
+        "Ranch customization",
+        "Cute slime creatures",
+        "Peaceful gameplay"
+      ],
+      "accessibility_features": {
+        "adhd_friendly": {
+          "rating": 9,
+          "features": [
+            "Adorable, engaging creatures",
+            "Multiple activities to switch between",
+            "Clear progression systems",
+            "Satisfying collection mechanics",
+            "Immediate positive feedback",
+            "Hyperfocus-friendly gameplay loops"
+          ]
+        },
+        "anxiety_friendly": {
+          "rating": 10,
+          "features": [
+            "Extremely cute and positive atmosphere",
+            "No time pressure",
+            "No failure states",
+            "Peaceful, colorful world",
+            "Stress-free gameplay",
+            "Wholesome content"
+          ]
+        },
+        "autism_friendly": {
+          "rating": 9,
+          "features": [
+            "Routine-based ranching activities",
+            "Predictable slime behaviors",
+            "Clear cause-and-effect systems",
+            "Special interest accommodation (creature care)",
+            "Structured daily activities"
+          ]
+        },
+        "colorblind_friendly": {
+          "rating": 8,
+          "features": [
+            "Bright, high-contrast colors",
+            "Clear shape differentiation between slimes",
+            "Good visual hierarchy"
+          ]
+        },
+        "motor_accessible": {
+          "rating": 7,
+          "features": [
+            "First-person movement can be adjusted",
+            "No precise timing required",
+            "Customizable controls",
+            "Forgiving interaction system"
+          ]
+        }
+      },
+      "positive_psychology": {
+        "joy_induction": "Designed to create happiness and joy",
+        "stress_relief": "Widely used for stress relief and mood improvement",
+        "nurturing_behavior": "Encourages caring and nurturing behaviors",
+        "achievement_satisfaction": "Provides sense of accomplishment"
+      }
+    }
+  ],
+  "accessibility_resources": {
+    "organizations": [
+      {
+        "name": "AbleGamers",
+        "url": "https://ablegamers.org/",
+        "description": "Charity providing gaming accessibility resources and support"
+      },
+      {
+        "name": "Game Accessibility Guidelines",
+        "url": "https://gameaccessibilityguidelines.com/",
+        "description": "Comprehensive guidelines for accessible game design"
+      },
+      {
+        "name": "ADHD Gamers",
+        "url": "https://adhdgamers.org/",
+        "description": "Community and resources for ADHD gamers"
+      }
+    ],
+    "assessment_tools": [
+      {
+        "name": "ADHD Gaming Assessment",
+        "criteria": [
+          "Clear objectives and progress tracking",
+          "Ability to pause and save frequently",
+          "Customizable difficulty and pacing",
+          "Minimal overwhelming stimuli",
+          "Engaging reward systems",
+          "Flexible play session lengths"
+        ]
+      },
+      {
+        "name": "Anxiety-Friendly Gaming Checklist",
+        "criteria": [
+          "Low-stress gameplay mechanics",
+          "No time pressure or deadlines",
+          "Peaceful atmosphere and visuals",
+          "No jump scares or sudden surprises",
+          "Predictable game mechanics",
+          "Positive, supportive content"
+        ]
+      }
+    ]
+  },
+  "therapeutic_gaming": {
+    "benefits": [
+      "Stress relief and anxiety reduction",
+      "Cognitive skill development",
+      "Social connection and community",
+      "Emotional regulation practice",
+      "Achievement and self-efficacy",
+      "Creative expression outlet"
+    ],
+    "considerations": [
+      "Individual differences in preferences",
+      "Potential for hyperfocus or addiction",
+      "Need for balance with other activities",
+      "Importance of appropriate content",
+      "Value of community and social aspects"
+    ],
+    "professional_applications": [
+      "Occupational therapy",
+      "Social skills training",
+      "Cognitive behavioral therapy",
+      "Stress management programs",
+      "Educational interventions"
+    ]
+  }
+}

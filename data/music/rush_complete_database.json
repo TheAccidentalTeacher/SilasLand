@@ -1,0 +1,700 @@
+{
+  "band_info": {
+    "name": "Rush",
+    "formed": 1968,
+    "origin": "Toronto, Ontario, Canada",
+    "genres": ["Progressive rock", "Hard rock", "Heavy metal", "Synthesizer rock"],
+    "years_active": "1968-2018",
+    "members": {
+      "current": [
+        {
+          "name": "Geddy Lee",
+          "real_name": "Gary Lee Weinrib",
+          "role": ["Vocals", "Bass guitar", "Keyboards", "Synthesizers"],
+          "years": "1968-2018",
+          "birth_date": "1953-07-29",
+          "instruments": ["Rickenbacker bass", "Fender Jazz Bass", "Steinberger bass", "Various synthesizers"]
+        },
+        {
+          "name": "Alex Lifeson",
+          "real_name": "Aleksandar Živojinović",
+          "role": ["Guitar", "Backing vocals"],
+          "years": "1968-2018",
+          "birth_date": "1953-08-27",
+          "instruments": ["Gibson Les Paul", "Fender Stratocaster", "PRS guitars", "Various effects"]
+        }
+      ],
+      "former": [
+        {
+          "name": "Neil Peart",
+          "role": ["Drums", "Percussion", "Lyrics"],
+          "years": "1974-2015",
+          "birth_date": "1952-09-12",
+          "death_date": "2020-01-07",
+          "instruments": ["DW drums", "Sabian cymbals", "Extensive percussion setup"],
+          "legacy": "Considered one of the greatest drummers of all time, also primary lyricist"
+        },
+        {
+          "name": "John Rutsey",
+          "role": ["Drums"],
+          "years": "1968-1974",
+          "birth_date": "1952-07-23",
+          "death_date": "2008-05-11"
+        }
+      ]
+    }
+  },
+  "discography": {
+    "studio_albums": [
+      {
+        "id": 1,
+        "title": "Rush",
+        "release_date": "1974-03-01",
+        "label": "Moon Records",
+        "producer": "Rush",
+        "length": "37:52",
+        "chart_positions": {
+          "canada": 86
+        },
+        "certification": "Gold (Canada)",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Finding My Way",
+            "length": "5:06",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "key_signature": "E major",
+            "tempo": "Medium rock",
+            "themes": ["youth", "discovery", "relationships"],
+            "analysis": "Opening track showcases early Rush's blues-rock influences with Lifeson's guitar work prominently featured."
+          },
+          {
+            "number": 2,
+            "title": "Need Some Love",
+            "length": "2:19",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["love", "longing"],
+            "analysis": "Short, punchy rocker demonstrating the band's early hard rock approach."
+          },
+          {
+            "number": 3,
+            "title": "Take a Friend",
+            "length": "4:24",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["friendship", "support"],
+            "analysis": "Mid-tempo track with melodic sensibilities that would become Rush trademarks."
+          },
+          {
+            "number": 4,
+            "title": "Here Again",
+            "length": "7:35",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["reflection", "time"],
+            "analysis": "First extended composition hinting at progressive tendencies to come."
+          },
+          {
+            "number": 5,
+            "title": "What You're Doing",
+            "length": "4:22",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["confusion", "relationships"],
+            "analysis": "Driving rocker with complex rhythmic patterns."
+          },
+          {
+            "number": 6,
+            "title": "In the Mood",
+            "length": "3:34",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["desire", "mood"],
+            "analysis": "Blues-influenced track showing band's versatility."
+          },
+          {
+            "number": 7,
+            "title": "Before and After",
+            "length": "5:34",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["change", "time"],
+            "analysis": "Contemplative piece with dynamic shifts."
+          },
+          {
+            "number": 8,
+            "title": "Working Man",
+            "length": "7:09",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "key_signature": "E minor",
+            "tempo": "Heavy rock",
+            "themes": ["labor", "working class", "struggle"],
+            "analysis": "Rush's first classic, featuring extended guitar solos and working-class themes that resonated with audiences. Became their breakthrough song.",
+            "live_performances": "Remained a concert staple throughout their career",
+            "cultural_impact": "Anthem for blue-collar workers, frequently played on rock radio"
+          }
+        ],
+        "recording_info": {
+          "studio": "Eastern Sound, Toronto",
+          "engineer": "Dave Stock",
+          "notes": "Recorded with original drummer John Rutsey, who left shortly after due to health issues and musical differences."
+        },
+        "legacy": "Established Rush's hard rock foundation and introduced 'Working Man,' which became their signature song and radio breakthrough."
+      },
+      {
+        "id": 2,
+        "title": "Fly by Night",
+        "release_date": "1975-02-15",
+        "label": "Mercury Records",
+        "producer": "Rush and Terry Brown",
+        "length": "37:18",
+        "chart_positions": {
+          "canada": 9,
+          "us": 113
+        },
+        "certification": "Platinum (Canada), Gold (US)",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Anthem",
+            "length": "4:26",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["individualism", "self-reliance"],
+            "analysis": "First song with Neil Peart's lyrics, introducing Ayn Rand-influenced themes of individualism.",
+            "literary_influences": ["Ayn Rand's Objectivism"],
+            "drum_features": "Peart's first recorded performance with Rush, showcasing his technical precision"
+          },
+          {
+            "number": 2,
+            "title": "Best I Can",
+            "length": "3:24",
+            "writers": ["Geddy Lee", "Alex Lifeson"],
+            "vocals": "Geddy Lee",
+            "themes": ["effort", "relationships"],
+            "analysis": "Straightforward rocker with emotional vocals from Lee."
+          },
+          {
+            "number": 3,
+            "title": "Beneath, Between & Behind",
+            "length": "3:00",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["American history", "politics", "disillusionment"],
+            "analysis": "Peart's first political commentary, examining American ideals versus reality.",
+            "historical_context": "Written during post-Watergate era disillusionment"
+          },
+          {
+            "number": 4,
+            "title": "By-Tor & the Snow Dog",
+            "length": "8:37",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["fantasy", "good vs evil", "mythology"],
+            "analysis": "Rush's first epic composition, telling a fantasy story through instrumental sections and narrative lyrics.",
+            "structure": "Multi-part suite with distinct movements",
+            "inspiration": "Based on band's dogs and fantasy literature",
+            "live_performances": "Featured elaborate stage lighting and became concert highlight"
+          },
+          {
+            "number": 5,
+            "title": "Fly by Night",
+            "length": "3:21",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["freedom", "escape", "night"],
+            "analysis": "Title track with soaring melodies and themes of liberation.",
+            "radio_success": "Became second radio hit after 'Working Man'"
+          },
+          {
+            "number": 6,
+            "title": "Making Memories",
+            "length": "2:56",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["nostalgia", "time", "memory"],
+            "analysis": "Gentle ballad showcasing band's softer side."
+          },
+          {
+            "number": 7,
+            "title": "Rivendell",
+            "length": "5:00",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["fantasy", "peace", "refuge"],
+            "analysis": "Tolkien-inspired acoustic piece showing progressive influences.",
+            "literary_influences": ["J.R.R. Tolkien's Lord of the Rings"],
+            "instrumentation": "Features 12-string acoustic guitar and gentle percussion"
+          },
+          {
+            "number": 8,
+            "title": "In the End",
+            "length": "6:51",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["mortality", "legacy", "reflection"],
+            "analysis": "Album closer with philosophical themes and extended instrumental sections."
+          }
+        ],
+        "recording_info": {
+          "studio": "Toronto Sound Studios",
+          "engineer": "Terry Brown",
+          "notes": "First album with Neil Peart, marking the beginning of Rush's classic lineup and progressive direction."
+        },
+        "significance": "Marked Rush's transition from hard rock to progressive rock, introducing Neil Peart's drumming and lyrical contributions."
+      },
+      {
+        "id": 3,
+        "title": "Caress of Steel",
+        "release_date": "1975-09-24",
+        "label": "Mercury Records",
+        "producer": "Rush and Terry Brown",
+        "length": "44:20",
+        "chart_positions": {
+          "canada": 28,
+          "us": 148
+        },
+        "certification": "Gold (Canada)",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Bastille Day",
+            "length": "4:39",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["French Revolution", "rebellion", "freedom"],
+            "analysis": "Historical narrative about the French Revolution with driving rhythms.",
+            "historical_context": "Depicts the storming of the Bastille in 1789",
+            "musical_features": "Complex time signatures and aggressive guitar work"
+          },
+          {
+            "number": 2,
+            "title": "I Think I'm Going Bald",
+            "length": "3:41",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["aging", "vanity", "humor"],
+            "analysis": "Rare humorous song from Rush, dealing with aging anxieties.",
+            "reception": "Often cited as Rush's most unusual song"
+          },
+          {
+            "number": 3,
+            "title": "Lakeside Park",
+            "length": "4:10",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["nostalgia", "childhood", "summer"],
+            "analysis": "Nostalgic look at childhood summers at a Toronto amusement park.",
+            "personal_connection": "Based on Peart's memories of Port Dalhousie"
+          },
+          {
+            "number": 4,
+            "title": "The Necromancer",
+            "length": "12:33",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["fantasy", "magic", "adventure"],
+            "analysis": "Epic fantasy suite in three movements, showing Rush's progressive ambitions.",
+            "structure": "I. Into the Darkness, II. Under the Shadow, III. Return of the Prince",
+            "literary_influences": ["Fantasy literature", "Tolkien"],
+            "instrumentation": "Features acoustic guitars, Mellotron, and complex arrangements"
+          },
+          {
+            "number": 5,
+            "title": "The Fountain of Lamneth",
+            "length": "19:57",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["life journey", "spirituality", "self-discovery"],
+            "analysis": "Rush's longest composition, an allegorical journey through life stages.",
+            "structure": "Six-part suite: I. In the Valley, II. Didacts and Narpets, III. No One at the Bridge, IV. Panacea, V. Bacchus Plateau, VI. The Fountain",
+            "philosophical_themes": "Explores materialism, hedonism, and spiritual seeking",
+            "musical_complexity": "Features multiple time signatures, key changes, and instrumental virtuosity"
+          }
+        ],
+        "recording_info": {
+          "studio": "Toronto Sound Studios",
+          "engineer": "Terry Brown",
+          "notes": "Rush's most progressive album to date, featuring two epic compositions that pushed the boundaries of rock music."
+        },
+        "reception": "Initially poorly received commercially but later recognized as an important step in Rush's artistic development.",
+        "legacy": "Demonstrated Rush's commitment to progressive rock despite commercial pressures."
+      },
+      {
+        "id": 4,
+        "title": "2112",
+        "release_date": "1976-04-01",
+        "label": "Mercury Records",
+        "producer": "Rush and Terry Brown",
+        "length": "38:34",
+        "chart_positions": {
+          "canada": 5,
+          "us": 61
+        },
+        "certification": "3× Platinum (US), 2× Platinum (Canada)",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "2112",
+            "length": "20:34",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["individualism", "totalitarianism", "art", "freedom"],
+            "analysis": "Rush's magnum opus, a dystopian rock opera about individual creativity versus collective oppression.",
+            "structure": {
+              "I": "Overture (4:32) - Instrumental introduction establishing main themes",
+              "II": "The Temples of Syrinx (2:13) - Introduction to the totalitarian society",
+              "III": "Discovery (3:29) - Protagonist finds a guitar",
+              "IV": "Presentation (3:42) - Showing the guitar to the Priests",
+              "V": "Oracle: The Dream (2:00) - Vision of the past when music was free",
+              "VI": "Soliloquy (2:21) - Protagonist's despair and decision",
+              "VII": "Grand Finale (2:17) - Climactic ending and the Elder Race's return"
+            },
+            "literary_influences": ["Ayn Rand's Anthem", "Science fiction"],
+            "musical_features": "Complex arrangements, multiple themes, virtuosic performances",
+            "cultural_impact": "Became Rush's signature piece and prog rock classic",
+            "live_performances": "Performed in its entirety on many tours"
+          },
+          {
+            "number": 2,
+            "title": "A Passage to Bangkok",
+            "length": "3:34",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["travel", "exotic locations", "adventure"],
+            "analysis": "Travelogue song mentioning various international locations, with driving rhythms.",
+            "controversy": "Some interpreted drug references, though band denied this",
+            "musical_style": "Hard rock with Eastern-influenced guitar work"
+          },
+          {
+            "number": 3,
+            "title": "The Twilight Zone",
+            "length": "3:17",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["mystery", "supernatural", "television"],
+            "analysis": "Tribute to Rod Serling's TV series with mysterious, atmospheric music.",
+            "inspiration": "The Twilight Zone TV series",
+            "musical_features": "Eerie guitar effects and mysterious atmosphere"
+          },
+          {
+            "number": 4,
+            "title": "Lessons",
+            "length": "3:51",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["learning", "experience", "wisdom"],
+            "analysis": "Reflective song about life lessons and personal growth.",
+            "musical_style": "Mid-tempo rocker with thoughtful lyrics"
+          },
+          {
+            "number": 5,
+            "title": "Tears",
+            "length": "3:31",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["emotion", "sadness", "catharsis"],
+            "analysis": "Emotional ballad showcasing Lee's vocal range and the band's softer side.",
+            "instrumentation": "Features acoustic guitar and gentle dynamics"
+          },
+          {
+            "number": 6,
+            "title": "Something for Nothing",
+            "length": "3:59",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["work ethic", "achievement", "self-reliance"],
+            "analysis": "Album closer emphasizing the value of hard work and personal responsibility.",
+            "philosophical_themes": "Reflects Peart's Objectivist influences",
+            "musical_features": "Driving rhythm and powerful guitar work"
+          }
+        ],
+        "recording_info": {
+          "studio": "Toronto Sound Studios",
+          "engineer": "Terry Brown",
+          "notes": "Recorded under pressure from record label to produce more commercial material, Rush instead created their most ambitious work."
+        },
+        "significance": "Established Rush as major progressive rock force and saved their recording contract.",
+        "legacy": "Considered one of the greatest concept albums in rock history."
+      },
+      {
+        "id": 5,
+        "title": "A Farewell to Kings",
+        "release_date": "1977-09-01",
+        "label": "Mercury Records",
+        "producer": "Rush and Terry Brown",
+        "length": "37:16",
+        "chart_positions": {
+          "canada": 6,
+          "us": 33,
+          "uk": 22
+        },
+        "certification": "Platinum (US), Gold (Canada)",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "A Farewell to Kings",
+            "length": "5:51",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["monarchy", "democracy", "political change"],
+            "analysis": "Title track examining the decline of monarchical power and rise of democracy.",
+            "instrumentation": "Features classical guitar introduction and synthesizer",
+            "historical_context": "Reflects on the transition from feudalism to modern democracy"
+          },
+          {
+            "number": 2,
+            "title": "Xanadu",
+            "length": "11:05",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["immortality", "isolation", "Kubla Khan"],
+            "analysis": "Epic based on Coleridge's poem about the price of immortality.",
+            "literary_influences": ["Samuel Taylor Coleridge's 'Kubla Khan'"],
+            "structure": "Multi-part composition with distinct movements",
+            "instrumentation": "Features extensive use of synthesizers and complex arrangements",
+            "live_performances": "Became a concert staple with elaborate staging"
+          },
+          {
+            "number": 3,
+            "title": "Closer to the Heart",
+            "length": "2:53",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart", "Peter Talbot"],
+            "vocals": "Geddy Lee",
+            "themes": ["unity", "cooperation", "humanity"],
+            "analysis": "Rush's most accessible song about human cooperation and understanding.",
+            "commercial_success": "Became Rush's biggest radio hit to date",
+            "co-writer": "Peter Talbot contributed to lyrics",
+            "cultural_impact": "Widely played on radio and became fan favorite"
+          },
+          {
+            "number": 4,
+            "title": "Cinderella Man",
+            "length": "4:21",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["underdog", "perseverance", "boxing"],
+            "analysis": "Tribute to underdog spirit, inspired by boxing and fairy tales.",
+            "inspiration": "Boxing matches and Cinderella story",
+            "musical_style": "Driving rock with complex rhythms"
+          },
+          {
+            "number": 5,
+            "title": "Madrigal",
+            "length": "2:35",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["nature", "peace", "simplicity"],
+            "analysis": "Gentle acoustic piece showcasing band's softer, more pastoral side.",
+            "instrumentation": "Primarily acoustic guitar with subtle percussion",
+            "contrast": "Provides calm moment between more complex compositions"
+          },
+          {
+            "number": 6,
+            "title": "Cygnus X-1",
+            "length": "10:25",
+            "writers": ["Geddy Lee", "Alex Lifeson", "Neil Peart"],
+            "vocals": "Geddy Lee",
+            "themes": ["space", "black holes", "exploration", "science fiction"],
+            "analysis": "Science fiction epic about a journey into a black hole, to be continued on next album.",
+            "scientific_basis": "Based on actual astronomical object Cygnus X-1",
+            "structure": "Multi-part suite with narrative progression",
+            "continuation": "Story continues on 'Hemispheres' album",
+            "musical_complexity": "Features complex time signatures and instrumental virtuosity"
+          }
+        ],
+        "recording_info": {
+          "studio": "Rockfield Studios, Wales",
+          "engineer": "Terry Brown",
+          "notes": "First album recorded outside North America, in the Welsh countryside."
+        },
+        "significance": "Marked Rush's peak progressive period and international breakthrough.",
+        "innovations": "Increased use of synthesizers and complex arrangements."
+      }
+    ]
+  },
+  "lyrical_themes": {
+    "individualism": {
+      "description": "Central theme throughout Rush's catalog, influenced by Ayn Rand's Objectivism",
+      "key_songs": ["Anthem", "2112", "Freewill", "The Trees"],
+      "evolution": "From early Rand influence to more nuanced exploration of personal freedom"
+    },
+    "science_fiction": {
+      "description": "Futuristic and space-themed narratives exploring technology and humanity",
+      "key_songs": ["2112", "Cygnus X-1", "Red Barchetta", "Subdivisions"],
+      "influences": ["Isaac Asimov", "Arthur C. Clarke", "Ray Bradbury"]
+    },
+    "mythology_fantasy": {
+      "description": "Epic tales drawing from mythology, fantasy literature, and folklore",
+      "key_songs": ["By-Tor & the Snow Dog", "The Necromancer", "Xanadu", "The Trees"],
+      "influences": ["J.R.R. Tolkien", "Classical mythology", "Folk tales"]
+    },
+    "philosophy": {
+      "description": "Exploration of philosophical concepts and human nature",
+      "key_songs": ["Freewill", "The Spirit of Radio", "Limelight", "Time Stand Still"],
+      "concepts": ["Free will vs. determinism", "Fame and isolation", "Time and mortality"]
+    },
+    "social_commentary": {
+      "description": "Observations on modern society, technology, and human behavior",
+      "key_songs": ["Subdivisions", "The Big Money", "Force Ten", "Working Man"],
+      "topics": ["Suburban alienation", "Materialism", "Social pressure", "Technology's impact"]
+    }
+  },
+  "musical_evolution": {
+    "periods": [
+      {
+        "name": "Hard Rock Era",
+        "years": "1974-1975",
+        "albums": ["Rush", "Fly by Night"],
+        "characteristics": ["Blues-rock influences", "Straightforward song structures", "Heavy guitar focus"],
+        "key_tracks": ["Working Man", "Anthem", "Fly by Night"]
+      },
+      {
+        "name": "Progressive Era",
+        "years": "1975-1981",
+        "albums": ["Caress of Steel", "2112", "A Farewell to Kings", "Hemispheres", "Permanent Waves", "Moving Pictures"],
+        "characteristics": ["Complex compositions", "Conceptual albums", "Virtuosic performances", "Literary influences"],
+        "key_tracks": ["2112", "Xanadu", "The Spirit of Radio", "Tom Sawyer"]
+      },
+      {
+        "name": "Synthesizer Era",
+        "years": "1982-1987",
+        "albums": ["Signals", "Grace Under Pressure", "Power Windows", "Hold Your Fire"],
+        "characteristics": ["Heavy synthesizer use", "New Wave influences", "Shorter songs", "Modern production"],
+        "key_tracks": ["Subdivisions", "Distant Early Warning", "The Big Money", "Time Stand Still"]
+      },
+      {
+        "name": "Return to Rock",
+        "years": "1989-1996",
+        "albums": ["Presto", "Roll the Bones", "Counterparts", "Test for Echo"],
+        "characteristics": ["Guitar-driven sound", "Reduced synthesizers", "Alternative rock influences"],
+        "key_tracks": ["Show Don't Tell", "Dreamline", "Stick It Out", "Driven"]
+      },
+      {
+        "name": "Late Period",
+        "years": "2002-2012",
+        "albums": ["Vapor Trails", "Snakes & Arrows", "Clockwork Angels"],
+        "characteristics": ["Mature songwriting", "Balanced instrumentation", "Conceptual elements return"],
+        "key_tracks": ["One Little Victory", "Far Cry", "The Garden"]
+      }
+    ]
+  },
+  "live_performances": {
+    "notable_tours": [
+      {
+        "name": "2112 Tour",
+        "year": "1976-1977",
+        "significance": "First major headlining tour, established Rush as live force",
+        "setlist_highlights": ["2112 (complete)", "Working Man", "Fly by Night"]
+      },
+      {
+        "name": "Moving Pictures Tour",
+        "year": "1981",
+        "significance": "Peak of Rush's popularity, massive production",
+        "setlist_highlights": ["Tom Sawyer", "Limelight", "Red Barchetta", "YYZ"]
+      },
+      {
+        "name": "Rush in Rio",
+        "year": "2002",
+        "venue": "Maracanã Stadium, Brazil",
+        "attendance": "40,000+",
+        "significance": "Emotional performance showing Rush's global reach",
+        "notable_moments": ["Crowd singing along to instrumentals", "Overwhelming fan response"]
+      },
+      {
+        "name": "Time Machine Tour",
+        "year": "2010-2011",
+        "significance": "Moving Pictures 30th anniversary, album played in full",
+        "special_features": ["Complete Moving Pictures performance", "Vintage equipment", "Career-spanning setlist"]
+      },
+      {
+        "name": "R40 Live",
+        "year": "2015",
+        "significance": "Final tour, 40th anniversary celebration",
+        "concept": ["Reverse chronological setlist", "Stage props removed throughout show", "Emotional farewell"]
+      }
+    ],
+    "stage_production": {
+      "evolution": "From simple rock setup to elaborate theatrical productions",
+      "notable_elements": ["Rotating drum kit", "Projection screens", "Pyrotechnics", "Themed stage sets"],
+      "peart_solos": "Extended drum solos became concert highlights, featuring exotic percussion"
+    }
+  },
+  "awards_recognition": {
+    "rock_hall_of_fame": {
+      "inducted": 2013,
+      "ceremony": "Barclays Center, Brooklyn",
+      "inductors": ["Dave Grohl", "Taylor Hawkins"],
+      "significance": "Long-overdue recognition after years of fan campaigns"
+    },
+    "other_honors": [
+      {
+        "award": "Order of Canada",
+        "year": 1996,
+        "recipients": ["All three members"],
+        "significance": "Canada's highest civilian honor"
+      },
+      {
+        "award": "Canadian Music Hall of Fame",
+        "year": 1994,
+        "significance": "Recognition of contribution to Canadian music"
+      },
+      {
+        "award": "Juno Awards",
+        "wins": 7,
+        "categories": ["Group of the Year", "Album of the Year", "Best Hard Rock/Metal Album"]
+      }
+    ]
+  },
+  "cultural_impact": {
+    "influence_on_musicians": [
+      "Dream Theater",
+      "Tool",
+      "Porcupine Tree",
+      "Mastodon",
+      "Coheed and Cambria"
+    ],
+    "fan_culture": {
+      "dedication": "Extremely loyal fanbase spanning multiple generations",
+      "conventions": "Rush conventions and tribute bands worldwide",
+      "academic_study": "Subject of scholarly analysis and university courses"
+    },
+    "media_appearances": [
+      {
+        "title": "I Love You, Man",
+        "year": 2009,
+        "significance": "Rush fandom central to plot"
+      },
+      {
+        "title": "Rush: Beyond the Lighted Stage",
+        "year": 2010,
+        "type": "Documentary",
+        "significance": "Comprehensive band documentary"
+      }
+    ]
+  },
+  "technical_analysis": {
+    "geddy_lee": {
+      "vocal_range": "Tenor with distinctive high register",
+      "bass_style": "Melodic, often carrying lead lines while singing",
+      "keyboards": "Extensive use of synthesizers, particularly in 1980s",
+      "signature_sounds": ["Rickenbacker bass tone", "Oberheim synthesizers", "Taurus pedals"]
+    },
+    "alex_lifeson": {
+      "guitar_style": "Versatile, from heavy riffs to atmospheric textures",
+      "influences": ["Jimmy Page", "Jimi Hendrix", "Classical music"],
+      "signature_techniques": ["Chord voicings", "Effects processing", "Acoustic fingerpicking"],
+      "equipment": ["Gibson Les Paul", "PRS guitars", "Extensive effects rack"]
+    },
+    "neil_peart": {
+      "drumming_style": "Technical precision combined with musical sensitivity",
+      "influences": ["Buddy Rich", "Keith Moon", "Bill Bruford", "African rhythms"],
+      "kit_evolution": "From basic rock kit to massive percussion setup",
+      "lyrical_themes": ["Literature", "Philosophy", "Travel", "Personal growth"],
+      "writing_process": "Extensive research and multiple drafts"
+    }
+  }
+}

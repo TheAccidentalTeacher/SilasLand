@@ -1,0 +1,673 @@
+{
+  "overview": {
+    "description": "Comprehensive database of piano music spanning from Baroque to Contemporary periods",
+    "scope": "Classical, Jazz, Popular, and Contemporary piano repertoire",
+    "organization": "By period, composer, difficulty level, and musical style"
+  },
+  "periods": {
+    "baroque": {
+      "years": "1600-1750",
+      "characteristics": ["Counterpoint", "Ornamentation", "Dance forms", "Binary forms"],
+      "key_composers": ["Johann Sebastian Bach", "Domenico Scarlatti", "Jean-Philippe Rameau", "Georg Friedrich Handel"],
+      "important_forms": ["Suite", "Prelude and Fugue", "Sonata", "Variation"],
+      "keyboard_instruments": ["Harpsichord", "Clavichord", "Early fortepiano"]
+    },
+    "classical": {
+      "years": "1750-1820",
+      "characteristics": ["Clarity", "Balance", "Formal structure", "Homophonic texture"],
+      "key_composers": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Franz Joseph Haydn", "Muzio Clementi"],
+      "important_forms": ["Sonata form", "Rondo", "Theme and variations", "Minuet and trio"],
+      "developments": ["Fortepiano development", "Dynamic contrasts", "Articulation"]
+    },
+    "romantic": {
+      "years": "1820-1900",
+      "characteristics": ["Emotional expression", "Programmatic music", "Extended harmony", "Virtuosity"],
+      "key_composers": ["Frédéric Chopin", "Franz Liszt", "Robert Schumann", "Johannes Brahms", "Franz Schubert"],
+      "important_forms": ["Character piece", "Ballade", "Nocturne", "Étude", "Impromptu"],
+      "innovations": ["Pedal techniques", "Extended range", "Coloristic effects"]
+    },
+    "impressionist": {
+      "years": "1890-1920",
+      "characteristics": ["Atmospheric", "Coloristic", "Non-functional harmony", "Exotic scales"],
+      "key_composers": ["Claude Debussy", "Maurice Ravel", "Erik Satie"],
+      "important_techniques": ["Whole-tone scales", "Parallel chords", "Pedal effects", "Timbral exploration"],
+      "influences": ["Visual arts", "Poetry", "Eastern music"]
+    },
+    "modern": {
+      "years": "1900-1950",
+      "characteristics": ["Atonality", "Polyrhythm", "Dissonance", "New forms"],
+      "key_composers": ["Béla Bartók", "Sergei Prokofiev", "Arnold Schoenberg", "Igor Stravinsky"],
+      "innovations": ["Twelve-tone technique", "Prepared piano", "Extended techniques"],
+      "movements": ["Expressionism", "Neoclassicism", "Serialism"]
+    },
+    "contemporary": {
+      "years": "1950-present",
+      "characteristics": ["Diverse styles", "Electronic integration", "Extended techniques", "Minimalism"],
+      "key_composers": ["John Cage", "Philip Glass", "Steve Reich", "György Ligeti", "Arvo Pärt"],
+      "techniques": ["Prepared piano", "Electronics", "Graphic notation", "Aleatoric music"],
+      "movements": ["Minimalism", "Spectralism", "New Complexity"]
+    }
+  },
+  "composers": {
+    "johann_sebastian_bach": {
+      "full_name": "Johann Sebastian Bach",
+      "birth_death": "1685-1750",
+      "nationality": "German",
+      "period": "Baroque",
+      "style": "Contrapuntal master, mathematical precision, spiritual depth",
+      "major_works": [
+        {
+          "title": "The Well-Tempered Clavier",
+          "composition_date": "Book I: 1722, Book II: 1742",
+          "structure": "48 preludes and fugues in all major and minor keys",
+          "significance": "Demonstrates equal temperament tuning, pedagogical masterpiece",
+          "difficulty": "Intermediate to Advanced",
+          "key_pieces": [
+            {
+              "title": "Prelude in C Major, BWV 846",
+              "key": "C major",
+              "difficulty": "Intermediate",
+              "duration": "2:00",
+              "characteristics": ["Arpeggiated texture", "Harmonic progression", "Peaceful character"],
+              "pedagogical_value": "Excellent for developing finger independence and harmonic understanding"
+            },
+            {
+              "title": "Fugue in C# minor, BWV 849",
+              "key": "C# minor",
+              "difficulty": "Advanced",
+              "duration": "3:30",
+              "characteristics": ["Five voices", "Complex counterpoint", "Emotional intensity"],
+              "analysis": "Demonstrates Bach's mastery of fugal writing and emotional expression"
+            }
+          ]
+        },
+        {
+          "title": "Goldberg Variations",
+          "composition_date": "1741",
+          "structure": "Aria with 30 variations",
+          "significance": "Monumental variation cycle, technical and musical masterpiece",
+          "difficulty": "Advanced",
+          "duration": "80 minutes",
+          "notable_variations": [
+            {
+              "number": "Aria",
+              "character": "Elegant, ornamented melody",
+              "significance": "Theme for all variations"
+            },
+            {
+              "number": "Variation 1",
+              "character": "Simple elaboration of the aria",
+              "technique": "Basic ornamentation"
+            },
+            {
+              "number": "Variation 5",
+              "character": "Hand-crossing spectacular",
+              "technique": "Virtuosic display"
+            },
+            {
+              "number": "Variation 15",
+              "character": "Minor mode, introspective",
+              "technique": "Canonic writing"
+            },
+            {
+              "number": "Variation 25",
+              "character": "Deeply emotional, chromatic",
+              "significance": "Emotional climax of the work"
+            },
+            {
+              "number": "Variation 30",
+              "character": "Quodlibet - popular song medley",
+              "significance": "Humorous conclusion before return to aria"
+            }
+          ]
+        },
+        {
+          "title": "French Suites",
+          "composition_date": "1722-1725",
+          "structure": "Six suites in dance form",
+          "difficulty": "Intermediate",
+          "characteristics": ["Elegant style", "Moderate technical demands", "Perfect for learning Baroque style"],
+          "movements": ["Allemande", "Courante", "Sarabande", "Optional dances", "Gigue"]
+        },
+        {
+          "title": "English Suites",
+          "composition_date": "1715-1720",
+          "structure": "Six suites with preludes",
+          "difficulty": "Advanced",
+          "characteristics": ["Virtuosic preludes", "Extended movements", "Italian influences"],
+          "significance": "More elaborate than French Suites, concert repertoire"
+        }
+      ],
+      "playing_style": {
+        "articulation": "Clear, detached touch for counterpoint",
+        "ornamentation": "Historically informed, tasteful embellishment",
+        "pedaling": "Minimal, for clarity of voices",
+        "tempo": "Steady, allowing for rhythmic precision"
+      },
+      "pedagogical_importance": "Essential for developing contrapuntal hearing, finger independence, and musical architecture understanding"
+    },
+    "wolfgang_amadeus_mozart": {
+      "full_name": "Wolfgang Amadeus Mozart",
+      "birth_death": "1756-1791",
+      "nationality": "Austrian",
+      "period": "Classical",
+      "style": "Perfect balance, melodic genius, formal clarity",
+      "major_works": [
+        {
+          "title": "Piano Sonatas",
+          "total_number": 18,
+          "composition_dates": "1774-1789",
+          "significance": "Models of Classical form and style",
+          "notable_sonatas": [
+            {
+              "number": "K. 331 in A major",
+              "movements": ["Theme and Variations", "Minuet and Trio", "Rondo alla Turca"],
+              "difficulty": "Intermediate",
+              "characteristics": ["Elegant variations", "Famous Turkish march finale"],
+              "popularity": "One of most performed Mozart sonatas"
+            },
+            {
+              "number": "K. 457 in C minor",
+              "movements": ["Allegro", "Adagio", "Allegro assai"],
+              "difficulty": "Advanced",
+              "characteristics": ["Dramatic minor key", "Emotional intensity", "Beethoven influence"],
+              "significance": "Mozart's most dramatic sonata"
+            },
+            {
+              "number": "K. 545 in C major",
+              "movements": ["Allegro", "Andante", "Rondo"],
+              "difficulty": "Intermediate",
+              "characteristics": ["Simple texture", "Clear form", "Pedagogical value"],
+              "nickname": "Sonata facile (Easy Sonata)"
+            }
+          ]
+        },
+        {
+          "title": "Piano Concertos",
+          "total_number": 27,
+          "composition_dates": "1767-1791",
+          "significance": "Pinnacle of Classical concerto form",
+          "notable_concertos": [
+            {
+              "number": "No. 20 in D minor, K. 466",
+              "key": "D minor",
+              "difficulty": "Advanced",
+              "characteristics": ["Dramatic minor key", "Romantic anticipation", "Virtuosic cadenzas"],
+              "movements": ["Allegro", "Romance", "Rondo"]
+            },
+            {
+              "number": "No. 23 in A major, K. 488",
+              "key": "A major",
+              "difficulty": "Advanced",
+              "characteristics": ["Lyrical beauty", "Perfect balance", "Sublime slow movement"],
+              "significance": "Considered one of Mozart's greatest concertos"
+            }
+          ]
+        }
+      ],
+      "playing_style": {
+        "touch": "Light, elegant, singing tone",
+        "articulation": "Clear, precise, varied",
+        "pedaling": "Sparing, for clarity",
+        "ornamentation": "Tasteful, in Classical style"
+      },
+      "pedagogical_value": "Essential for learning Classical style, form, and elegant expression"
+    },
+    "frederic_chopin": {
+      "full_name": "Frédéric François Chopin",
+      "birth_death": "1810-1849",
+      "nationality": "Polish-French",
+      "period": "Romantic",
+      "style": "Poetic expression, innovative harmony, pianistic idiom",
+      "significance": "Revolutionized piano technique and expression, created modern piano style",
+      "major_works": [
+        {
+          "title": "Nocturnes",
+          "total_number": 21,
+          "composition_dates": "1827-1846",
+          "characteristics": ["Lyrical melodies", "Ornate decoration", "Night-time atmosphere"],
+          "notable_pieces": [
+            {
+              "title": "Nocturne in E-flat major, Op. 9 No. 2",
+              "key": "E-flat major",
+              "difficulty": "Intermediate",
+              "duration": "4:30",
+              "characteristics": ["Famous melody", "Elaborate ornamentation", "Perfect introduction to Chopin"],
+              "technique": ["Cantabile playing", "Ornamental passages", "Pedal technique"]
+            },
+            {
+              "title": "Nocturne in C# minor, Op. 27 No. 1",
+              "key": "C# minor",
+              "difficulty": "Advanced",
+              "duration": "5:00",
+              "characteristics": ["Dramatic contrasts", "Passionate middle section", "Sophisticated harmony"],
+              "emotional_content": "Deep melancholy alternating with passionate outbursts"
+            }
+          ]
+        },
+        {
+          "title": "Études",
+          "total_number": 27,
+          "composition_dates": "1829-1839",
+          "significance": "Technical studies that are also concert pieces",
+          "innovation": "Combined technical development with musical beauty",
+          "notable_pieces": [
+            {
+              "title": "Étude in C major, Op. 10 No. 1",
+              "key": "C major",
+              "difficulty": "Advanced",
+              "technique": "Right-hand arpeggios, finger independence",
+              "nickname": "Waterfall",
+              "pedagogical_value": "Develops right-hand technique and finger strength"
+            },
+            {
+              "title": "Étude in E major, Op. 10 No. 3",
+              "key": "E major",
+              "difficulty": "Advanced",
+              "technique": "Cantabile playing, voicing",
+              "nickname": "Tristesse",
+              "characteristics": ["Beautiful melody", "Emotional expression", "Technical challenges in voicing"]
+            },
+            {
+              "title": "Revolutionary Étude, Op. 10 No. 12",
+              "key": "C minor",
+              "difficulty": "Advanced",
+              "technique": "Left-hand passages, dramatic expression",
+              "historical_context": "Written in response to Warsaw uprising",
+              "characteristics": ["Thunderous left-hand passages", "Patriotic fervor", "Technical brilliance"]
+            }
+          ]
+        },
+        {
+          "title": "Ballades",
+          "total_number": 4,
+          "composition_dates": "1831-1842",
+          "significance": "Narrative piano pieces, Chopin's most substantial works",
+          "innovation": "Created the piano ballade form",
+          "notable_pieces": [
+            {
+              "title": "Ballade No. 1 in G minor, Op. 23",
+              "key": "G minor",
+              "difficulty": "Advanced",
+              "duration": "9:00",
+              "structure": "Narrative form with contrasting themes",
+              "characteristics": ["Dramatic storytelling", "Technical brilliance", "Emotional depth"],
+              "significance": "First and most popular of the ballades"
+            },
+            {
+              "title": "Ballade No. 4 in F minor, Op. 52",
+              "key": "F minor",
+              "difficulty": "Advanced",
+              "duration": "12:00",
+              "characteristics": ["Complex structure", "Variation technique", "Culmination of ballade form"],
+              "significance": "Considered Chopin's greatest single work"
+            }
+          ]
+        },
+        {
+          "title": "Polonaises",
+          "total_number": 16,
+          "composition_dates": "1817-1846",
+          "significance": "Polish national dance, patriotic expression",
+          "characteristics": ["Triple meter", "Heroic character", "Polish rhythms"],
+          "notable_pieces": [
+            {
+              "title": "Polonaise in A-flat major, Op. 53",
+              "key": "A-flat major",
+              "difficulty": "Advanced",
+              "nickname": "Heroic",
+              "characteristics": ["Triumphant character", "Octave passages", "Brilliant technique"],
+              "significance": "Most famous and heroic of the polonaises"
+            }
+          ]
+        }
+      ],
+      "technical_innovations": [
+        "Extended use of pedal for color and resonance",
+        "Rubato - flexible tempo for expression",
+        "New fingerings and hand positions",
+        "Exploitation of piano's full range",
+        "Coloristic harmony and voice leading"
+      ],
+      "playing_style": {
+        "touch": "Varied, from delicate to powerful",
+        "pedaling": "Extensive use for color and legato",
+        "rubato": "Flexible tempo for expression",
+        "ornamentation": "Integral to melodic line"
+      },
+      "influence": "Established modern piano technique, influenced all subsequent piano composers"
+    },
+    "claude_debussy": {
+      "full_name": "Achille-Claude Debussy",
+      "birth_death": "1862-1918",
+      "nationality": "French",
+      "period": "Impressionist",
+      "style": "Atmospheric, coloristic, innovative harmony",
+      "significance": "Revolutionized piano sound, created impressionist style",
+      "major_works": [
+        {
+          "title": "Suite Bergamasque",
+          "composition_date": "1890, revised 1905",
+          "movements": ["Prélude", "Menuet", "Clair de lune", "Passepied"],
+          "significance": "Contains the famous 'Clair de lune'",
+          "notable_movement": {
+            "title": "Clair de lune",
+            "key": "D-flat major",
+            "difficulty": "Intermediate-Advanced",
+            "duration": "5:00",
+            "characteristics": ["Impressionistic harmony", "Atmospheric pedaling", "Poetic expression"],
+            "technique": ["Voicing", "Pedal technique", "Tonal color"],
+            "popularity": "One of the most beloved piano pieces"
+          }
+        },
+        {
+          "title": "Préludes",
+          "books": 2,
+          "total_pieces": 24,
+          "composition_dates": "Book I: 1909-1910, Book II: 1912-1913",
+          "significance": "Masterpieces of impressionist piano writing",
+          "notable_pieces": [
+            {
+              "title": "La fille aux cheveux de lin (The Girl with the Flaxen Hair)",
+              "book": "Book I, No. 8",
+              "key": "G-flat major",
+              "difficulty": "Intermediate",
+              "characteristics": ["Simple melody", "Impressionist harmony", "Gentle character"],
+              "technique": ["Voicing", "Pedal control", "Subtle dynamics"]
+            },
+            {
+              "title": "Cloches à travers les feuilles (Bells Through the Leaves)",
+              "book": "Book II, No. 1",
+              "difficulty": "Advanced",
+              "characteristics": ["Bell-like sonorities", "Complex textures", "Atmospheric effects"],
+              "technique": ["Layered textures", "Pedal effects", "Timbral control"]
+            }
+          ]
+        },
+        {
+          "title": "Images",
+          "sets": 2,
+          "composition_dates": "Set I: 1905, Set II: 1907",
+          "significance": "Advanced impressionist techniques",
+          "notable_pieces": [
+            {
+              "title": "Reflets dans l'eau (Reflections in the Water)",
+              "set": "Set I, No. 1",
+              "difficulty": "Advanced",
+              "characteristics": ["Water imagery", "Fluid textures", "Innovative pedaling"],
+              "technique": ["Advanced pedaling", "Textural control", "Impressionist effects"]
+            }
+          ]
+        }
+      ],
+      "technical_innovations": [
+        "Whole-tone scales and exotic modes",
+        "Parallel chord progressions",
+        "Extended pedal techniques",
+        "Coloristic use of register",
+        "Non-functional harmony"
+      ],
+      "playing_style": {
+        "touch": "Varied colors, atmospheric",
+        "pedaling": "Extensive, for color and blend",
+        "dynamics": "Subtle gradations",
+        "tempo": "Flexible, impressionistic"
+      },
+      "influence": "Created new piano sonorities, influenced 20th-century composers"
+    },
+    "bill_evans": {
+      "full_name": "William John Evans",
+      "birth_death": "1929-1980",
+      "nationality": "American",
+      "period": "Jazz",
+      "style": "Impressionistic jazz, sophisticated harmony, introspective",
+      "significance": "Revolutionized jazz piano, influenced generations of pianists",
+      "major_contributions": [
+        {
+          "area": "Harmonic Innovation",
+          "techniques": ["Rootless voicings", "Quartal harmony", "Modal harmony", "Impressionist influences"],
+          "influence": "Changed how jazz pianists approach chord voicings"
+        },
+        {
+          "area": "Touch and Technique",
+          "characteristics": ["Light, singing touch", "Classical technique applied to jazz", "Subtle dynamics"],
+          "innovation": "Brought classical piano technique to jazz"
+        },
+        {
+          "area": "Trio Playing",
+          "innovation": "Interactive trio concept",
+          "significance": "Bass and drums as equal partners, not just rhythm section",
+          "famous_trio": "With Scott LaFaro and Paul Motian"
+        }
+      ],
+      "essential_recordings": [
+        {
+          "album": "Waltz for Debby",
+          "year": 1961,
+          "significance": "Live recording showcasing trio interaction",
+          "key_tracks": ["Waltz for Debby", "Autumn Leaves", "My Foolish Heart"]
+        },
+        {
+          "album": "Sunday at the Village Vanguard",
+          "year": 1961,
+          "significance": "Companion to Waltz for Debby, same legendary performance",
+          "key_tracks": ["Gloria's Step", "My Man's Gone Now", "Solar"]
+        },
+        {
+          "album": "Portrait in Jazz",
+          "year": 1960,
+          "significance": "Studio album showcasing Evans' mature style",
+          "key_tracks": ["Come Rain or Come Shine", "When I Fall in Love", "Peri's Scope"]
+        }
+      ],
+      "signature_pieces": [
+        {
+          "title": "Waltz for Debby",
+          "composer": "Bill Evans",
+          "characteristics": ["3/4 time", "Impressionistic harmony", "Lyrical melody"],
+          "significance": "Evans' most famous composition"
+        },
+        {
+          "title": "Peace Piece",
+          "composer": "Bill Evans",
+          "characteristics": ["Meditative", "Ostinato bass", "Impressionistic"],
+          "influence": "Influenced minimalist composers"
+        }
+      ],
+      "harmonic_concepts": [
+        {
+          "concept": "Rootless Voicings",
+          "description": "Chord voicings without the root note",
+          "application": "Creates smoother voice leading, allows bass to define harmony"
+        },
+        {
+          "concept": "Modal Harmony",
+          "description": "Use of church modes for harmonic color",
+          "application": "Creates different emotional colors beyond major/minor"
+        },
+        {
+          "concept": "Quartal Harmony",
+          "description": "Chords built in fourths rather than thirds",
+          "application": "Creates modern, open sound"
+        }
+      ],
+      "influence_on_jazz": "Transformed jazz piano from percussive to lyrical, influenced countless pianists including Keith Jarrett, Brad Mehldau, and Ethan Iverson"
+    }
+  },
+  "practice_resources": {
+    "method_books": {
+      "beginner": [
+        {
+          "title": "Alfred's Basic Piano Library",
+          "authors": ["Willard Palmer", "Morton Manus", "Amanda Vick Lethco"],
+          "levels": "Beginner to Intermediate",
+          "approach": "Comprehensive method with theory, technique, and repertoire",
+          "strengths": ["Well-organized progression", "Variety of musical styles", "Strong theoretical foundation"]
+        },
+        {
+          "title": "Faber Piano Adventures",
+          "authors": ["Nancy Faber", "Randall Faber"],
+          "levels": "Beginner to Intermediate",
+          "approach": "Creative approach with emphasis on musicality",
+          "strengths": ["Engaging repertoire", "Creative exercises", "Strong pedagogical sequence"]
+        },
+        {
+          "title": "Bastien Piano Basics",
+          "author": "James Bastien",
+          "levels": "Beginner to Intermediate",
+          "approach": "Multi-book approach with separate books for different skills",
+          "strengths": ["Thorough coverage", "Systematic approach", "Good for traditional teaching"]
+        }
+      ],
+      "intermediate": [
+        {
+          "title": "Czerny Studies",
+          "composer": "Carl Czerny",
+          "focus": "Technical development",
+          "notable_collections": ["School of Velocity Op. 299", "The Art of Finger Dexterity Op. 740"],
+          "benefits": ["Finger independence", "Speed development", "Classical technique"]
+        },
+        {
+          "title": "Hanon: The Virtuoso Pianist",
+          "composer": "Charles-Louis Hanon",
+          "focus": "Finger strength and independence",
+          "exercises": "60 exercises for developing technique",
+          "benefits": ["Finger strength", "Independence", "Endurance"],
+          "caution": "Should be practiced musically, not mechanically"
+        }
+      ],
+      "advanced": [
+        {
+          "title": "Chopin Études",
+          "composer": "Frédéric Chopin",
+          "significance": "Technical studies that are also masterpieces",
+          "benefits": ["Advanced technique", "Musical expression", "Romantic style"],
+          "prerequisite": "Solid intermediate technique required"
+        },
+        {
+          "title": "Liszt Technical Studies",
+          "composer": "Franz Liszt",
+          "focus": "Virtuosic technique",
+          "benefits": ["Advanced virtuosity", "Orchestral effects", "Romantic expression"],
+          "difficulty": "Very advanced"
+        }
+      ]
+    },
+    "technique_development": {
+      "scales_arpeggios": {
+        "importance": "Foundation of piano technique",
+        "practice_methods": [
+          "Slow practice for accuracy",
+          "Rhythmic variations",
+          "Dynamic variations",
+          "Articulation variations"
+        ],
+        "progression": [
+          "Major scales (all keys)",
+          "Minor scales (natural, harmonic, melodic)",
+          "Chromatic scales",
+          "Major arpeggios",
+          "Minor arpeggios",
+          "Dominant 7th arpeggios",
+          "Diminished 7th arpeggios"
+        ]
+      },
+      "finger_independence": {
+        "exercises": [
+          "Five-finger patterns",
+          "Hanon exercises",
+          "Bach inventions",
+          "Czerny studies"
+        ],
+        "goals": ["Equal finger strength", "Independence of fingers", "Clarity of articulation"]
+      },
+      "pedaling": {
+        "types": [
+          {
+            "type": "Sustain Pedal",
+            "techniques": ["Legato pedaling", "Rhythmic pedaling", "Coloristic pedaling"],
+            "importance": "Essential for musical expression and legato playing"
+          },
+          {
+            "type": "Soft Pedal (Una Corda)",
+            "use": "Tonal color and dynamics",
+            "technique": "Changes timbre, not just volume"
+          },
+          {
+            "type": "Sostenuto Pedal",
+            "use": "Selective sustaining of notes",
+            "availability": "Grand pianos only"
+          }
+        ]
+      }
+    },
+    "repertoire_progression": {
+      "beginner": [
+        "Simple folk songs and melodies",
+        "Easy classical pieces (Clementi sonatinas)",
+        "Basic Bach minuets",
+        "Simple Chopin waltzes"
+      ],
+      "intermediate": [
+        "Bach Inventions",
+        "Mozart sonatas (easier ones)",
+        "Chopin easier waltzes and nocturnes",
+        "Debussy easier pieces",
+        "Schumann Album for the Young"
+      ],
+      "advanced": [
+        "Bach Well-Tempered Clavier",
+        "Mozart sonatas (all)",
+        "Chopin ballades and études",
+        "Debussy préludes",
+        "Beethoven sonatas",
+        "Liszt études"
+      ]
+    }
+  },
+  "performance_practice": {
+    "historical_periods": {
+      "baroque": {
+        "instruments": "Harpsichord, clavichord, early fortepiano",
+        "articulation": "Generally detached, clear voicing",
+        "ornamentation": "Essential, improvised or written",
+        "tempo": "Generally steady, some flexibility in slow movements",
+        "dynamics": "Terraced dynamics, limited crescendo/diminuendo"
+      },
+      "classical": {
+        "instruments": "Fortepiano, early modern piano",
+        "articulation": "Varied, clear and precise",
+        "ornamentation": "Written out or indicated, less improvised",
+        "tempo": "Steady with some flexibility",
+        "dynamics": "Gradual changes, wider range than Baroque"
+      },
+      "romantic": {
+        "instruments": "Modern piano",
+        "articulation": "Expressive, varied for character",
+        "tempo": "Rubato, flexible for expression",
+        "dynamics": "Full range, dramatic contrasts",
+        "pedaling": "Extensive use for color and legato"
+      }
+    },
+    "interpretation_guidelines": {
+      "score_study": [
+        "Analyze harmonic structure",
+        "Identify formal elements",
+        "Study composer's style",
+        "Research historical context"
+      ],
+      "practice_methods": [
+        "Slow practice for accuracy",
+        "Mental practice",
+        "Sectional practice",
+        "Performance practice"
+      ],
+      "musical_elements": [
+        "Phrasing and breathing",
+        "Dynamic shaping",
+        "Tempo relationships",
+        "Textural balance"
+      ]
+    }
+  }
+}

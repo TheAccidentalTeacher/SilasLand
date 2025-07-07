@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "title": "Quotes and Daily Inspiration Database",
+    "description": "Comprehensive collection of inspirational quotes, daily wisdom, and motivational content",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "total_quotes": 500,
+    "focus": "Neurodivergent-friendly inspiration, accessibility, therapeutic value"
+  },
+  "neurodivergent_inspiration": {
+    "autism_acceptance": [
+      {
+        "quote": "Autism is not a processing error. It's a different operating system.",
+        "author": "Unknown",
+        "theme": "acceptance",
+        "therapeutic_value": "Reframes autism as difference rather than deficit",
+        "daily_application": "Remind yourself that different doesn't mean wrong"
+      },
+      {
+        "quote": "I am not broken. I am not a puzzle. I am not a disease. I am a person.",
+        "author": "Autism Self-Advocacy Network",
+        "theme": "self_advocacy",
+        "therapeutic_value": "Affirms inherent worth and humanity",
+        "daily_application": "Use as affirmation when facing discrimination"
+      },
+      {
+        "quote": "The world needs different kinds of minds to work together.",
+        "author": "Temple Grandin",
+        "theme": "diversity",
+        "therapeutic_value": "Emphasizes value of neurodivergent contributions",
+        "daily_application": "Remember your unique perspective has value"
+      },
+      {
+        "quote": "Autism is part of who I am, not something I have.",
+        "author": "Ari Ne'eman",
+        "theme": "identity",
+        "therapeutic_value": "Promotes identity-first language and self-acceptance",
+        "daily_application": "Embrace autism as integral part of identity"
+      },
+      {
+        "quote": "Different, not less.",
+        "author": "Temple Grandin",
+        "theme": "equality",
+        "therapeutic_value": "Challenges deficit-based thinking",
+        "daily_application": "Counter negative self-talk with this reminder"
+      }
+    ],
+    "adhd_empowerment": [
+      {
+        "quote": "ADHD is not a disorder of attention. It's a disorder of regulating attention.",
+        "author": "Dr. Russell Barkley",
+        "theme": "understanding",
+        "therapeutic_value": "Provides accurate understanding of ADHD",
+        "daily_application": "Use to explain ADHD to others and yourself"
+      },
+      {
+        "quote": "Your ADHD brain is not broken. It's beautifully different.",
+        "author": "Unknown",
+        "theme": "self_acceptance",
+        "therapeutic_value": "Promotes positive self-image",
+        "daily_application": "Affirmation for difficult days"
+      },
+      {
+        "quote": "I have ADHD and I have taken medicine for it since I was a kid. It affects how my brain works, but it doesn't affect what I can achieve.",
+        "author": "Michael Phelps",
+        "theme": "achievement",
+        "therapeutic_value": "Shows ADHD doesn't limit potential",
+        "daily_application": "Remember when facing challenges or setbacks"
+      },
+      {
+        "quote": "ADHD is not about knowing what to do, but about doing what you know.",
+        "author": "Dr. Russell Barkley",
+        "theme": "executive_function",
+        "therapeutic_value": "Explains ADHD challenges accurately",
+        "daily_application": "Be patient with yourself when struggling to act on knowledge"
+      },
+      {
+        "quote": "My ADHD brain is like a browser with 47 tabs open, 5 of them are frozen, and I have no idea where the music is coming from.",
+        "author": "Unknown",
+        "theme": "humor",
+        "therapeutic_value": "Uses humor to normalize ADHD experience",
+        "daily_application": "Share with others to explain ADHD experience"
+      }
+    ],
+    "neurodivergent_pride": [
+      {
+        "quote": "Neurodiversity is the idea that neurological differences like autism and ADHD are the result of normal, natural variation in the human genome.",
+        "author": "Ari Ne'eman",
+        "theme": "neurodiversity",
+        "therapeutic_value": "Frames neurodivergence as natural variation",
+        "daily_application": "Remember you're part of natural human diversity"
+      },
+      {
+        "quote": "We don't need to be cured. We need to be understood.",
+        "author": "Autistic Self Advocacy Network",
+        "theme": "acceptance",
+        "therapeutic_value": "Advocates for understanding over cure",
+        "daily_application": "Use when advocating for accommodations"
+      },
+      {
+        "quote": "Stimming is not a behavior to be stopped. It's a form of self-regulation and expression.",
+        "author": "Unknown",
+        "theme": "stimming",
+        "therapeutic_value": "Validates stimming as healthy behavior",
+        "daily_application": "Give yourself permission to stim when needed"
+      }
+    ]
+  },
+  "mental_health_support": {
+    "anxiety_management": [
+      {
+        "quote": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+        "author": "A.A. Milne",
+        "theme": "self_confidence",
+        "therapeutic_value": "Builds self-esteem and courage",
+        "daily_application": "Repeat before challenging situations",
+        "anxiety_specific": "Counters self-doubt and catastrophic thinking"
+      },
+      {
+        "quote": "Anxiety is the dizziness of freedom.",
+        "author": "Søren Kierkegaard",
+        "theme": "existential",
+        "therapeutic_value": "Reframes anxiety as awareness of possibilities",
+        "daily_application": "Remember anxiety can signal important choices",
+        "anxiety_specific": "Philosophical perspective on anxiety's meaning"
+      },
+      {
+        "quote": "The cave you fear to enter holds the treasure you seek.",
+        "author": "Joseph Campbell",
+        "theme": "courage",
+        "therapeutic_value": "Encourages facing fears for growth",
+        "daily_application": "Motivate yourself to face avoided situations",
+        "anxiety_specific": "Reframes avoidance as missing opportunities"
+      },
+      {
+        "quote": "Worrying does not take away tomorrow's troubles. It takes away today's peace.",
+        "author": "Unknown",
+        "theme": "present_moment",
+        "therapeutic_value": "Highlights cost of excessive worry",
+        "daily_application": "Redirect attention from future fears to present moment",
+        "anxiety_specific": "Challenges rumination and worry cycles"
+      },
+      {
+        "quote": "You don't have to control your thoughts. You just have to stop letting them control you.",
+        "author": "Dan Millman",
+        "theme": "mindfulness",
+        "therapeutic_value": "Promotes healthy relationship with thoughts",
+        "daily_application": "Practice observing thoughts without judgment",
+        "anxiety_specific": "Reduces power of anxious thoughts"
+      }
+    ],
+    "depression_support": [
+      {
+        "quote": "Even the darkest night will end and the sun will rise.",
+        "author": "Victor Hugo",
+        "theme": "hope",
+        "therapeutic_value": "Reminds that difficult times are temporary",
+        "daily_application": "Hold onto hope during dark periods",
+        "depression_specific": "Counters hopelessness and despair"
+      },
+      {
+        "quote": "You are not your illness. You have an individual story to tell. You have a name, a history, a personality. Staying yourself is part of the battle.",
+        "author": "Julian Seifter",
+        "theme": "identity",
+        "therapeutic_value": "Separates person from mental illness",
+        "daily_application": "Remember your identity beyond depression",
+        "depression_specific": "Prevents depression from defining entire self"
+      },
+      {
+        "quote": "The only way out is through.",
+        "author": "Robert Frost",
+        "theme": "perseverance",
+        "therapeutic_value": "Encourages facing difficult emotions",
+        "daily_application": "Remind yourself to process rather than avoid feelings",
+        "depression_specific": "Validates need to experience and work through depression"
+      },
+      {
+        "quote": "You have been assigned this mountain to show others it can be moved.",
+        "author": "Mel Robbins",
+        "theme": "purpose",
+        "therapeutic_value": "Finds meaning in struggle",
+        "daily_application": "Consider how your experience might help others",
+        "depression_specific": "Transforms suffering into potential service"
+      },
+      {
+        "quote": "Healing isn't about erasing the scars. It's about not letting them define your future.",
+        "author": "Unknown",
+        "theme": "recovery",
+        "therapeutic_value": "Redefines healing as growth rather than erasure",
+        "daily_application": "Accept your history while focusing on growth",
+        "depression_specific": "Acknowledges lasting impact while emphasizing recovery"
+      }
+    ],
+    "self_compassion": [
+      {
+        "quote": "Talk to yourself like you would to someone you love.",
+        "author": "Brené Brown",
+        "theme": "self_talk",
+        "therapeutic_value": "Promotes kind internal dialogue",
+        "daily_application": "Monitor and adjust self-talk throughout day",
+        "self_compassion": "Practical tool for developing self-kindness"
+      },
+      {
+        "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "author": "Buddha",
+        "theme": "self_love",
+        "therapeutic_value": "Validates need for self-care and self-love",
+        "daily_application": "Practice treating yourself with same care you give others",
+        "self_compassion": "Foundation for self-compassion practice"
+      },
+      {
+        "quote": "Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+        "author": "Stephen Covey",
+        "theme": "patience",
+        "therapeutic_value": "Encourages patience with personal growth process",
+        "daily_application": "Be gentle with yourself during difficult changes",
+        "self_compassion": "Validates slow, gradual nature of healing"
+      }
+    ]
+  },
+  "daily_wisdom": {
+    "morning_motivation": [
+      {
+        "quote": "Today is the first day of the rest of your life.",
+        "author": "Abbie Hoffman",
+        "theme": "new_beginnings",
+        "time_of_day": "morning",
+        "therapeutic_value": "Emphasizes fresh start potential",
+        "daily_application": "Begin each day with sense of possibility"
+      },
+      {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "theme": "action",
+        "time_of_day": "morning",
+        "therapeutic_value": "Motivates movement from planning to action",
+        "daily_application": "Choose one small action to begin your day"
+      },
+      {
+        "quote": "Every morning we are born again. What we do today matters most.",
+        "author": "Buddha",
+        "theme": "mindfulness",
+        "time_of_day": "morning",
+        "therapeutic_value": "Focuses attention on present day",
+        "daily_application": "Set intention for meaningful daily actions"
+      }
+    ],
+    "midday_reflection": [
+      {
+        "quote": "Progress, not perfection.",
+        "author": "Unknown",
+        "theme": "growth",
+        "time_of_day": "midday",
+        "therapeutic_value": "Reduces perfectionism pressure",
+        "daily_application": "Acknowledge small steps forward"
+      },
+      {
+        "quote": "You are exactly where you need to be.",
+        "author": "Unknown",
+        "theme": "acceptance",
+        "time_of_day": "midday",
+        "therapeutic_value": "Promotes acceptance of current circumstances",
+        "daily_application": "Practice gratitude for present moment"
+      }
+    ],
+    "evening_gratitude": [
+      {
+        "quote": "Gratitude turns what we have into enough.",
+        "author": "Unknown",
+        "theme": "gratitude",
+        "time_of_day": "evening",
+        "therapeutic_value": "Shifts focus from lack to abundance",
+        "daily_application": "List three things you're grateful for"
+      },
+      {
+        "quote": "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit.",
+        "author": "Ralph Marston",
+        "theme": "rest",
+        "time_of_day": "evening",
+        "therapeutic_value": "Validates need for rest and renewal",
+        "daily_application": "Give yourself permission to rest"
+      }
+    ]
+  },
+  "creativity_inspiration": [
+    {
+      "quote": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein",
+      "theme": "creativity",
+      "therapeutic_value": "Makes creativity accessible and joyful",
+      "daily_application": "Approach creative tasks with playfulness"
+    },
+    {
+      "quote": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "theme": "abundance",
+      "therapeutic_value": "Removes fear of creative depletion",
+      "daily_application": "Engage in creative activities without reservation"
+    },
+    {
+      "quote": "Every artist was first an amateur.",
+      "author": "Ralph Waldo Emerson",
+      "theme": "beginnings",
+      "therapeutic_value": "Normalizes learning process",
+      "daily_application": "Begin creative projects without expertise pressure"
+    }
+  ],
+  "resilience_building": [
+    {
+      "quote": "Fall seven times, stand up eight.",
+      "author": "Japanese Proverb",
+      "theme": "perseverance",
+      "therapeutic_value": "Emphasizes resilience over perfection",
+      "daily_application": "View setbacks as opportunities to practice resilience"
+    },
+    {
+      "quote": "The strongest people are not those who show strength in front of us, but those who win battles we know nothing about.",
+      "author": "Unknown",
+      "theme": "hidden_strength",
+      "therapeutic_value": "Validates invisible struggles",
+      "daily_application": "Acknowledge your own hidden battles and strength"
+    },
+    {
+      "quote": "You are more resilient than you realize, more capable than you imagine, and more loved than you know.",
+      "author": "Unknown",
+      "theme": "self_worth",
+      "therapeutic_value": "Builds confidence and self-esteem",
+      "daily_application": "Remind yourself of your inherent capabilities"
+    }
+  ],
+  "philosophical_wisdom": [
+    {
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "theme": "self_reflection",
+      "therapeutic_value": "Encourages introspection and self-awareness",
+      "daily_application": "Set aside time for self-reflection"
+    },
+    {
+      "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "theme": "habits",
+      "therapeutic_value": "Emphasizes power of consistent small actions",
+      "daily_application": "Focus on building positive daily habits"
+    },
+    {
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "theme": "humility",
+      "therapeutic_value": "Promotes intellectual humility and openness",
+      "daily_application": "Approach learning with beginner's mind"
+    }
+  ],
+  "nature_connection": [
+    {
+      "quote": "In every walk with nature, one receives far more than they seek.",
+      "author": "John Muir",
+      "theme": "nature_therapy",
+      "therapeutic_value": "Encourages nature connection for healing",
+      "daily_application": "Spend time outdoors, even briefly"
+    },
+    {
+      "quote": "Look deep into nature, and then you will understand everything better.",
+      "author": "Albert Einstein",
+      "theme": "understanding",
+      "therapeutic_value": "Suggests nature as source of wisdom",
+      "daily_application": "Observe natural patterns for life insights"
+    }
+  ],
+  "community_connection": [
+    {
+      "quote": "We rise by lifting others.",
+      "author": "Robert Ingersoll",
+      "theme": "service",
+      "therapeutic_value": "Finds meaning through helping others",
+      "daily_application": "Look for opportunities to support others"
+    },
+    {
+      "quote": "No one can whistle a symphony. It takes a whole orchestra to play it.",
+      "author": "H.E. Luccock",
+      "theme": "collaboration",
+      "therapeutic_value": "Emphasizes value of community and teamwork",
+      "daily_application": "Seek collaboration and community support"
+    }
+  ],
+  "themed_collections": {
+    "monday_motivation": [
+      "New week, new opportunities",
+      "Monday is a fresh start",
+      "This week, I choose growth over comfort"
+    ],
+    "wednesday_wisdom": [
+      "Halfway through means halfway to success",
+      "Progress is progress, no matter how small",
+      "Keep going, you're doing better than you think"
+    ],
+    "friday_reflection": [
+      "Celebrate this week's accomplishments",
+      "What did I learn about myself this week?",
+      "I am grateful for this week's experiences"
+    ],
+    "seasonal_inspiration": {
+      "spring": [
+        "Like flowers, we bloom in our own time",
+        "Growth requires both sunshine and rain",
+        "New beginnings are happening all around us"
+      ],
+      "summer": [
+        "Shine bright like the summer sun",
+        "Take time to enjoy life's simple pleasures",
+        "Let your energy flow freely"
+      ],
+      "autumn": [
+        "Change can be beautiful",
+        "Let go of what no longer serves you",
+        "Harvest the wisdom from your experiences"
+      ],
+      "winter": [
+        "Rest is not a luxury, it's a necessity",
+        "Find warmth in connection with others",
+        "Even in darkness, light exists within you"
+      ]
+    }
+  },
+  "accessibility_features": {
+    "large_text_versions": "All quotes available in large, easy-to-read fonts",
+    "audio_versions": "Text-to-speech compatible formatting",
+    "simple_language": "Complex quotes explained in simpler terms",
+    "visual_formats": "Quotes available as images with high contrast",
+    "categorization": "Organized by theme, mood, and therapeutic application",
+    "search_functionality": "Searchable by keyword, author, or theme",
+    "daily_delivery": "Automated daily quote delivery system",
+    "personalization": "Customizable based on individual needs and preferences"
+  },
+  "therapeutic_applications": {
+    "counseling_integration": {
+      "session_starters": "Quotes to begin therapy sessions",
+      "homework_assignments": "Quotes for reflection between sessions",
+      "coping_statements": "Quotes to use during difficult moments",
+      "affirmations": "Positive self-statements for daily practice"
+    },
+    "self_help_tools": {
+      "journaling_prompts": "Quotes as starting points for written reflection",
+      "meditation_focus": "Quotes as focal points for mindfulness practice",
+      "goal_setting": "Inspirational quotes for motivation and direction",
+      "crisis_support": "Immediately accessible quotes for difficult moments"
+    },
+    "educational_use": {
+      "classroom_inspiration": "Daily quotes for learning environments",
+      "discussion_starters": "Quotes to prompt meaningful conversations",
+      "character_education": "Quotes teaching values and ethics",
+      "cultural_awareness": "Quotes from diverse global perspectives"
+    }
+  },
+  "community_features": {
+    "user_submissions": "Platform for sharing personal favorite quotes",
+    "quote_discussions": "Community forums for discussing quote meanings",
+    "personal_collections": "Users can create custom quote collections",
+    "sharing_tools": "Easy sharing of quotes on social media",
+    "translation_support": "Quotes available in multiple languages",
+    "cultural_context": "Background information on quote origins and meanings"
+  }
+}

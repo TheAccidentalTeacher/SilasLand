@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "title": "Classic Literature Database",
+    "description": "Comprehensive collection of classic literature from around the world",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "total_works": 50,
+    "categories": ["American", "British", "Russian", "French", "German", "Japanese", "Spanish", "Italian", "Scandinavian", "Latin American"]
+  },
+  "american_literature": {
+    "19th_century": [
+      {
+        "id": "moby_dick",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": "Adventure/Philosophical Fiction",
+        "themes": ["obsession", "nature vs humanity", "fate", "isolation", "knowledge"],
+        "summary": "The epic tale of Captain Ahab's obsessive quest for revenge against the white whale that destroyed his leg. Narrated by Ishmael, the novel explores themes of fate, free will, and humanity's relationship with nature.",
+        "significance": "Considered one of the greatest American novels, exploring deep philosophical questions through adventure narrative.",
+        "famous_quotes": [
+          "Call me Ishmael.",
+          "It is better to fail in originality than to succeed in imitation.",
+          "I know not all that may be coming, but be it what it will, I'll go to it laughing."
+        ],
+        "characters": {
+          "main": ["Ishmael", "Captain Ahab", "Queequeg", "Starbuck"],
+          "description": "Complex characters representing different philosophical approaches to life and nature"
+        },
+        "accessibility_notes": "Dense philosophical passages may require patience; audio versions helpful for complex sections",
+        "neurodivergent_friendly": {
+          "adhd": "Long chapters may be challenging; consider reading in sections",
+          "autism": "Rich detail and systematic exploration of whaling may appeal to special interests",
+          "anxiety": "Some intense scenes; content warnings for violence and obsession themes"
+        }
+      },
+      {
+        "id": "scarlet_letter",
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "year": 1850,
+        "genre": "Historical Fiction/Romance",
+        "themes": ["sin and redemption", "guilt", "social judgment", "identity", "isolation"],
+        "summary": "Set in Puritan New England, the story follows Hester Prynne who bears a child out of wedlock and must wear a scarlet 'A' as punishment, exploring themes of sin, guilt, and redemption.",
+        "significance": "Masterpiece of American Romanticism, examining the psychological effects of sin and social ostracism.",
+        "famous_quotes": [
+          "No man, for any considerable period, can wear one face to himself and another to the multitude.",
+          "Every individual has a place to fill in the world and is important in some respect whether he chooses to be so or not."
+        ],
+        "characters": {
+          "main": ["Hester Prynne", "Arthur Dimmesdale", "Roger Chillingworth", "Pearl"],
+          "description": "Psychologically complex characters dealing with guilt, revenge, and social pressure"
+        },
+        "accessibility_notes": "Archaic language may be challenging; modern translations available",
+        "neurodivergent_friendly": {
+          "adhd": "Shorter than many classics; symbolic elements may aid memory",
+          "autism": "Clear moral themes and symbolic structure",
+          "anxiety": "Heavy themes of guilt and social judgment; may be triggering"
+        }
+      },
+      {
+        "id": "adventures_huckleberry_finn",
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "year": 1884,
+        "genre": "Adventure/Coming-of-age",
+        "themes": ["freedom", "friendship", "moral growth", "social criticism", "racism"],
+        "summary": "Huck Finn's journey down the Mississippi River with escaped slave Jim, exploring themes of friendship, moral development, and social criticism of pre-Civil War America.",
+        "significance": "Often called the 'Great American Novel,' pioneering use of vernacular speech and addressing racial issues.",
+        "famous_quotes": [
+          "All right, then, I'll go to hell.",
+          "It was fifteen minutes before I could work myself up to go and humble myself to a nigger; but I done it, and I warn't ever sorry for it afterwards, neither."
+        ],
+        "characters": {
+          "main": ["Huckleberry Finn", "Jim", "Tom Sawyer", "Pap Finn"],
+          "description": "Characters representing different aspects of American society and moral development"
+        },
+        "accessibility_notes": "Dialect may be challenging; audio versions help with pronunciation",
+        "neurodivergent_friendly": {
+          "adhd": "Adventure narrative maintains interest; episodic structure",
+          "autism": "Clear character development arc; may need context for historical language",
+          "anxiety": "Some violence and abuse themes; generally hopeful tone"
+        }
+      }
+    ],
+    "20th_century": [
+      {
+        "id": "great_gatsby",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Literary Fiction",
+        "themes": ["American Dream", "wealth and class", "love and obsession", "moral decay", "past vs present"],
+        "summary": "Nick Carraway narrates the story of his mysterious neighbor Jay Gatsby and his obsessive love for Daisy Buchanan, set against the backdrop of the Jazz Age.",
+        "significance": "Quintessential American novel capturing the excess and disillusionment of the 1920s.",
+        "famous_quotes": [
+          "So we beat on, boats against the current, borne back ceaselessly into the past.",
+          "I hope she'll be a fool—that's the best thing a girl can be in this world, a beautiful little fool."
+        ],
+        "characters": {
+          "main": ["Jay Gatsby", "Nick Carraway", "Daisy Buchanan", "Tom Buchanan"],
+          "description": "Characters representing different aspects of American society and the corruption of the American Dream"
+        },
+        "accessibility_notes": "Relatively short and accessible; rich symbolism",
+        "neurodivergent_friendly": {
+          "adhd": "Engaging plot with mystery elements; manageable length",
+          "autism": "Clear narrative structure; symbolic elements may need explanation",
+          "anxiety": "Some intense emotional scenes; themes of unrequited love"
+        }
+      },
+      {
+        "id": "to_kill_mockingbird",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Coming-of-age/Social Drama",
+        "themes": ["racial injustice", "moral courage", "loss of innocence", "empathy", "social class"],
+        "summary": "Scout Finch narrates her childhood in Depression-era Alabama, focusing on her father Atticus's defense of a Black man falsely accused of rape.",
+        "significance": "Powerful exploration of racial injustice and moral courage in the American South.",
+        "famous_quotes": [
+          "You never really understand a person until you consider things from his point of view... until you climb into his skin and walk around in it.",
+          "The one thing that doesn't abide by majority rule is a person's conscience."
+        ],
+        "characters": {
+          "main": ["Scout Finch", "Atticus Finch", "Jem Finch", "Boo Radley", "Tom Robinson"],
+          "description": "Characters representing different perspectives on justice, morality, and social change"
+        },
+        "accessibility_notes": "Clear narrative voice; some dialect and historical context needed",
+        "neurodivergent_friendly": {
+          "adhd": "Engaging child narrator; mystery subplot maintains interest",
+          "autism": "Clear moral lessons; Boo Radley character may resonate",
+          "anxiety": "Heavy themes of injustice; generally hopeful about human goodness"
+        }
+      }
+    ]
+  },
+  "british_literature": {
+    "19th_century": [
+      {
+        "id": "pride_prejudice",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance/Social Commentary",
+        "themes": ["love and marriage", "social class", "first impressions", "personal growth", "family"],
+        "summary": "Elizabeth Bennet navigates the complex social world of Regency England, particularly her evolving relationship with the proud Mr. Darcy.",
+        "significance": "Masterpiece of social comedy and romance, critiquing class structure and gender roles.",
+        "famous_quotes": [
+          "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "I declare after all there is no enjoyment like reading!"
+        ],
+        "characters": {
+          "main": ["Elizabeth Bennet", "Mr. Darcy", "Jane Bennet", "Mr. Bingley", "Mr. Bennet"],
+          "description": "Well-developed characters representing different approaches to love, marriage, and social expectations"
+        },
+        "accessibility_notes": "Formal language may require adjustment; excellent audio versions available",
+        "neurodivergent_friendly": {
+          "adhd": "Witty dialogue maintains interest; romantic plot provides motivation",
+          "autism": "Clear social rules and expectations; detailed character analysis",
+          "anxiety": "Generally light tone despite social pressures; happy ending"
+        }
+      },
+      {
+        "id": "jane_eyre",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "genre": "Gothic Romance/Bildungsroman",
+        "themes": ["independence", "equality", "religion", "social class", "love"],
+        "summary": "Orphaned Jane Eyre's journey from childhood hardship to independence, including her complex relationship with the brooding Mr. Rochester.",
+        "significance": "Revolutionary for its strong, independent female protagonist and exploration of women's rights.",
+        "famous_quotes": [
+          "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+          "Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?"
+        ],
+        "characters": {
+          "main": ["Jane Eyre", "Edward Rochester", "St. John Rivers", "Bertha Mason"],
+          "description": "Complex characters dealing with issues of power, equality, and moral choice"
+        },
+        "accessibility_notes": "Gothic elements and formal language; strong narrative voice",
+        "neurodivergent_friendly": {
+          "adhd": "Mystery and gothic elements maintain interest; episodic structure",
+          "autism": "Strong sense of justice and moral clarity; detailed descriptions",
+          "anxiety": "Some dark themes and gothic horror elements; ultimately empowering"
+        }
+      }
+    ],
+    "20th_century": [
+      {
+        "id": "1984",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian Fiction",
+        "themes": ["totalitarianism", "surveillance", "truth", "freedom", "language"],
+        "summary": "Winston Smith's struggle against the totalitarian regime of Big Brother in a dystopian future where thought itself is controlled.",
+        "significance": "Prophetic warning about totalitarianism and the manipulation of truth and language.",
+        "famous_quotes": [
+          "War is peace. Freedom is slavery. Ignorance is strength.",
+          "Big Brother is watching you.",
+          "If you want to keep a secret, you must also hide it from yourself."
+        ],
+        "characters": {
+          "main": ["Winston Smith", "Julia", "O'Brien", "Big Brother"],
+          "description": "Characters representing different responses to oppression and the struggle for individual freedom"
+        },
+        "accessibility_notes": "Clear prose but heavy themes; important historical context",
+        "neurodivergent_friendly": {
+          "adhd": "Compelling dystopian narrative; may be intense",
+          "autism": "Systematic exploration of totalitarian society; clear themes",
+          "anxiety": "Very dark themes; may be triggering for those sensitive to control/surveillance"
+        }
+      }
+    ]
+  },
+  "russian_literature": [
+    {
+      "id": "crime_punishment",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year": 1866,
+      "genre": "Psychological Fiction",
+      "themes": ["guilt", "redemption", "morality", "poverty", "psychology"],
+      "summary": "Raskolnikov, a poor student, commits murder and struggles with the psychological consequences, exploring themes of guilt, redemption, and moral responsibility.",
+      "significance": "Masterpiece of psychological realism, exploring the depths of human conscience and morality.",
+      "famous_quotes": [
+        "Pain and suffering are always inevitable for a large intelligence and a deep heart.",
+        "Can a man of perception respect himself at all?"
+      ],
+      "characters": {
+        "main": ["Raskolnikov", "Sonia", "Porfiry", "Dunya"],
+        "description": "Psychologically complex characters exploring themes of guilt, redemption, and moral responsibility"
+      },
+      "accessibility_notes": "Dense psychological exploration; Russian names may be challenging",
+      "neurodivergent_friendly": {
+        "adhd": "Intense psychological drama maintains interest; long but compelling",
+        "autism": "Deep character analysis; systematic exploration of moral questions",
+        "anxiety": "Heavy themes of guilt and mental anguish; may be triggering"
+      }
+    },
+    {
+      "id": "anna_karenina",
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "year": 1877,
+      "genre": "Realist Fiction",
+      "themes": ["love", "society", "family", "morality", "death"],
+      "summary": "Parallel stories of Anna Karenina's tragic affair and Levin's search for meaning, exploring Russian society and universal human experiences.",
+      "significance": "Epic exploration of love, society, and the human condition in 19th-century Russia.",
+      "famous_quotes": [
+        "Happy families are all alike; every unhappy family is unhappy in its own way.",
+        "If you look for perfection, you'll never be content."
+      ],
+      "characters": {
+        "main": ["Anna Karenina", "Vronsky", "Karenin", "Levin", "Kitty"],
+        "description": "Rich cast exploring different approaches to love, duty, and the search for meaning"
+      },
+      "accessibility_notes": "Very long novel; multiple plotlines; Russian cultural context helpful",
+      "neurodivergent_friendly": {
+        "adhd": "Multiple engaging plotlines; very long commitment required",
+        "autism": "Detailed social analysis; systematic exploration of relationships",
+        "anxiety": "Tragic elements; themes of social judgment and personal crisis"
+      }
+    }
+  ],
+  "french_literature": [
+    {
+      "id": "les_miserables",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "year": 1862,
+      "genre": "Historical Fiction",
+      "themes": ["justice", "redemption", "love", "social reform", "revolution"],
+      "summary": "Jean Valjean's journey from convict to saint, set against the backdrop of post-revolutionary France, exploring themes of justice, mercy, and social reform.",
+      "significance": "Epic novel of social justice and human redemption, influential in social reform movements.",
+      "famous_quotes": [
+        "Even the darkest night will end and the sun will rise.",
+        "To love another person is to see the face of God."
+      ],
+      "characters": {
+        "main": ["Jean Valjean", "Javert", "Fantine", "Cosette", "Marius"],
+        "description": "Characters representing different aspects of justice, mercy, and social change"
+      },
+      "accessibility_notes": "Very long with extensive historical digressions; abridged versions available",
+      "neurodivergent_friendly": {
+        "adhd": "Epic scope may be overwhelming; consider abridged version",
+        "autism": "Detailed historical context; clear moral themes",
+        "anxiety": "Heavy social themes but ultimately hopeful; some intense scenes"
+      }
+    }
+  ],
+  "german_literature": [
+    {
+      "id": "metamorphosis",
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "year": 1915,
+      "genre": "Absurdist Fiction",
+      "themes": ["alienation", "family", "identity", "modern life", "absurdity"],
+      "summary": "Gregor Samsa wakes up transformed into a giant insect, exploring themes of alienation, family dynamics, and the absurdity of modern existence.",
+      "significance": "Masterpiece of absurdist literature, exploring modern alienation and the human condition.",
+      "famous_quotes": [
+        "I cannot make you understand. I cannot make anyone understand what is happening inside me. I cannot even explain it to myself."
+      ],
+      "characters": {
+        "main": ["Gregor Samsa", "Grete Samsa", "Mr. and Mrs. Samsa"],
+        "description": "Family members dealing with transformation and its impact on relationships"
+      },
+      "accessibility_notes": "Short but psychologically intense; surreal elements",
+      "neurodivergent_friendly": {
+        "adhd": "Short length; bizarre premise maintains interest",
+        "autism": "May resonate with feelings of being different; family dynamics",
+        "anxiety": "Themes of isolation and family rejection may be triggering"
+      }
+    }
+  ],
+  "japanese_literature": [
+    {
+      "id": "tale_genji",
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "year": 1008,
+      "genre": "Classical Fiction",
+      "themes": ["love", "beauty", "impermanence", "court life", "Buddhism"],
+      "summary": "The life and loves of Prince Genji in Heian-era Japan, exploring themes of beauty, love, and the impermanence of life.",
+      "significance": "Often considered the world's first novel, masterpiece of Japanese literature.",
+      "famous_quotes": [
+        "The beauty of life is in small details, not the masses."
+      ],
+      "characters": {
+        "main": ["Prince Genji", "Murasaki", "Fujitsubo", "Aoi"],
+        "description": "Complex court characters exploring love, beauty, and social relationships"
+      },
+      "accessibility_notes": "Very long; cultural context essential; multiple translations available",
+      "neurodivergent_friendly": {
+        "adhd": "Episodic structure; very long commitment",
+        "autism": "Detailed court customs; systematic exploration of relationships",
+        "anxiety": "Generally gentle tone; themes of impermanence may be melancholy"
+      }
+    }
+  ]
+}

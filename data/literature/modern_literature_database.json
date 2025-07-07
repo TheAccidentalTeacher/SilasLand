@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "title": "Modern Literature Database",
+    "description": "Contemporary and 20th-21st century literature from diverse voices and perspectives",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "total_works": 40,
+    "focus": "Diverse voices, contemporary themes, accessibility-conscious selections"
+  },
+  "contemporary_fiction": [
+    {
+      "id": "beloved",
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year": 1987,
+      "genre": "Historical Fiction/Magical Realism",
+      "themes": ["slavery", "trauma", "memory", "motherhood", "healing"],
+      "summary": "Sethe, a former slave, is haunted by the ghost of her deceased daughter in post-Civil War Ohio, exploring the lasting trauma of slavery.",
+      "significance": "Pulitzer Prize winner, powerful exploration of slavery's psychological impact.",
+      "famous_quotes": [
+        "Freeing yourself was one thing, claiming ownership of that freed self was another.",
+        "She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order."
+      ],
+      "accessibility_notes": "Complex narrative structure; deals with heavy trauma themes",
+      "neurodivergent_friendly": {
+        "adhd": "Non-linear narrative may be challenging; powerful emotional content",
+        "autism": "Rich sensory details; may need content warnings for trauma",
+        "anxiety": "Heavy themes of trauma and violence; healing themes present"
+      }
+    },
+    {
+      "id": "things_fall_apart",
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year": 1958,
+      "genre": "Postcolonial Fiction",
+      "themes": ["colonialism", "tradition vs change", "masculinity", "culture", "identity"],
+      "summary": "Okonkwo's story in pre-colonial Nigeria and the arrival of European colonizers, exploring the clash between traditional and colonial cultures.",
+      "significance": "Seminal work of African literature, challenging Western narratives about Africa.",
+      "famous_quotes": [
+        "Until the lions have their own historians, the history of the hunt will always glorify the hunter."
+      ],
+      "accessibility_notes": "Includes Igbo cultural context; glossary helpful",
+      "neurodivergent_friendly": {
+        "adhd": "Clear narrative structure; cultural details maintain interest",
+        "autism": "Detailed cultural practices; systematic exploration of social change",
+        "anxiety": "Some violence; themes of cultural destruction may be distressing"
+      }
+    },
+    {
+      "id": "hundred_years_solitude",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "genre": "Magical Realism",
+      "themes": ["family", "history", "solitude", "time", "Latin American identity"],
+      "summary": "Multi-generational saga of the Buendía family in the fictional town of Macondo, blending reality with magical elements.",
+      "significance": "Masterpiece of magical realism, Nobel Prize winner.",
+      "famous_quotes": [
+        "It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dreams."
+      ],
+      "accessibility_notes": "Complex family tree; magical realism elements; character guide helpful",
+      "neurodivergent_friendly": {
+        "adhd": "Episodic structure; magical elements maintain interest",
+        "autism": "Repetitive patterns and cycles; detailed family relationships",
+        "anxiety": "Some dark themes; cyclical nature may be comforting or distressing"
+      }
+    }
+  ],
+  "diverse_voices": [
+    {
+      "id": "joy_luck_club",
+      "title": "The Joy Luck Club",
+      "author": "Amy Tan",
+      "year": 1989,
+      "genre": "Family Saga",
+      "themes": ["mother-daughter relationships", "cultural identity", "immigration", "generational differences"],
+      "summary": "Four Chinese-American women and their daughters navigate cultural identity and family relationships across generations.",
+      "significance": "Important work exploring Asian-American experience and intergenerational relationships.",
+      "accessibility_notes": "Multiple perspectives; cultural context enhances understanding",
+      "neurodivergent_friendly": {
+        "adhd": "Multiple short stories; varied perspectives maintain interest",
+        "autism": "Clear family relationships; cultural traditions and customs",
+        "anxiety": "Some family conflict; ultimately about connection and understanding"
+      }
+    },
+    {
+      "id": "house_mango_street",
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "year": 1984,
+      "genre": "Coming-of-age/Vignettes",
+      "themes": ["identity", "poverty", "gender", "community", "dreams"],
+      "summary": "Young Esperanza's experiences growing up in a Latino neighborhood in Chicago, told through interconnected vignettes.",
+      "significance": "Important Chicana literature, accessible exploration of identity and community.",
+      "accessibility_notes": "Short vignettes; accessible language; bilingual elements",
+      "neurodivergent_friendly": {
+        "adhd": "Very short chapters; poetic language; manageable length",
+        "autism": "Clear neighborhood setting; systematic exploration of community",
+        "anxiety": "Some difficult themes but hopeful tone; short format less overwhelming"
+      }
+    },
+    {
+      "id": "color_purple",
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "year": 1982,
+      "genre": "Epistolary Fiction",
+      "themes": ["abuse", "sisterhood", "spirituality", "empowerment", "love"],
+      "summary": "Celie's journey from abuse to empowerment in the rural South, told through letters to God and her sister.",
+      "significance": "Pulitzer Prize winner, powerful story of resilience and sisterhood.",
+      "famous_quotes": [
+        "I think it pisses God off if you walk by the color purple in a field somewhere and don't notice it."
+      ],
+      "accessibility_notes": "Dialect and letter format; heavy themes require content warnings",
+      "neurodivergent_friendly": {
+        "adhd": "Letter format creates natural breaks; emotional intensity",
+        "autism": "Clear character development; may need content warnings",
+        "anxiety": "Heavy abuse themes; ultimately empowering and healing"
+      }
+    }
+  ],
+  "neurodivergent_authors": [
+    {
+      "id": "curious_incident",
+      "title": "The Curious Incident of the Dog in the Night-Time",
+      "author": "Mark Haddon",
+      "year": 2003,
+      "genre": "Mystery/Coming-of-age",
+      "themes": ["autism", "family", "truth", "independence", "perspective"],
+      "summary": "Christopher, a teenager with autism, investigates the death of a neighbor's dog, uncovering family secrets.",
+      "significance": "Popular novel featuring autistic protagonist, though author's representation is debated.",
+      "accessibility_notes": "First-person autistic perspective; mathematical and logical elements",
+      "neurodivergent_friendly": {
+        "adhd": "Mystery format maintains interest; clear logical progression",
+        "autism": "Autistic protagonist; systematic problem-solving approach",
+        "anxiety": "Some family conflict; generally empowering for neurodivergent readers"
+      }
+    },
+    {
+      "id": "flowers_algernon",
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "year": 1966,
+      "genre": "Science Fiction/Literary Fiction",
+      "themes": ["intelligence", "humanity", "dignity", "friendship", "ethics"],
+      "summary": "Charlie Gordon undergoes experimental surgery to increase his intelligence, exploring what it means to be human.",
+      "significance": "Hugo and Nebula Award winner, profound exploration of intelligence and humanity.",
+      "accessibility_notes": "Changing writing style reflects character's development; emotional intensity",
+      "neurodivergent_friendly": {
+        "adhd": "Compelling premise; emotional engagement maintains interest",
+        "autism": "Systematic exploration of intelligence and social relationships",
+        "anxiety": "Tragic elements; themes of acceptance and dignity"
+      }
+    }
+  ],
+  "contemporary_global": [
+    {
+      "id": "persepolis",
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "year": 2000,
+      "genre": "Graphic Memoir",
+      "themes": ["revolution", "identity", "exile", "growing up", "politics"],
+      "summary": "Graphic memoir of growing up during the Islamic Revolution in Iran and subsequent exile.",
+      "significance": "Important graphic memoir combining personal and political history.",
+      "accessibility_notes": "Graphic novel format; visual storytelling aids comprehension",
+      "neurodivergent_friendly": {
+        "adhd": "Visual format; episodic structure; engaging historical content",
+        "autism": "Clear visual narrative; historical context and political systems",
+        "anxiety": "Some political violence; ultimately about resilience and identity"
+      }
+    },
+    {
+      "id": "kite_runner",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "year": 2003,
+      "genre": "Historical Fiction",
+      "themes": ["friendship", "guilt", "redemption", "Afghanistan", "class"],
+      "summary": "Amir's journey to redeem himself for betraying his childhood friend Hassan, set against Afghanistan's tumultuous history.",
+      "significance": "Popular novel bringing Afghan culture and history to Western readers.",
+      "accessibility_notes": "Some Dari/Pashto terms; historical context helpful",
+      "neurodivergent_friendly": {
+        "adhd": "Compelling guilt/redemption narrative; historical interest",
+        "autism": "Clear moral themes; detailed cultural context",
+        "anxiety": "Heavy themes of guilt and violence; redemptive arc"
+      }
+    }
+  ],
+  "science_fiction_fantasy": [
+    {
+      "id": "left_hand_darkness",
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "year": 1969,
+      "genre": "Science Fiction",
+      "themes": ["gender", "politics", "alienation", "communication", "society"],
+      "summary": "Envoy Genly Ai visits a planet where inhabitants can change gender, exploring themes of gender, politics, and communication.",
+      "significance": "Groundbreaking exploration of gender and society in science fiction.",
+      "accessibility_notes": "Complex world-building; gender concepts may require adjustment",
+      "neurodivergent_friendly": {
+        "adhd": "Unique premise maintains interest; political intrigue",
+        "autism": "Systematic world-building; detailed alien culture",
+        "anxiety": "Some political tension; ultimately about understanding and communication"
+      }
+    },
+    {
+      "id": "parable_sower",
+      "title": "Parable of the Sower",
+      "author": "Octavia Butler",
+      "year": 1993,
+      "genre": "Dystopian Science Fiction",
+      "themes": ["survival", "community", "religion", "climate change", "leadership"],
+      "summary": "Lauren Olamina develops a new religion while surviving in a climate-changed, dystopian America.",
+      "significance": "Prescient dystopian novel by groundbreaking African-American science fiction author.",
+      "accessibility_notes": "Intense dystopian themes; strong female protagonist",
+      "neurodivergent_friendly": {
+        "adhd": "Survival narrative maintains tension; compelling world-building",
+        "autism": "Systematic development of new religion/philosophy; clear leadership themes",
+        "anxiety": "Dark dystopian themes; ultimately about hope and community building"
+      }
+    }
+  ],
+  "young_adult_crossover": [
+    {
+      "id": "hate_u_give",
+      "title": "The Hate U Give",
+      "author": "Angie Thomas",
+      "year": 2017,
+      "genre": "Young Adult/Social Issues",
+      "themes": ["police brutality", "identity", "activism", "family", "code-switching"],
+      "summary": "Starr Carter witnesses the police shooting of her childhood friend and finds her voice as an activist.",
+      "significance": "Important contemporary novel addressing police brutality and racial justice.",
+      "accessibility_notes": "Contemporary language; relevant social issues",
+      "neurodivergent_friendly": {
+        "adhd": "Contemporary setting; engaging social justice themes",
+        "autism": "Clear moral issues; systematic exploration of identity and activism",
+        "anxiety": "Heavy themes of violence and injustice; empowering activism message"
+      }
+    }
+  ]
+}

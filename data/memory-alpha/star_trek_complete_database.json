@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "title": "Star Trek Complete Database - Memory Alpha Portal",
+    "description": "Comprehensive Star Trek universe database covering all series, films, characters, and themes",
+    "version": "1.0",
+    "last_updated": "2025-07-06",
+    "total_series": 11,
+    "total_films": 13,
+    "focus": "Philosophy, science, diversity, accessibility, and therapeutic value"
+  },
+  "series": {
+    "the_original_series": {
+      "title": "Star Trek: The Original Series",
+      "abbreviation": "TOS",
+      "years": "1966-1969",
+      "seasons": 3,
+      "episodes": 79,
+      "setting": "23rd century, USS Enterprise NCC-1701",
+      "captain": "James T. Kirk",
+      "significance": "Groundbreaking series that launched the franchise, promoted diversity and social progress",
+      "main_characters": {
+        "kirk": {
+          "name": "Captain James T. Kirk",
+          "actor": "William Shatner",
+          "traits": ["leadership", "diplomacy", "intuition", "courage"],
+          "character_development": "Learns to balance emotion and logic through friendship with Spock"
+        },
+        "spock": {
+          "name": "Mr. Spock",
+          "actor": "Leonard Nimoy",
+          "species": "Half-Vulcan, half-human",
+          "traits": ["logic", "loyalty", "internal conflict", "wisdom"],
+          "neurodivergent_representation": "Logical thinking, difficulty with emotions, outsider perspective",
+          "significance": "First major alien character, represents logic vs emotion balance"
+        },
+        "mccoy": {
+          "name": "Dr. Leonard McCoy",
+          "actor": "DeForest Kelley",
+          "nickname": "Bones",
+          "traits": ["compassion", "emotion", "medical ethics", "humanity"],
+          "role": "Emotional counterbalance to Spock's logic"
+        }
+      },
+      "key_episodes": [
+        {
+          "title": "The City on the Edge of Forever",
+          "season": 1,
+          "episode": 28,
+          "themes": ["time travel", "sacrifice", "love", "destiny"],
+          "significance": "Often cited as best Trek episode, explores sacrifice for greater good",
+          "therapeutic_value": "Deals with loss and difficult choices"
+        },
+        {
+          "title": "The Trouble with Tribbles",
+          "season": 2,
+          "episode": 15,
+          "themes": ["humor", "unintended consequences", "bureaucracy"],
+          "significance": "Beloved comedy episode showing Trek's lighter side",
+          "accessibility": "Light-hearted, easy to follow, good introduction episode"
+        },
+        {
+          "title": "Let That Be Your Last Battlefield",
+          "season": 3,
+          "episode": 15,
+          "themes": ["racism", "prejudice", "futility of hatred"],
+          "significance": "Powerful allegory about racial prejudice",
+          "discussion_points": "Excellent for conversations about discrimination"
+        }
+      ],
+      "social_impact": {
+        "diversity": "First interracial kiss on television, diverse crew",
+        "cold_war": "Promoted cooperation during tense political times",
+        "civil_rights": "Addressed racism and social justice issues",
+        "women": "Uhura as communications officer broke barriers"
+      },
+      "therapeutic_themes": {
+        "friendship": "Kirk-Spock-McCoy trinity models healthy relationships",
+        "logic_vs_emotion": "Balance between rational and emotional responses",
+        "diversity": "Acceptance of differences and alien perspectives",
+        "exploration": "Curiosity and wonder about the unknown"
+      }
+    },
+    "the_next_generation": {
+      "title": "Star Trek: The Next Generation",
+      "abbreviation": "TNG",
+      "years": "1987-1994",
+      "seasons": 7,
+      "episodes": 178,
+      "setting": "24th century, USS Enterprise NCC-1701-D",
+      "captain": "Jean-Luc Picard",
+      "significance": "Successful revival of Trek, more philosophical and diplomatic approach",
+      "main_characters": {
+        "picard": {
+          "name": "Captain Jean-Luc Picard",
+          "actor": "Patrick Stewart",
+          "traits": ["diplomacy", "archaeology", "literature", "moral authority"],
+          "leadership_style": "Thoughtful, collaborative, intellectual",
+          "neurodivergent_friendly": "Methodical approach, values expertise and knowledge"
+        },
+        "data": {
+          "name": "Lt. Commander Data",
+          "actor": "Brent Spiner",
+          "species": "Android",
+          "quest": "Understanding humanity and emotions",
+          "neurodivergent_representation": "Literal thinking, social learning, different processing",
+          "significance": "Explores what makes us human through artificial perspective"
+        },
+        "worf": {
+          "name": "Lt. Worf",
+          "actor": "Michael Dorn",
+          "species": "Klingon",
+          "role": "Security Chief",
+          "character_arc": "Balancing Klingon heritage with Starfleet values",
+          "themes": ["honor", "duty", "cultural identity", "adoption"]
+        },
+        "geordi": {
+          "name": "Lt. Commander Geordi La Forge",
+          "actor": "LeVar Burton",
+          "disability": "Born blind, uses VISOR technology",
+          "significance": "Positive disability representation, chief engineer",
+          "accessibility": "Shows technology can enhance rather than limit abilities"
+        }
+      },
+      "key_episodes": [
+        {
+          "title": "The Measure of a Man",
+          "season": 2,
+          "episode": 9,
+          "themes": ["artificial intelligence", "rights", "consciousness", "slavery"],
+          "significance": "Explores Data's rights as artificial being",
+          "philosophical_depth": "Questions nature of consciousness and personhood",
+          "neurodivergent_themes": "Validates different types of intelligence and consciousness"
+        },
+        {
+          "title": "In Theory",
+          "season": 4,
+          "episode": 25,
+          "themes": ["relationships", "emotions", "learning social cues"],
+          "significance": "Data attempts romantic relationship",
+          "neurodivergent_value": "Explores learning social and emotional skills"
+        },
+        {
+          "title": "The Inner Light",
+          "season": 5,
+          "episode": 25,
+          "themes": ["memory", "life experience", "legacy", "time"],
+          "significance": "Picard lives entire lifetime in 25 minutes",
+          "therapeutic_value": "Explores meaning of life and memory"
+        }
+      ],
+      "philosophical_themes": {
+        "prime_directive": "Non-interference in developing civilizations",
+        "diplomacy_first": "Peaceful solutions preferred over violence",
+        "diversity": "Infinite diversity in infinite combinations",
+        "growth": "Continuous learning and self-improvement"
+      },
+      "therapeutic_applications": {
+        "autism": "Data's journey resonates with social learning challenges",
+        "adhd": "Varied episode formats maintain interest",
+        "anxiety": "Positive future vision provides hope",
+        "depression": "Themes of growth, purpose, and belonging"
+      }
+    },
+    "deep_space_nine": {
+      "title": "Star Trek: Deep Space Nine",
+      "abbreviation": "DS9",
+      "years": "1993-1999",
+      "seasons": 7,
+      "episodes": 176,
+      "setting": "24th century, Deep Space Nine station",
+      "commander": "Benjamin Sisko",
+      "significance": "Darker, more serialized Trek exploring war, religion, and moral complexity",
+      "main_characters": {
+        "sisko": {
+          "name": "Captain Benjamin Sisko",
+          "actor": "Avery Brooks",
+          "role": "Station commander, Emissary to the Prophets",
+          "significance": "First Black Star Trek captain, complex moral character",
+          "character_development": "Evolves from reluctant commander to passionate leader"
+        },
+        "odo": {
+          "name": "Odo",
+          "actor": "René Auberjonois",
+          "species": "Changeling",
+          "role": "Security Chief",
+          "neurodivergent_themes": "Outsider perspective, rigid thinking, justice-focused",
+          "character_arc": "Learning about identity and belonging"
+        },
+        "dax": {
+          "name": "Jadzia Dax / Ezri Dax",
+          "actors": "Terry Farrell / Nicole de Boer",
+          "species": "Trill (joined symbiont)",
+          "significance": "Explores gender, identity, and continuity of self",
+          "themes": ["memory", "identity", "relationships across lifetimes"]
+        }
+      },
+      "complex_themes": {
+        "war": "Dominion War explores cost and morality of conflict",
+        "religion": "Bajoran spirituality and Sisko's role as Emissary",
+        "moral_ambiguity": "Characters make difficult choices with no clear answers",
+        "colonialism": "Bajoran occupation parallels real-world struggles"
+      },
+      "therapeutic_value": {
+        "trauma": "Post-occupation Bajor deals with collective trauma",
+        "identity": "Multiple characters explore questions of identity",
+        "community": "Station as found family for diverse characters",
+        "moral_complexity": "Validates that right choices aren't always clear"
+      }
+    },
+    "voyager": {
+      "title": "Star Trek: Voyager",
+      "abbreviation": "VOY",
+      "years": "1995-2001",
+      "seasons": 7,
+      "episodes": 172,
+      "setting": "24th century, USS Voyager lost in Delta Quadrant",
+      "captain": "Kathryn Janeway",
+      "significance": "First female Star Trek captain, exploration of unknown space",
+      "main_characters": {
+        "janeway": {
+          "name": "Captain Kathryn Janeway",
+          "actor": "Kate Mulgrew",
+          "significance": "First female Star Trek captain",
+          "leadership_style": "Maternal, scientific, adaptable",
+          "character_traits": ["determination", "scientific curiosity", "moral flexibility"]
+        },
+        "seven_of_nine": {
+          "name": "Seven of Nine",
+          "actor": "Jeri Ryan",
+          "background": "Former Borg drone",
+          "character_arc": "Reclaiming humanity after collective experience",
+          "neurodivergent_themes": "Social learning, literal thinking, processing differences",
+          "significance": "Explores trauma recovery and social integration"
+        },
+        "doctor": {
+          "name": "The Doctor (EMH)",
+          "actor": "Robert Picardo",
+          "nature": "Emergency Medical Hologram",
+          "character_development": "AI developing personality and rights",
+          "themes": ["artificial consciousness", "medical ethics", "growth"]
+        }
+      },
+      "isolation_themes": {
+        "lost_in_space": "Crew stranded 70,000 light-years from home",
+        "found_family": "Crew becomes family through shared struggle",
+        "adaptation": "Learning to survive in unknown circumstances",
+        "hope": "Maintaining optimism despite long journey home"
+      },
+      "therapeutic_applications": {
+        "isolation": "Validates feelings of being far from home/support",
+        "trauma_recovery": "Seven's journey from Borg collective",
+        "adaptation": "Learning to cope with unexpected circumstances",
+        "female_leadership": "Positive representation of women in authority"
+      }
+    },
+    "discovery": {
+      "title": "Star Trek: Discovery",
+      "abbreviation": "DIS",
+      "years": "2017-present",
+      "seasons": 5,
+      "setting": "23rd/32nd century, USS Discovery",
+      "significance": "Modern Trek with diverse cast and contemporary storytelling",
+      "main_characters": {
+        "burnham": {
+          "name": "Michael Burnham",
+          "actor": "Sonequa Martin-Green",
+          "significance": "First Black female lead in Star Trek",
+          "character_arc": "Redemption and growth after mutiny",
+          "traits": ["logic", "emotion", "determination", "growth"]
+        },
+        "stamets": {
+          "name": "Paul Stamets",
+          "actor": "Anthony Rapp",
+          "role": "Science Officer",
+          "significance": "First openly gay main character in Star Trek",
+          "relationship": "Married to Dr. Hugh Culber"
+        }
+      },
+      "modern_themes": {
+        "lgbtq_representation": "Multiple LGBTQ+ characters and relationships",
+        "mental_health": "Explicit discussions of trauma and therapy",
+        "diversity": "Most diverse cast in Star Trek history",
+        "serialized_storytelling": "Season-long arcs with character development"
+      }
+    }
+  },
+  "core_philosophy": {
+    "infinite_diversity": {
+      "principle": "Infinite Diversity in Infinite Combinations (IDIC)",
+      "meaning": "Celebrating differences and finding strength in diversity",
+      "applications": ["species diversity", "cultural acceptance", "neurodiversity"],
+      "therapeutic_value": "Validates different ways of being and thinking"
+    },
+    "prime_directive": {
+      "principle": "Non-interference with developing civilizations",
+      "ethical_complexity": "Sometimes conflicts with helping others",
+      "real_world_parallel": "Respecting cultural differences and autonomy",
+      "discussion_topics": "When is intervention justified?"
+    },
+    "post_scarcity_society": {
+      "concept": "Material needs met, focus on personal growth",
+      "implications": "Work for fulfillment, not survival",
+      "therapeutic_value": "Envisions world without economic anxiety",
+      "accessibility": "Technology serves all people equally"
+    },
+    "peaceful_exploration": {
+      "mission": "Seek out new life and new civilizations",
+      "approach": "Diplomacy and understanding over conquest",
+      "scientific_method": "Learning through observation and interaction",
+      "wonder": "Maintaining curiosity about the unknown"
+    }
+  },
+  "science_and_technology": {
+    "theoretical_physics": {
+      "warp_drive": "Faster-than-light travel through space-time manipulation",
+      "transporters": "Matter-energy conversion and transmission",
+      "time_travel": "Temporal mechanics and causality",
+      "parallel_universes": "Mirror universe and alternate timelines"
+    },
+    "medical_advances": {
+      "tricorders": "Non-invasive medical scanning",
+      "regeneration": "Healing technology and organ replacement",
+      "mental_health": "Counselors integrated into command structure",
+      "disability_accommodation": "Technology enhances rather than limits"
+    },
+    "artificial_intelligence": {
+      "data": "Positronic brain and quest for humanity",
+      "doctor": "Holographic consciousness and rights",
+      "computer": "Ship AI and human-computer interaction",
+      "ethics": "Rights and consciousness of artificial beings"
+    }
+  },
+  "therapeutic_applications": {
+    "neurodivergent_representation": {
+      "spock": "Logic-focused thinking, emotional processing differences",
+      "data": "Literal interpretation, social learning challenges",
+      "seven_of_nine": "Social reintegration after trauma",
+      "odo": "Outsider perspective, rigid thinking patterns"
+    },
+    "mental_health_themes": {
+      "counselor_troi": "Mental health professional as bridge officer",
+      "ptsd": "Characters dealing with war trauma and recovery",
+      "identity": "Questions of self and belonging across species",
+      "growth": "Continuous personal development and learning"
+    },
+    "social_skills_modeling": {
+      "diplomacy": "Peaceful conflict resolution techniques",
+      "teamwork": "Bridge crew collaboration and communication",
+      "leadership": "Different leadership styles across captains",
+      "friendship": "Deep bonds across species and backgrounds"
+    },
+    "hope_and_optimism": {
+      "future_vision": "Positive view of humanity's potential",
+      "problem_solving": "Technical and social challenges overcome",
+      "diversity_celebration": "Differences as strengths",
+      "exploration": "Wonder and curiosity about the universe"
+    }
+  },
+  "accessibility_features": {
+    "visual_accessibility": {
+      "audio_descriptions": "Available for most series and films",
+      "closed_captions": "Comprehensive subtitle options",
+      "visual_storytelling": "Strong visual elements support narrative"
+    },
+    "cognitive_accessibility": {
+      "episode_guides": "Summaries and analysis available",
+      "character_guides": "Detailed character information and development",
+      "theme_exploration": "Discussion guides for complex topics",
+      "pacing_options": "Different series offer different pacing styles"
+    },
+    "neurodivergent_friendly": {
+      "predictable_structure": "Episodic format provides routine",
+      "special_interests": "Deep lore and technical details",
+      "social_learning": "Character interactions model social skills",
+      "sensory_considerations": "Generally low sensory overwhelm"
+    }
+  },
+  "community_resources": {
+    "online_communities": {
+      "reddit": "r/startrek, r/DaystromInstitute for deep discussions",
+      "discord": "Multiple Star Trek fan servers",
+      "forums": "TrekBBS, official Star Trek forums"
+    },
+    "educational_resources": {
+      "science_education": "Real science behind Trek technology",
+      "philosophy_courses": "Ethics and philosophy in Star Trek",
+      "language_learning": "Klingon and other constructed languages",
+      "cultural_studies": "Diversity and representation analysis"
+    },
+    "therapeutic_communities": {
+      "neurodivergent_fans": "Communities celebrating Trek's neurodivergent characters",
+      "lgbtq_trekkies": "LGBTQ+ Star Trek fan groups",
+      "mental_health": "Using Trek themes for mental health discussions",
+      "disability_advocacy": "Accessibility and representation in Trek"
+    }
+  },
+  "viewing_guides": {
+    "beginner_friendly": {
+      "entry_points": ["TNG: The Measure of a Man", "TOS: The Trouble with Tribbles"],
+      "avoid_initially": ["Complex mythology episodes", "Season 1 TNG"],
+      "best_introductions": ["Self-contained episodes with clear themes"]
+    },
+    "neurodivergent_considerations": {
+      "adhd": ["Action-oriented episodes", "Shorter attention span accommodations"],
+      "autism": ["Character-focused episodes", "Clear moral themes"],
+      "anxiety": ["Avoid intense conflict episodes initially", "Focus on hopeful themes"]
+    },
+    "therapeutic_viewing": {
+      "depression": ["Episodes about hope and growth", "Found family themes"],
+      "trauma": ["Recovery and healing narratives", "Community support themes"],
+      "identity": ["Character development arcs", "Acceptance and belonging stories"]
+    }
+  }
+}
